@@ -5,6 +5,7 @@ collection: portfolio
 date: 2026-06-15
 ---
 
+**Project Repository (Google Drive):** [View Notebooks & Data](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)  
 **Tech Stack:** Python, CTGAN, ctdGAN, Scikit-Learn, Differential Privacy  
 
 ### Overview
