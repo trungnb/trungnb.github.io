@@ -40,7 +40,7 @@ redirect_from:
 * **Second Prize, Annual Scientific Research Competition** (2022) — Thai Thuong Hoang Hospital. Project on sagittal skeletal relationships and orthognathic surgery need.
 
 ## Software & AI Platforms
-* **PeriApicaI**: Clinical AI dental radiography training platform ([periapical.ai.studio](https://periapical.ai.studio)).
+* **[PeriApicaI](https://periapical.ai.studio)**: Clinical AI dental radiography training platform.
 * **3D Craniofacial Shape Analysis**: Deep learning segmentation with TotalSegmentator.
 * **Medical Tabular Data Synthesis**: CTGAN & CTDGAN for medical demographic distributions.
 
