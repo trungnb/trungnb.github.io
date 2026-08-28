@@ -43,9 +43,10 @@ redirect_from:
 * **Second Prize, Annual Scientific Research Competition** (2022) — Thai Thuong Hoang Hospital. Project on sagittal skeletal relationships and orthognathic surgery need.
 
 ## Software & AI Platforms
-* **[PeriApicaI](https://periapical.ai.studio)**: Clinical AI dental radiography training platform.
-* **3D Craniofacial Shape Analysis**: Deep learning segmentation with TotalSegmentator.
-* **Medical Tabular Data Synthesis**: CTGAN & ctdGAN for medical demographic distributions.
+* **[PeriApicaI](https://periapical.ai.studio)** (Aug 2026): Clinical AI dental radiography training platform.
+* **Dental CEJ Morphometrics** (Jul 2026): Quantitative Python workflow for crown-root ratios and CEJ identification.
+* **3D Craniofacial Shape Analysis** (Jul 2026): Deep learning segmentation with TotalSegmentator.
+* **Medical Tabular Data Synthesis** (Jun 2026): CTGAN & ctdGAN for medical demographic distributions.
 
 ## Teaching & Supervision
 * **Undergraduate Clinical Research Mentor** (2024 – 2025) — Faculty of Dentistry, UMP HCMC. Supervised 5 dental students in radiology research methodology.
