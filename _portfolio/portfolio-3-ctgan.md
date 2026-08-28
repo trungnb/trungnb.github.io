@@ -1,0 +1,10 @@
+---
+title: "Medical Tabular Data Synthesis (CTGAN & CTDGAN)"
+excerpt: "Conditional Tabular GANs for generating privacy-preserving synthetic demographic medical data.<br/><img src='https://img.shields.io/badge/Tech-Generative_AI_%7C_CTGAN-green'>"
+collection: portfolio
+---
+
+**Tech Stack:** Python, CTGAN, CTDGAN, Scikit-Learn, Differential Privacy  
+
+### Overview
+Applied Conditional Tabular Generative Adversarial Networks (CTGAN) and Differential Privacy-enhanced GANs to generate high-fidelity synthetic demographic datasets (Age, Race, Sex distributions) to support medical research without exposing sensitive patient health information.
