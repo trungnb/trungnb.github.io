@@ -24,7 +24,7 @@ author:
   orcid            : "https://orcid.org/0009-0007-7341-8925"
 
   # Software
-  github           : "https://github.com/trungnb"
+  github           : "trungnb"
 
 # Site Settings
 markdown                 : kramdown
