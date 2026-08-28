@@ -9,11 +9,11 @@ date: 2026-07-28
 **Tech Stack:** Python, Jupyter, Scikit-Image, Pandas, Data Visualization
 
 ### Overview
-This project provides a robust quantitative analysis workflow designed to calculate **Crown-Root ratios** and automatically identify the **Cementoenamel Junction (CEJ)** and pulp dimensions from 3D dental radiographic models (NIfTI).
+A proof-of-concept Python script designed to test algorithmic approaches for isolating teeth from NIfTI files, identifying the Cementoenamel Junction (CEJ), and calculating basic Crown-Root ratios. This script serves as an exploratory tool for 3D morphological analysis in endodontics and orthodontics.
 
-### Key Features
-* **Automated Landmark Identification:** Algorithmic approaches to detect the CEJ boundary on processed 3D tooth segmentations.
-* **Ratio Calculations:** Precise measurement workflows for crown-root morphometrics used in clinical studies and implant planning.
-* **Volumetric Pulp Analysis:** Extracted feature dimensions of the dental pulp cavity using multi-planar projections.
+### Current Capabilities Tested
+* **Landmark Identification:** Testing basic algorithms to detect the CEJ boundary on 3D tooth segmentations.
+* **Ratio Calculations:** Scripting measurement steps for crown-root ratios.
+* **Volumetric Pulp Analysis:** Preliminary extraction of dental pulp cavity dimensions.
 
-This computational pipeline acts as the quantitative backend for clinical morphometric research, significantly reducing manual measurement errors in CBCT analysis.
+This project is currently in the experimental stage, acting as a sandbox to explore how automated Python scripts might eventually assist in morphometric research.

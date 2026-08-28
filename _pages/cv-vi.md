@@ -42,9 +42,9 @@ author_profile: true
 
 ## Phần mềm & Nền tảng AI (Software & AI Platforms)
 * **[PeriApicaI](https://periapical.ai.studio)** (Aug 2026): Clinical AI dental radiography training platform.
-* **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Jul 2026): Quantitative Python workflow for crown-root ratios and CEJ identification.
-* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Jul 2026): Deep learning segmentation with TotalSegmentator.
-* **[Medical Tabular Data Synthesis](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Jun 2026): CTGAN & ctdGAN for medical demographic distributions.
+* **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Jul 2026): A proof-of-concept Python script for CEJ and crown-root ratio calculation.
+* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Jul 2026): Experimental deep learning segmentation using TotalSegmentator.
+* **[Medical Tabular Data Synthesis](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Jun 2026): Pilot testing CTGAN for synthetic medical demographics.
 
 ## Giảng dạy & Hướng dẫn (Teaching & Supervision)
 * **Undergraduate Clinical Research Mentor** (2024 – 2025) — Faculty of Dentistry, UMP HCMC. Supervised 5 dental students in radiology research methodology.
