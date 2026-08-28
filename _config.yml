@@ -1,7 +1,7 @@
 # AcademicPages Configuration for Dr. Nguyen Bao Trung
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Nguyen Bao Trung, MD, MSc"
+title                    : "Nguyen Bao Trung, MD, MSc"
 title_separator          : "•"
 name                     : &name "Nguyen Bao Trung, MD, MSc"
 description              : &description "Academic website & portfolio of Dr. Nguyen Bao Trung, MD, MSc - Oral Surgeon & Dental AI Researcher."
