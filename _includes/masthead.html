@@ -6,7 +6,7 @@
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
-            <a href="{{ base_path }}/">{{ site.title }}</a>
+            <a href="{% if page.url contains '/vi/' %}{{ base_path }}/vi/{% else %}{{ base_path }}/{% endif %}">{% if page.url contains '/vi/' %}Nguyễn Bảo Trung{% else %}{{ site.title }}{% endif %}</a>
           </li>
           {% if page.url contains '/vi/' %}
             {% assign nav_links = site.data.navigation.main_vi %}
