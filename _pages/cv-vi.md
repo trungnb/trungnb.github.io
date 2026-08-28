@@ -1,15 +1,13 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
-permalink: /cv/
+title: "Hồ sơ Lý lịch (CV)"
+permalink: /vi/cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-## Education
+## Học vấn (Education)
 * **Master of Science in Odonto-Stomatology (MSc)** (2023 – 2025)  
   *University of Medicine and Pharmacy at Ho Chi Minh City (UMP HCMC), Vietnam*  
   * **GPA:** 7.82 / 10  
@@ -18,11 +16,11 @@ redirect_from:
   *Hue University of Medicine and Pharmacy, Vietnam*  
   * **GPA:** 7.27 / 10 (6-year clinical dental surgery curriculum).
 
-## Advanced Certifications
+## Chứng chỉ Nâng cao (Advanced Certifications)
 * **Writing in the Sciences** — Stanford University (Stanford Online, 2025).
 * **Advanced Programming & Data Analysis with Python** — University of Helsinki (MOOCs, 2024).
 
-## Clinical & Professional Experience
+## Kinh nghiệm Lâm sàng & Chuyên môn (Clinical & Professional Experience)
 * **Oral Surgeon** (Oct 2020 – Jul 2026)  
   *Thai Thuong Hoang Hospital of Odonto-Stomatology and Cosmetic Surgery, Nghe An, Vietnam*  
   * Performed complex diagnostic evaluations and oral surgical procedures.  
@@ -34,24 +32,24 @@ redirect_from:
   * Developed data preprocessing and statistical analysis pipelines in R and Python.  
   * Supervised 5 undergraduate dental students in clinical research.
 
-## Peer-Reviewed Publications
+## Bài báo Khoa học (Peer-Reviewed Publications)
 1. **Nguyen BT**, Vu TTQ, Bui DK, Lam DP. (2025). Upper Airway Dimensions on CBCT in Vietnamese Subjects with and without Obstructive Sleep Apnea: A Case Series. *Vietnam Medical Journal (VMJ)*, 553(3). [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486). (Principal Author - 85% contribution)
 2. Ngo AD, **Nguyen BT**, Vo CH, Lam DP. (2025). Anatomical Morphology of the Maxillary Premolar Alveolar Bone in Vietnamese Adults Assessed by Cone Beam Computed Tomography. *Vietnam Medical Journal (VMJ)*, 555(3). [doi:10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172). (Co-Author - 30% contribution)
 3. Ngo AD, **Nguyen BT**, Vo CH, Lam DP. (2026). Alveolar Morphology of the Maxillary Molars in Vietnamese Adults: A CBCT Study for Immediate Implant Placement. *Submitted to Dental Hypotheses*.
 
-## Research Grants & Awards
+## Giải thưởng & Tài trợ Nghiên cứu (Research Grants & Awards)
 * **University Research Grant** (2024 – 2025) — University of Medicine and Pharmacy at Ho Chi Minh City. Funding: **30,000,000 VND** for project on CBCT upper airway dimensions in OSA.
 * **Second Prize, Annual Scientific Research Competition** (2022) — Thai Thuong Hoang Hospital. Project on sagittal skeletal relationships and orthognathic surgery need.
 
-## Software & AI Platforms
+## Phần mềm & Nền tảng AI (Software & AI Platforms)
 * **[PeriApicaI](https://periapical.ai.studio)**: Clinical AI dental radiography training platform.
 * **3D Craniofacial Shape Analysis**: Deep learning segmentation with TotalSegmentator.
 * **Medical Tabular Data Synthesis**: CTGAN & CTDGAN for medical demographic distributions.
 
-## Teaching & Supervision
+## Giảng dạy & Hướng dẫn (Teaching & Supervision)
 * **Undergraduate Clinical Research Mentor** (2024 – 2025) — Faculty of Dentistry, UMP HCMC. Supervised 5 dental students in radiology research methodology.
 
-## Technical Skills
+## Kỹ năng Kỹ thuật (Technical Skills)
 * **Programming & AI:** Python (PyTorch, Gemini Vision API, CTGAN, Pandas, NumPy, Scikit-Learn), R, Jupyter, Git.
 * **Medical Imaging:** CBCT volumetric analysis, TotalSegmentator, NiBabel (NIfTI), ITK-SNAP.
 * **Languages:** Vietnamese (Native), English (IELTS Academic 7.5: Listening 8.5, Reading 9.0, Writing 6.5, Speaking 6.0).
