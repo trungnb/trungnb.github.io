@@ -18,7 +18,7 @@ redirect_from:
   *Hue University of Medicine and Pharmacy, Vietnam*  
   * **GPA:** 7.27 / 10 (6-year clinical dental surgery curriculum).
 
-## Advanced Certifications
+## Certifications
 * **Writing in the Sciences** — Stanford University (Stanford Online, 2025).
 * **Advanced Programming & Data Analysis with Python** — University of Helsinki (MOOCs, 2024).
 
