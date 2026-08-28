@@ -3,6 +3,7 @@ permalink: /
 title: "Dr. Nguyen Bao Trung, MD, MSc"
 excerpt: "About me"
 author_profile: true
+layout: single
 redirect_from: 
   - /about/
   - /about.html
