@@ -35,10 +35,11 @@ author_profile: true
 ## Bài báo Khoa học (Peer-Reviewed Publications)
 1. **Nguyen BT**, Vu TTQ, Bui DK, Lam DP. (2025). Upper Airway Dimensions on CBCT in Vietnamese Subjects with and without Obstructive Sleep Apnea: A Case Series. *Vietnam Medical Journal (VMJ)*, 553(3). [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486). (Principal Author - 85% contribution)
 2. Ngo AD, **Nguyen BT**, Vo CH, Lam DP. (2025). Anatomical Morphology of the Maxillary Premolar Alveolar Bone in Vietnamese Adults Assessed by Cone Beam Computed Tomography. *Vietnam Medical Journal (VMJ)*, 555(3). [doi:10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172). (Co-Author - 30% contribution)
-3. Ngo AD, **Nguyen BT**, Vo CH, Lam DP. (2026). Alveolar Morphology of the Maxillary Molars in Vietnamese Adults: A CBCT Study for Immediate Implant Placement. *Submitted to Dental Hypotheses*.
 
-## Giải thưởng & Tài trợ Nghiên cứu (Research Grants & Awards)
+## Tài trợ Nghiên cứu (Research Grants)
 * **University Research Grant** (2024 – 2025) — University of Medicine and Pharmacy at Ho Chi Minh City. Funding: **30,000,000 VND** for project on CBCT upper airway dimensions in OSA.
+
+## Giải thưởng (Awards)
 * **Second Prize, Annual Scientific Research Competition** (2022) — Thai Thuong Hoang Hospital. Project on sagittal skeletal relationships and orthognathic surgery need.
 
 ## Phần mềm & Nền tảng AI (Software & AI Platforms)
