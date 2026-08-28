@@ -1,6 +1,6 @@
 {% include base_path %}
 
-<div class="page__footer-copyright" style="text-align: center; font-size: 0.9em; padding: 10px 0;">
+<div class="page__footer-copyright" style="text-align: center; font-size: 0.9em; padding: 5px 0;">
   &copy; {{ site.time | date: '%Y' }} {% if page.url contains '/vi/' %}ThS.Bs. Nguyễn Bảo Trung{% else %}{{ site.name | default: site.title }}{% endif %}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>. &nbsp;|&nbsp; 
   {% if page.url contains '/vi/' %}Cập nhật lần cuối:{% else %}Last updated:{% endif %} {{ "now" | date: '%Y-%m-%d' }} &nbsp;|&nbsp; 
   <a href="/sitemap/" style="text-transform: uppercase;">{{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}</a>
