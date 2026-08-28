@@ -17,9 +17,9 @@ Hướng nghiên cứu của mình là sự giao thoa giữa Răng Hàm Mặt l�
 
 ### 📢 Tin tức & Cập nhật mới
 * **Tháng 08/2026**: Ra mắt **[PeriApicaI](https://periapical.ai.studio)**, ứng dụng web AI hỗ trợ đào tạo đọc phim X-quang nha khoa.
-* **2025**: Hoàn thành chứng chỉ **Writing in the Sciences** (Viết khoa học) từ **Đại học Stanford (Online)**.
+* **2025**: Hoàn thành chứng chỉ **[Writing in the Sciences](/files/Stanford_Writing_in_the_Sciences.pdf)** (Viết khoa học) từ **Đại học Stanford (Online)**.
 * **2025**: Xuất bản bài báo đồng tác giả về "*HÌNH THÁI GIẢI PHẪU XƯƠNG Ổ VÙNG RĂNG CỐI NHỎ HÀM TRÊN NGƯỜI VIỆT TRƯỞNG THÀNH QUA HÌNH ẢNH CẮT LỚP CHÙM TIA HÌNH NÓN*" trên Tạp chí Y học Việt Nam.
 * **2025**: Xuất bản bài báo tác giả chính về "*KÍCH THƯỚC ĐƯỜNG THỞ TRÊN PHIM CBCT Ở NHÓM NGƯỜI VIỆT MẮC VÀ KHÔNG MẮC NGƯNG THỞ TẮC NGHẼN KHI NGỦ: BÁO CÁO LOẠT CA*" trên Tạp chí Y học Việt Nam.
 * **2025**: Bảo vệ thành công **Luận văn Thạc sĩ Răng Hàm Mặt** với đề tài về phân tích đường thở trên phim CBCT tại ĐHYD TP.HCM.
 * **2024 – 2025**: Nhận tài trợ Nghiên cứu khoa học cấp cơ sở (30.000.000 VNĐ) từ ĐHYD TP.HCM cho đề tài nghiên cứu đường thở trên CBCT.
-* **2024**: Hoàn thành chứng chỉ MOOCs của Đại học Helsinki về Lập trình Python nâng cao & Phân tích Dữ liệu với Python.
+* **2024 – 2025**: Hoàn thành chứng chỉ MOOCs của Đại học Helsinki về **[Lập trình Python nâng cao](/files/Helsinki_Advanced_Programming.png)** & **[Phân tích Dữ liệu với Python](/files/Helsinki_Data_Analysis.png)**.

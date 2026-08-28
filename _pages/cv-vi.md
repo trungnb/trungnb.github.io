@@ -17,8 +17,8 @@ author_profile: true
   * **GPA:** 7.27 / 10 (6-year clinical dental surgery curriculum).
 
 ## Chứng chỉ (Certifications)
-* **Writing in the Sciences** — Stanford University (Stanford Online, 2025).
-* **Advanced Programming & Data Analysis with Python** — University of Helsinki (MOOCs, 2024).
+* **[Writing in the Sciences](/files/Stanford_Writing_in_the_Sciences.pdf)** — Stanford University (Stanford Online, 2025).
+* **[Advanced Programming with Python](/files/Helsinki_Advanced_Programming.png)** & **[Data Analysis with Python](/files/Helsinki_Data_Analysis.png)** — University of Helsinki (MOOCs, 2024–2025).
 
 ## Kinh nghiệm Lâm sàng & Chuyên môn (Clinical & Professional Experience)
 * **Oral Surgeon** (Oct 2020 – Jul 2026)  
