@@ -33,7 +33,7 @@ lsi                      : false
 excerpt_separator        : "<!--more-->"
 incremental              : false
 
-include                  : [".htaccess"]
+include                  : [".htaccess", "_pages"]
 exclude                  : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
 keep_files               : [".git", ".svn"]
 encoding                 : "utf-8"
