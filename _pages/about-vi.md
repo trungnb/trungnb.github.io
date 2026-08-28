@@ -1,15 +1,15 @@
 ---
 permalink: /vi/
 title: "ThS.Bs. Nguyễn Bảo Trung"
-excerpt: "Về tôi"
+excerpt: "Về mình"
 author_profile: true
 layout: single
 ---
 
-Tôi là bác sĩ Răng Hàm Mặt và định hướng phát triển sang nghiên cứu Trí tuệ nhân tạo (AI) trong nghiên cứu Răng Hàm Mặt. Tôi tốt nghiệp Thạc sĩ khoa học ngành Răng Hàm Mặt tại Đại học Y Dược TP.HCM (UMP HCMC) và Bác sĩ Răng Hàm Mặt tại Trường Đại học Y Dược, Đại học Huế.
+Mình là bác sĩ Răng Hàm Mặt và định hướng phát triển sang nghiên cứu Trí tuệ nhân tạo (AI) trong nghiên cứu Răng Hàm Mặt. Mình tốt nghiệp Thạc sĩ khoa học ngành Răng Hàm Mặt tại Đại học Y Dược TP.HCM (UMP HCMC) và Bác sĩ Răng Hàm Mặt tại Trường Đại học Y Dược, Đại học Huế.
 
 ### 🔬 Lĩnh vực Nghiên cứu
-Hướng nghiên cứu của tôi là sự giao thoa giữa Răng Hàm Mặt lâm sàng, Hình ảnh Y học 3D và Trí tuệ nhân tạo:
+Hướng nghiên cứu của mình là sự giao thoa giữa Răng Hàm Mặt lâm sàng, Hình ảnh Y học 3D và Trí tuệ nhân tạo:
 * **Phân tích hình thái sọ mặt & CBCT 3D**: Phân tích hình thái xương ổ răng và thể tích đường thở trên bệnh nhân Hội chứng ngưng thở khi ngủ (OSA).
 * **Phân vùng ảnh Y khoa (Image Segmentation)**: Ứng dụng Deep learning (VD: *TotalSegmentator*) để phân vùng tự động cấu trúc xương sọ mặt và răng từ dữ liệu NIfTI.
 * **Nền tảng AI lâm sàng**: Nhà sáng lập [PeriApicaI](https://periapical.ai.studio), nền tảng AI hỗ trợ chẩn đoán và đào tạo đọc phim X-quang quanh chóp sử dụng mô hình ngôn ngữ lớn đa phương thức (Multimodal LLMs).

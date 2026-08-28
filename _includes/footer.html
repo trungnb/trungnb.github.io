@@ -16,7 +16,7 @@
 </div>
 {% endif %}
 
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {% if page.url contains '/vi/' %}ThS.Bs. Nguyễn Bảo Trung{% else %}{{ site.name | default: site.title }}{% endif %}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' }}, <a href="/sitemap/" style="text-transform: uppercase;">{{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}</a>
+<div class="page__footer-copyright" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <div>&copy; {{ site.time | date: '%Y' }} {% if page.url contains '/vi/' %}ThS.Bs. Nguyễn Bảo Trung{% else %}{{ site.name | default: site.title }}{% endif %}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>.</div>
+  <div>Site last updated {{ "now" | date: '%Y-%m-%d' }} | <a href="/sitemap/" style="text-transform: uppercase;">{{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}</a></div>
 </div>
