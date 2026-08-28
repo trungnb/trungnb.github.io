@@ -9,3 +9,15 @@ main:
     url: "/teaching/"
   - title: "CV"
     url: "/cv/"
+
+main_vi:
+  - title: "Về mình"
+    url: "/vi/"
+  - title: "Công bố Khoa học"
+    url: "/publications/"
+  - title: "Dự án & AI"
+    url: "/portfolio/"
+  - title: "Giảng dạy"
+    url: "/teaching/"
+  - title: "Hồ sơ (CV)"
+    url: "/vi/cv/"
