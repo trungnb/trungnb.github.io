@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 * **Master of Science in Odonto-Stomatology (MSc)** (2023 – 2025)  
   *University of Medicine and Pharmacy at Ho Chi Minh City (UMP HCMC), Vietnam*  
-  * **GPA:** 7.82 / 10 (Ranked in Estimated Top 10% of Cohort)  
+  * **GPA:** 7.82 / 10  
   * **Thesis:** *"Assessment of upper airway dimensions in subjects with and without Obstructive Sleep Apnea using Cone-Beam Computed Tomography"* (Supervisor: Dr. Phong Dai Lam, MD, PhD; >30,000 words monograph).
 * **Doctor of Medicine in Dentistry (MD)** (2014 – 2020)  
   *Hue University of Medicine and Pharmacy, Vietnam*  
