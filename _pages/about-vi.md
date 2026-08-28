@@ -1,6 +1,6 @@
 ---
 permalink: /vi/
-title: "Nguyen Bao Trung, MD, MSc"
+title: "ThS.Bs. Nguyễn Bảo Trung"
 excerpt: "Về tôi"
 author_profile: true
 layout: single

@@ -18,8 +18,10 @@
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
-          <li class="masthead__menu-item persist tail" style="margin-right: 15px; font-weight: bold;">
-            <a href="{{ base_path }}/vi/" title="Tiếng Việt">VI</a> <span style="color: var(--muted-text-color);">|</span> <a href="{{ base_path }}/" title="English">EN</a>
+          <li class="masthead__menu-item persist tail">
+            <a href="{% if page.url contains '/vi/' %}{{ base_path }}/{% else %}{{ base_path }}/vi/{% endif %}" title="Switch Language">
+              <i class="fa-solid fa-language" aria-hidden="true"></i> <span style="font-size: 0.85em; text-transform: uppercase;">{% if page.url contains '/vi/' %}EN{% else %}VI{% endif %}</span>
+            </a>
           </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
