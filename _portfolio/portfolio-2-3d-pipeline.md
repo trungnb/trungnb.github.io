@@ -5,7 +5,7 @@ collection: portfolio
 date: 2026-07-17
 ---
 
-**GitHub:** [github.com/trungnb](https://github.com/trungnb)  
+**Project Repository (Google Drive):** [View Notebooks & Data](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)  
 **Tech Stack:** Python, TotalSegmentator, NiBabel, PyTorch, Pandas  
 
 ### Overview

@@ -43,7 +43,7 @@ author_profile: true
 ## Phần mềm & Nền tảng AI (Software & AI Platforms)
 * **[PeriApicaI](https://periapical.ai.studio)** (Aug 2026): Clinical AI dental radiography training platform.
 * **Dental CEJ Morphometrics** (Jul 2026): Quantitative Python workflow for crown-root ratios and CEJ identification.
-* **3D Craniofacial Shape Analysis** (Jul 2026): Deep learning segmentation with TotalSegmentator.
+* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Jul 2026): Deep learning segmentation with TotalSegmentator.
 * **Medical Tabular Data Synthesis** (Jun 2026): CTGAN & ctdGAN for medical demographic distributions.
 
 ## Giảng dạy & Hướng dẫn (Teaching & Supervision)
