@@ -1,22 +1,7 @@
 {% include base_path %}
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-  </ul>
-</div>
-{% endif %}
-
-<div class="page__footer-copyright" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <div>&copy; {{ site.time | date: '%Y' }} {% if page.url contains '/vi/' %}ThS.Bs. Nguyễn Bảo Trung{% else %}{{ site.name | default: site.title }}{% endif %}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>.</div>
-  <div>Site last updated {{ "now" | date: '%Y-%m-%d' }} | <a href="/sitemap/" style="text-transform: uppercase;">{{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}</a></div>
+<div class="page__footer-copyright" style="text-align: center; font-size: 0.9em; padding: 10px 0;">
+  &copy; {{ site.time | date: '%Y' }} {% if page.url contains '/vi/' %}ThS.Bs. Nguyễn Bảo Trung{% else %}{{ site.name | default: site.title }}{% endif %}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>. &nbsp;|&nbsp; 
+  {% if page.url contains '/vi/' %}Cập nhật lần cuối:{% else %}Last updated:{% endif %} {{ "now" | date: '%Y-%m-%d' }} &nbsp;|&nbsp; 
+  <a href="/sitemap/" style="text-transform: uppercase;">{{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}</a>
 </div>
