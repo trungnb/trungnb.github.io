@@ -13,7 +13,7 @@ Hướng nghiên cứu của tôi là sự giao thoa giữa Răng Hàm Mặt lâ
 * **Phân tích hình thái sọ mặt & CBCT 3D**: Phân tích hình thái xương ổ răng và thể tích đường thở trên bệnh nhân Hội chứng ngưng thở khi ngủ (OSA).
 * **Phân vùng ảnh Y khoa (Image Segmentation)**: Ứng dụng Deep learning (VD: *TotalSegmentator*) để phân vùng tự động cấu trúc xương sọ mặt và răng từ dữ liệu NIfTI.
 * **Nền tảng AI lâm sàng**: Nhà sáng lập [PeriApicaI](https://periapical.ai.studio), nền tảng AI hỗ trợ chẩn đoán và đào tạo đọc phim X-quang quanh chóp sử dụng mô hình ngôn ngữ lớn đa phương thức (Multimodal LLMs).
-* **Bảo mật Dữ liệu Y tế**: Tổng hợp và mô phỏng dữ liệu lâm sàng dạng bảng bằng Mạng sinh đối kháng (CTGAN & CTDGAN) nhằm bảo vệ quyền riêng tư.
+* **Bảo mật Dữ liệu Y tế**: Tổng hợp và mô phỏng dữ liệu lâm sàng dạng bảng bằng Mạng sinh đối kháng (CTGAN & ctdGAN) nhằm bảo vệ quyền riêng tư.
 
 ### 📢 Tin tức & Cập nhật mới
 * **Tháng 08/2026**: Ra mắt **[PeriApicaI](https://periapical.ai.studio)**, ứng dụng web AI hỗ trợ đào tạo đọc phim X-quang nha khoa.

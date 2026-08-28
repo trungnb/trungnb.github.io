@@ -44,7 +44,7 @@ author_profile: true
 ## Phần mềm & Nền tảng AI (Software & AI Platforms)
 * **[PeriApicaI](https://periapical.ai.studio)**: Clinical AI dental radiography training platform.
 * **3D Craniofacial Shape Analysis**: Deep learning segmentation with TotalSegmentator.
-* **Medical Tabular Data Synthesis**: CTGAN & CTDGAN for medical demographic distributions.
+* **Medical Tabular Data Synthesis**: CTGAN & ctdGAN for medical demographic distributions.
 
 ## Giảng dạy & Hướng dẫn (Teaching & Supervision)
 * **Undergraduate Clinical Research Mentor** (2024 – 2025) — Faculty of Dentistry, UMP HCMC. Supervised 5 dental students in radiology research methodology.

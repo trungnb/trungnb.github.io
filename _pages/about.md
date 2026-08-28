@@ -16,7 +16,7 @@ My research lies at the intersection of **Clinical Dentistry, 3D Medical Imaging
 * **3D CBCT & Craniofacial Morphometrics**: Morphological analysis of alveolar bone and volumetric assessment of upper airway dimensions in Obstructive Sleep Apnea (OSA).
 * **Medical Image Segmentation**: Deep learning workflows (e.g., *TotalSegmentator*) for automated multi-structure segmentation of craniofacial bones and teeth from NIfTI files.
 * **Clinical AI Platforms**: Creator of [PeriApicaI](https://periapical.ai.studio), an AI-assisted diagnostic and training platform for dental periapical radiography utilizing multimodal Large Language Models.
-* **Privacy-Preserving Healthcare Data**: Synthesizing tabular clinical data using Generative Adversarial Networks (CTGAN & CTDGAN).
+* **Privacy-Preserving Healthcare Data**: Synthesizing tabular clinical data using Generative Adversarial Networks (CTGAN & ctdGAN).
 
 ### 📢 Recent News & Updates
 * **August 2026**: Launched **[PeriApicaI](https://periapical.ai.studio)**, an AI-powered dental X-ray training web application.
