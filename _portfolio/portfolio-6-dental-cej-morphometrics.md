@@ -2,7 +2,7 @@
 title: "Dental Morphometrics: CEJ & Crown-Root Ratio"
 excerpt: "Quantitative Python analysis workflow for calculating Crown-Root ratios and identifying the Cementoenamel Junction (CEJ) from 3D dental models.<br/><img src='https://img.shields.io/badge/Tech-Python_%7C_Morphometrics-blue'>"
 collection: portfolio
-date: 2025-01-01
+date: 2026-07-28
 ---
 
 **GitHub Repository:** [github.com/trungnb/Dental-CEJ-Morphometrics](https://github.com/trungnb)  

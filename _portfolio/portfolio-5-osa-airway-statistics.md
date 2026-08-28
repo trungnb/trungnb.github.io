@@ -2,7 +2,7 @@
 title: "Master's Thesis: Upper Airway OSA Statistical Modeling"
 excerpt: "Statistical analysis workflow in R for evaluating airway morphometrics in Obstructive Sleep Apnea (Master's Graduation Thesis).<br/><img src='https://img.shields.io/badge/Tech-R_%7C_ggplot2_%7C_dplyr-blue'>"
 collection: portfolio
-date: 2025-06-01
+date: 2025-09-09
 ---
 
 **Tech Stack:** R, RMarkdown, `dplyr`, `ggplot2`, `ggpubr`, `effsize`  
