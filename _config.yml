@@ -11,7 +11,7 @@ repository               : "trungnb/trungnb.github.io"
 
 # Site Author
 author:
-  avatar           : "/files/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Nguyen Bao Trung, MD, MSc"
   pronouns         : "he/him"
   bio              : "Oral Surgeon & Dental AI Researcher"
