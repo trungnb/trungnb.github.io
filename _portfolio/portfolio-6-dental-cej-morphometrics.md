@@ -5,7 +5,7 @@ collection: portfolio
 date: 2026-07-28
 ---
 
-**GitHub Repository:** [github.com/trungnb/Dental-CEJ-Morphometrics](https://github.com/trungnb)  
+**Project Repository (Google Drive):** [View Notebooks & Data](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)  
 **Tech Stack:** Python, Jupyter, Scikit-Image, Pandas, Data Visualization
 
 ### Overview
