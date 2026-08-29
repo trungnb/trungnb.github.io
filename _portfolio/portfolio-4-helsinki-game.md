@@ -9,4 +9,4 @@ date: 2024-12-01
 **Tech Stack:** Python, Pygame, Object-Oriented Programming (OOP)  
 
 ### Overview
-Capstone graduation project for the University of Helsinki *Advanced Programming with Python* course. Features OOP game architecture, collision detection algorithms, score tracking, and autonomous enemy behavioral states.
+Transitioning into medical AI requires robust computer science fundamentals. To step outside my clinical comfort zone, I built a 2D arcade game from scratch using Python and PyGame. By independently handling collision detection and state management, I solidified my OOP skills and demonstrated strong self-taught engineering adaptability.

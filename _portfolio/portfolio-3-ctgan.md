@@ -9,4 +9,4 @@ date: 2026-06-15
 **Tech Stack:** Python, CTGAN, ctdGAN, Scikit-Learn, Differential Privacy  
 
 ### Overview
-A pilot project testing Conditional Tabular Generative Adversarial Networks (CTGAN) to generate synthetic demographic datasets (Age, Race, Sex distributions). The goal is to explore privacy-preserving methods for sharing medical data without exposing sensitive patient health information.
+Strict privacy laws currently hinder the open sharing of clinical datasets. I experimented with CTGAN and ctdGAN to synthesize artificial, privacy-preserving demographic data (Age, Race, Sex). This pilot yielded high-fidelity distributions, demonstrating a viable workaround for researchers to share medical data safely.

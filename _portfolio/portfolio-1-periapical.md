@@ -9,4 +9,4 @@ date: 2026-08-01
 **Tech Stack:** Multimodal Large Language Models (Gemini Vision), Prompt Engineering, Web Application  
 
 ### Overview
-PeriApicaI is an AI-powered diagnostic and training platform designed for dental practitioners and students. It analyzes technical errors in periapical X-ray films (such as cone-cutting, elongation, and overlapping) and provides step-by-step troubleshooting instructions based on standard dental radiology textbooks (*White & Pharoah*).
+Current dental training relies heavily on scarce instructor time for X-ray feedback. To solve this bottleneck, I built an experimental web app leveraging Gemini AI to provide instant evaluations of periapical errors. This prototype demonstrates how generative AI can serve as a scalable, 24/7 virtual tutor for students.

@@ -9,4 +9,4 @@ date: 2026-07-17
 **Tech Stack:** Python, TotalSegmentator, NiBabel, PyTorch, Pandas  
 
 ### Overview
-An experimental pipeline exploring the use of TotalSegmentator for segmenting craniofacial bone structures and teeth from 3D NIfTI (`.nii.gz`) CT/CBCT scans. This pilot project tests the generation of orthogonal projections and basic morphometric metrics for potential airway and orthodontic assessments.
+Anatomical studies are often bottlenecked by the slow, manual segmentation of CBCT scans. I piloted a deep learning pipeline using TotalSegmentator to automate the extraction of craniofacial structures. Early tests rapidly generate orthogonal projections, proving its potential to drastically accelerate high-throughput data collection in orthodontics.

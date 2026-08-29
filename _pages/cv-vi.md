@@ -41,10 +41,10 @@ author_profile: true
 * **Second Prize, Annual Scientific Research Competition** (2022) — Thai Thuong Hoang Hospital. Project on sagittal skeletal relationships and orthognathic surgery need.
 
 ## Phần mềm & Nền tảng AI (Software & AI Platforms)
-* **[PeriApicaI](https://periapical.ai.studio)** (Aug 2026): Clinical AI dental radiography training platform.
-* **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Jul 2026): A proof-of-concept Python script for CEJ and crown-root ratio calculation.
-* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Jul 2026): Experimental deep learning segmentation using TotalSegmentator.
-* **[Medical Tabular Data Synthesis](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Jun 2026): Pilot testing CTGAN for synthetic medical demographics.
+* **[PeriApicaI](https://periapical.ai.studio)** (Aug 2026): Ứng dụng web thử nghiệm dùng AI Gemini đánh giá lỗi X-quang, đóng vai trò gia sư ảo 24/7 giúp giải quyết tình trạng thiếu hụt thời gian hướng dẫn của giảng viên.
+* **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Jul 2026): Kịch bản Python thử nghiệm giúp tự động phát hiện CEJ và tính tỷ lệ thân-chân răng, khắc phục sự cồng kềnh và dễ sai sót của việc đo đạc thủ công.
+* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Jul 2026): Luồng Deep Learning ứng dụng TotalSegmentator để phân vùng sọ mặt tự động, giải quyết điểm nghẽn của các nghiên cứu giải phẫu quy mô lớn.
+* **[Medical Tabular Data Synthesis (CTGAN & ctdGAN)](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Jun 2026): Tổng hợp dữ liệu nhân trắc học nhân tạo an toàn, mở ra hướng đi chia sẻ dữ liệu nghiên cứu mà không vi phạm luật bảo mật y tế.
 
 ## Giảng dạy & Hướng dẫn (Teaching & Supervision)
 * **Undergraduate Clinical Research Mentor** (2024 – 2025) — Faculty of Dentistry, UMP HCMC. Supervised 5 dental students in radiology research methodology.

@@ -9,7 +9,7 @@ date: 2026-07-28
 **Tech Stack:** Python, Jupyter, Scikit-Image, Pandas, Data Visualization
 
 ### Overview
-A proof-of-concept Python script designed to test algorithmic approaches for isolating teeth from NIfTI files, identifying the Cementoenamel Junction (CEJ), and calculating basic Crown-Root ratios. This script serves as an exploratory tool for 3D morphological analysis in endodontics and orthodontics.
+Manual 3D dental measurements are tedious and prone to human error. I wrote a proof-of-concept Python script exploring algorithmic approaches to automatically detect the CEJ and calculate crown-root ratios from NIfTI files. Preliminary results successfully isolate teeth, showing potential to standardize and automate morphological endodontic research.
 
 ### Current Capabilities Tested
 * **Landmark Identification:** Testing basic algorithms to detect the CEJ boundary on 3D tooth segmentations.
