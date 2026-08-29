@@ -10,6 +10,8 @@ author_profile: true
 
 {% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
 {% for post in sorted_portfolio %}
-  {% include archive-single.html %}
+  {% if post.lang == 'vi' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
