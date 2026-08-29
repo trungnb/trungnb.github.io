@@ -9,10 +9,15 @@ date: 2025-09-09
 **Related Publication:** *Upper Airway Dimensions on CBCT in Vietnamese Subjects with and without Obstructive Sleep Apnea* (Vietnam Medical Journal, 2025)
 
 ### Overview
-This project encapsulates the statistical data analysis pipeline used for my **Master of Science in Odonto-Stomatology Graduation Thesis** at UMP HCMC, which subsequently led to a first-author clinical publication. It processes raw patient demographic and clinical data (Age, BMI, AHI) alongside 3D CBCT morphometric measurements (Volume, Minimum Cross-Sectional Area, AP, LR dimensions).
+This repository contains the statistical modeling scripts developed for my Master's thesis on Obstructive Sleep Apnea (OSA). Working with CBCT data, I wrote R scripts to clean, visualize, and statistically analyze upper airway morphometrics, directly supporting a peer-reviewed publication.
 
-### Technical Highlights
-- **Data Wrangling:** Automated data cleaning, factor conversion, and demographic calculations using `dplyr` and `tidyr`.
-- **Statistical Testing:** Conducted comparative statistics (T-tests, Mann-Whitney U) to evaluate structural airway differences between OSA and healthy control groups.
-- **Data Visualization:** Generated publication-ready, high-fidelity visualizations including multi-variable boxplots with significance annotations using `ggplot2` and `ggpubr`.
-- **Reproducible Research:** Fully documented via RMarkdown (`.Rmd`), outputting reproducible PDF and HTML reports for peer review transparency.
+### Motivation
+For my Master's thesis, I needed to process and analyze complex volumetric measurements of the upper airway. Instead of relying solely on point-and-click statistical software (SPSS), I wanted to learn R to ensure reproducibility and programmatic data visualization.
+
+### Technical Approach
+* Processed and cleaned a clinical dataset of 111 CBCT scan measurements.
+* Wrote reproducible R scripts using `dplyr` for data wrangling and `ggplot2`/`ggpubr` for statistical plotting.
+* Conducted multivariate analyses to assess the correlation between airway dimensions and OSA severity.
+
+### Key Learnings & Future Work
+Mastered the basics of programmatic data wrangling, handling missing values, and scientific visualization in R. **Future Work:** Successfully used this workflow to publish a paper; next steps involve using Python to automate the initial data extraction phase.

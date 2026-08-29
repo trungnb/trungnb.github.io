@@ -11,9 +11,13 @@ date: 2026-07-28
 ### Overview
 Manual 3D measurements in dentistry are highly tedious. Driven by a desire to learn basic computer vision, I wrote a proof-of-concept Python script to try and automate CEJ detection and crown-root ratio calculations from NIfTI files. While still in its early stages, this side project helped me grasp the fundamentals of algorithmic feature extraction.
 
-### Current Capabilities Tested
-* **Landmark Identification:** Testing basic algorithms to detect the CEJ boundary on 3D tooth segmentations.
-* **Ratio Calculations:** Scripting measurement steps for crown-root ratios.
-* **Volumetric Pulp Analysis:** Preliminary extraction of dental pulp cavity dimensions.
+### Motivation
+Manually clicking through 3D dental models to find landmarks like the Cementoenamel Junction (CEJ) is incredibly time-consuming. I started this project to see if basic Python algorithms could do the heavy lifting and reduce human error.
 
-This project is currently in the experimental stage, acting as a sandbox to explore how automated Python scripts might eventually assist in morphometric research.
+### Technical Approach
+* Loaded and manipulated 3D volumetric images (NIfTI format) using Python.
+* Piloted basic edge detection and masking techniques to isolate tooth boundaries.
+* Scripted experimental mathematical functions to calculate anatomical ratios (e.g., Crown-to-Root).
+
+### Key Learnings & Future Work
+Gained a foundational understanding of manipulating 3D arrays and voxel data in Python. **Future Work:** Aim to integrate these scripts with automated tooth segmentation models for a fully hands-off morphometric measurement pipeline.
