@@ -2,7 +2,7 @@
 title: "Anatomical Morphology of the Maxillary Premolar Alveolar Bone in Vietnamese Adults Assessed by Cone Beam Computed Tomography"
 collection: publications
 permalink: /vi/publication/2025-02-01-maxillary-premolar-alveolar-bone
-excerpt: "Investigating the alveolar bone thickness and anatomical variations of maxillary premolars on CBCT scans."
+excerpt: "Đánh giá hình thái xương ổ răng cối nhỏ hàm trên qua CBCT, nhấn mạnh các lưu ý lâm sàng khi đặt implant tức thì do bản xương ngoài mỏng và chân răng sát xoang hàm."
 date: 2025-02-01
 venue: 'Vietnam Medical Journal (VMJ)'
 paperurl: 'https://doi.org/10.51298/vmj.v555i3.16172'
@@ -14,7 +14,10 @@ lang: vi
 **Tạp chí:** *Vietnam Medical Journal (VMJ)*, 2025; 555(3)  
 **DOI:** [10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172)  
 
-### Đóng góp (30% - Co-Author)
-- Data extraction from 111 CBCT radiographic scans.
-- Performed statistical modeling and data cleaning in R.
-- Manuscript drafting and illustration preparation.
+### Tóm tắt
+Nghiên cứu đánh giá đặc điểm giải phẫu xương ổ răng vùng răng cối nhỏ hàm trên ở người Việt trẻ tuổi bằng CBCT. Kết quả cho thấy bản xương ngoài thường rất mỏng (< 2mm) và chân răng nằm sát xoang hàm. Các biến thiên giải phẫu này tạo ra điều kiện không lý tưởng cho cấy ghép implant tức thì, đòi hỏi phải đánh giá hình ảnh và lập kế hoạch cẩn thận trước phẫu thuật.
+
+### Đóng góp (30% - Đồng tác giả)
+- Trích xuất dữ liệu từ 111 phim cắt lớp vi tính chùm tia hình nón (CBCT).
+- Thực hiện làm sạch dữ liệu và lập mô hình thống kê bằng R.
+- Soạn thảo bản thảo và chuẩn bị hình ảnh minh họa.
