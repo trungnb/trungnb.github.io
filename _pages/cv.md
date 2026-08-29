@@ -43,9 +43,9 @@ redirect_from:
 * **Second Prize, Annual Scientific Research Competition** (2022) — Thai Thuong Hoang Hospital. Project on sagittal skeletal relationships and orthognathic surgery need.
 
 ## Software & AI Platforms
-* **[PeriApicaI](https://periapical.ai.studio)** (Aug 2026): Experimental web app leveraging Gemini AI for instant periapical error evaluations, acting as a 24/7 virtual tutor to solve the bottleneck of scarce instructor time.
-* **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Jul 2026): Proof-of-concept Python script to automatically detect the CEJ and calculate crown-root ratios, solving the tedious and error-prone nature of manual 3D measurements.
-* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Jul 2026): Deep learning pipeline using TotalSegmentator to automate craniofacial extraction, drastically accelerating data collection for anatomical studies.
+* **[PeriApicaI](https://periapical.ai.studio)** (Aug 2026): A preliminary web app experimenting with Gemini AI to test instant X-ray feedback, built to learn prompt engineering and explore virtual tutoring.
+* **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Jul 2026): A proof-of-concept Python script attempting to automate CEJ detection, acting as my first hands-on lesson in 3D algorithmic feature extraction.
+* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Jul 2026): Initial trials using TotalSegmentator to learn how deep learning might automate slow, manual CBCT segmentation.
 * **[Medical Tabular Data Synthesis (CTGAN & ctdGAN)](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Jun 2026): Synthesized artificial, privacy-preserving demographic datasets to bypass strict privacy laws hindering open data sharing.
 
 ## Teaching & Supervision

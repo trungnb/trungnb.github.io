@@ -9,4 +9,4 @@ date: 2026-06-15
 **Tech Stack:** Python, CTGAN, ctdGAN, Scikit-Learn, Differential Privacy  
 
 ### Overview
-Strict privacy laws currently hinder the open sharing of clinical datasets. I experimented with CTGAN and ctdGAN to synthesize artificial, privacy-preserving demographic data (Age, Race, Sex). This pilot yielded high-fidelity distributions, demonstrating a viable workaround for researchers to share medical data safely.
+A major challenge in medical AI is the severe scarcity of open-source clinical datasets due to strict privacy laws. To learn about data privacy, I took my first steps in experimenting with CTGAN and ctdGAN to synthesize artificial demographic data (Age, Race, Sex). This exploratory project was a fascinating introduction to how researchers might eventually share data safely.

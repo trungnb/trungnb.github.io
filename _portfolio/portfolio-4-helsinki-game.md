@@ -9,4 +9,4 @@ date: 2024-12-01
 **Tech Stack:** Python, Pygame, Object-Oriented Programming (OOP)  
 
 ### Overview
-Transitioning into medical AI requires robust computer science fundamentals. To step outside my clinical comfort zone, I built a 2D arcade game from scratch using Python and PyGame. By independently handling collision detection and state management, I solidified my OOP skills and demonstrated strong self-taught engineering adaptability.
+Transitioning into medical AI requires basic computer science fundamentals that I lacked. To step outside my clinical comfort zone and practice coding, I built a simple 2D arcade game from scratch using Python/PyGame. Figuring out collision detection through trial and error was a fun way to self-teach Object-Oriented Programming basics.

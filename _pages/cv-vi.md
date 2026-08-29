@@ -41,9 +41,9 @@ author_profile: true
 * **Second Prize, Annual Scientific Research Competition** (2022) — Thai Thuong Hoang Hospital. Project on sagittal skeletal relationships and orthognathic surgery need.
 
 ## Phần mềm & Nền tảng AI (Software & AI Platforms)
-* **[PeriApicaI](https://periapical.ai.studio)** (Aug 2026): Ứng dụng web thử nghiệm dùng AI Gemini đánh giá lỗi X-quang, đóng vai trò gia sư ảo 24/7 giúp giải quyết tình trạng thiếu hụt thời gian hướng dẫn của giảng viên.
-* **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Jul 2026): Kịch bản Python thử nghiệm giúp tự động phát hiện CEJ và tính tỷ lệ thân-chân răng, khắc phục sự cồng kềnh và dễ sai sót của việc đo đạc thủ công.
-* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Jul 2026): Luồng Deep Learning ứng dụng TotalSegmentator để phân vùng sọ mặt tự động, giải quyết điểm nghẽn của các nghiên cứu giải phẫu quy mô lớn.
+* **[PeriApicaI](https://periapical.ai.studio)** (Aug 2026): Ứng dụng web sơ bộ thử nghiệm AI Gemini để đánh giá lỗi X-quang, giúp tôi tự học prompt engineering và khám phá tiềm năng của trợ giảng ảo.
+* **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Jul 2026): Kịch bản Python thử nghiệm tự động nhận diện CEJ, đóng vai trò như bài học vỡ lòng của tôi về trích xuất đặc trưng hình ảnh 3D.
+* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Jul 2026): Các thử nghiệm ban đầu với TotalSegmentator để tự học cách deep learning có thể hỗ trợ phân vùng CBCT tự động.
 * **[Medical Tabular Data Synthesis (CTGAN & ctdGAN)](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Jun 2026): Tổng hợp dữ liệu nhân trắc học nhân tạo an toàn, mở ra hướng đi chia sẻ dữ liệu nghiên cứu mà không vi phạm luật bảo mật y tế.
 
 ## Giảng dạy & Hướng dẫn (Teaching & Supervision)

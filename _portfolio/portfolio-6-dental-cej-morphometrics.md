@@ -9,7 +9,7 @@ date: 2026-07-28
 **Tech Stack:** Python, Jupyter, Scikit-Image, Pandas, Data Visualization
 
 ### Overview
-Manual 3D dental measurements are tedious and prone to human error. I wrote a proof-of-concept Python script exploring algorithmic approaches to automatically detect the CEJ and calculate crown-root ratios from NIfTI files. Preliminary results successfully isolate teeth, showing potential to standardize and automate morphological endodontic research.
+Manual 3D measurements in dentistry are highly tedious. Driven by a desire to learn basic computer vision, I wrote a proof-of-concept Python script to try and automate CEJ detection and crown-root ratio calculations from NIfTI files. While still in its early stages, this side project helped me grasp the fundamentals of algorithmic feature extraction.
 
 ### Current Capabilities Tested
 * **Landmark Identification:** Testing basic algorithms to detect the CEJ boundary on 3D tooth segmentations.

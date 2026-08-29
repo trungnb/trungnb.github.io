@@ -9,4 +9,4 @@ date: 2026-07-17
 **Tech Stack:** Python, TotalSegmentator, NiBabel, PyTorch, Pandas  
 
 ### Overview
-Anatomical studies are often bottlenecked by the slow, manual segmentation of CBCT scans. I piloted a deep learning pipeline using TotalSegmentator to automate the extraction of craniofacial structures. Early tests rapidly generate orthogonal projections, proving its potential to drastically accelerate high-throughput data collection in orthodontics.
+Anatomical studies are often bottlenecked by slow, manual CBCT segmentation. To learn about medical image processing, I experimented with TotalSegmentator to see if craniofacial extraction could be automated. These initial trials were my first hands-on lessons in applying deep learning to potentially speed up orthodontic data collection.

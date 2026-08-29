@@ -9,4 +9,4 @@ date: 2026-08-01
 **Tech Stack:** Multimodal Large Language Models (Gemini Vision), Prompt Engineering, Web Application  
 
 ### Overview
-Current dental training relies heavily on scarce instructor time for X-ray feedback. To solve this bottleneck, I built an experimental web app leveraging Gemini AI to provide instant evaluations of periapical errors. This prototype demonstrates how generative AI can serve as a scalable, 24/7 virtual tutor for students.
+Noticing that dental students often lack immediate feedback on X-ray errors due to scarce instructor time, I wanted to explore if AI could help. I built a preliminary web app using Gemini AI to test instant periapical evaluations. It was a great learning experience in prompt engineering, taking my first steps to see if generative AI might one day serve as a basic virtual tutor.
