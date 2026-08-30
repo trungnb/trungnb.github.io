@@ -1,37 +1,45 @@
 {% include base_path %}
 
-{% assign same_lang_posts = site[page.collection] | where: "lang", page.lang | sort: "date" %}
-{% assign current_index = 0 %}
-{% for post in same_lang_posts %}
-  {% if post.url == page.url %}
-    {% assign current_index = forloop.index0 %}
-  {% endif %}
-{% endfor %}
-
-{% assign prev_index = current_index | minus: 1 %}
-{% assign next_index = current_index | plus: 1 %}
-{% assign total_posts = same_lang_posts | size %}
-
-{% if page.lang == "vi" %}
-  {% assign prev_text = "Trước" %}
-  {% assign next_text = "Tiếp" %}
+{% assign collection_posts = site[page.collection] %}
+{% if collection_posts %}
+  {% assign same_lang_posts = collection_posts | where: "lang", page.lang | sort: "date" %}
 {% else %}
-  {% assign prev_text = site.data.ui-text[site.locale].pagination_previous | default: "Previous" %}
-  {% assign next_text = site.data.ui-text[site.locale].pagination_next | default: "Next" %}
+  {% assign same_lang_posts = nil %}
 {% endif %}
 
-{% if total_posts > 1 %}
-  <nav class="pagination">
-    {% if prev_index >= 0 %}
-      <a href="{{ base_path }}{{ same_lang_posts[prev_index].url }}" class="pagination--pager" title="{{ same_lang_posts[prev_index].title | markdownify | strip_html }}">{{ prev_text }}</a>
-    {% else %}
-      <a href="#" class="pagination--pager disabled">{{ prev_text }}</a>
+{% if same_lang_posts and same_lang_posts.size > 0 %}
+  {% assign current_index = 0 %}
+  {% for post in same_lang_posts %}
+    {% if post.url == page.url %}
+      {% assign current_index = forloop.index0 %}
     {% endif %}
-    
-    {% if next_index < total_posts %}
-      <a href="{{ base_path }}{{ same_lang_posts[next_index].url }}" class="pagination--pager" title="{{ same_lang_posts[next_index].title | markdownify | strip_html }}">{{ next_text }}</a>
-    {% else %}
-      <a href="#" class="pagination--pager disabled">{{ next_text }}</a>
-    {% endif %}
-  </nav>
+  {% endfor %}
+
+  {% assign prev_index = current_index | minus: 1 %}
+  {% assign next_index = current_index | plus: 1 %}
+  {% assign total_posts = same_lang_posts | size %}
+
+  {% if page.lang == "vi" %}
+    {% assign prev_text = "Trước" %}
+    {% assign next_text = "Tiếp" %}
+  {% else %}
+    {% assign prev_text = site.data.ui-text[site.locale].pagination_previous | default: "Previous" %}
+    {% assign next_text = site.data.ui-text[site.locale].pagination_next | default: "Next" %}
+  {% endif %}
+
+  {% if total_posts > 1 %}
+    <nav class="pagination">
+      {% if prev_index >= 0 %}
+        <a href="{{ base_path }}{{ same_lang_posts[prev_index].url }}" class="pagination--pager" title="{{ same_lang_posts[prev_index].title | markdownify | strip_html }}">{{ prev_text }}</a>
+      {% else %}
+        <a href="#" class="pagination--pager disabled">{{ prev_text }}</a>
+      {% endif %}
+
+      {% if next_index < total_posts %}
+        <a href="{{ base_path }}{{ same_lang_posts[next_index].url }}" class="pagination--pager" title="{{ same_lang_posts[next_index].title | markdownify | strip_html }}">{{ next_text }}</a>
+      {% else %}
+        <a href="#" class="pagination--pager disabled">{{ next_text }}</a>
+      {% endif %}
+    </nav>
+  {% endif %}
 {% endif %}
