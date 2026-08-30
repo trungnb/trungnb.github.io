@@ -6,8 +6,8 @@ date: 2026-07-17
 lang: vi
 permalink: /vi/portfolio/portfolio-2-3d-pipeline/
 ---
-**Project Repository (Google Drive):** [View Notebooks & Data](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)  
-**Tech Stack:** Python, TotalSegmentator, NiBabel, PyTorch, Pandas  
+**Kho lưu trữ dự án (Google Drive):** [Xem Notebook & Dữ liệu](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)  
+**Công nghệ sử dụng:** Python, TotalSegmentator, NiBabel, PyTorch, Pandas  
 
 ### Tổng quan
 Các nghiên cứu giải phẫu thường bị đình trệ do khâu phân vùng CBCT thủ công chậm chạp. Nhằm mục đích tự học xử lý ảnh y khoa, mình đã thử nghiệm TotalSegmentator để xem liệu có thể tự động hóa việc trích xuất sọ mặt hay không. Những thử nghiệm bước đầu này giúp mình làm quen với cách deep learning có thể hỗ trợ thu thập dữ liệu chỉnh nha.

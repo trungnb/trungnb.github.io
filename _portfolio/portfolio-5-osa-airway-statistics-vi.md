@@ -6,8 +6,8 @@ date: 2025-09-09
 lang: vi
 permalink: /vi/portfolio/portfolio-5-osa-airway-statistics/
 ---
-**Tech Stack:** R, RMarkdown, `dplyr`, `ggplot2`, `ggpubr`, `effsize`  
-**Related Publication:** *Upper Airway Dimensions on CBCT in Vietnamese Subjects with and without Obstructive Sleep Apnea* (Vietnam Medical Journal, 2025)
+**Công nghệ sử dụng:** R, RMarkdown, `dplyr`, `ggplot2`, `ggpubr`, `effsize`  
+**Bài báo liên quan:** *Upper Airway Dimensions on CBCT in Vietnamese Subjects with and without Obstructive Sleep Apnea* (Vietnam Medical Journal, 2025)
 
 ### Tổng quan
 Kho lưu trữ này chứa các kịch bản mô hình hóa thống kê được phát triển cho Luận văn Thạc sĩ của mình về Hội chứng ngưng thở khi ngủ (OSA). Làm việc với dữ liệu CBCT, mình đã viết các kịch bản R để làm sạch, trực quan hóa và phân tích thống kê hình thái học đường thở trên, trực tiếp hỗ trợ cho một bài báo khoa học đã được công bố.

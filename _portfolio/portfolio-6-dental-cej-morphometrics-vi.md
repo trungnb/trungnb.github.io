@@ -6,8 +6,8 @@ date: 2026-07-28
 lang: vi
 permalink: /vi/portfolio/portfolio-6-dental-cej-morphometrics/
 ---
-**Project Repository (Google Drive):** [View Notebooks & Data](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)  
-**Tech Stack:** Python, Jupyter, Scikit-Image, Pandas, Data Visualization
+**Kho lưu trữ dự án (Google Drive):** [Xem Notebook & Dữ liệu](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)  
+**Công nghệ sử dụng:** Python, Jupyter, Scikit-Image, Pandas, Data Visualization
 
 ### Tổng quan
 Việc đo đạc 3D thủ công trong nha khoa vô cùng tốn thời gian. Với mong muốn tự học kiến thức cơ bản về thị giác máy tính, mình đã viết một kịch bản Python thử nghiệm để tự động hóa việc nhận diện CEJ và tính tỷ lệ thân-chân răng từ file NIfTI. Dù mới ở bước đầu, dự án nhỏ này giúp mình làm quen với các thuật toán trích xuất đặc trưng hình ảnh.

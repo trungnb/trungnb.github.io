@@ -6,8 +6,8 @@ date: 2026-08-01
 lang: vi
 permalink: /vi/portfolio/portfolio-1-periapical/
 ---
-**Live URL:** [https://periapical.ai.studio](https://periapical.ai.studio)  
-**Tech Stack:** Multimodal Large Language Models (Gemini Vision), Prompt Engineering, Web Application  
+**Đường dẫn dự án:** [https://periapical.ai.studio](https://periapical.ai.studio)  
+**Công nghệ sử dụng:** Multimodal Large Language Models (Gemini Vision), Prompt Engineering, Web Application  
 
 ### Tổng quan
 Nhận thấy sinh viên nha khoa thường thiếu phản hồi tức thì về lỗi X-quang do quỹ thời gian của giảng viên eo hẹp, mình muốn tìm hiểu xem AI có thể hỗ trợ được không. Mình đã tự học và thử nghiệm làm một web app sơ bộ dùng AI Gemini để đánh giá lỗi X-quang. Đây là bước đầu để mình khám phá liệu AI tạo sinh có thể đóng vai trò như một trợ giảng ảo cơ bản trong tương lai hay không.

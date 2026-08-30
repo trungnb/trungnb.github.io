@@ -6,8 +6,8 @@ date: 2026-06-15
 lang: vi
 permalink: /vi/portfolio/portfolio-3-ctgan/
 ---
-**Project Repository (Google Drive):** [View Notebooks & Data](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)  
-**Tech Stack:** Python, CTGAN, ctdGAN, Scikit-Learn, Differential Privacy  
+**Kho lưu trữ dự án (Google Drive):** [Xem Notebook & Dữ liệu](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)  
+**Công nghệ sử dụng:** Python, CTGAN, ctdGAN, Scikit-Learn, Differential Privacy  
 
 ### Tổng quan
 Một rào cản lớn khi làm AI y tế là sự khan hiếm các bộ dữ liệu lâm sàng mã nguồn mở do luật bảo mật nghiêm ngặt. Để tìm hiểu về bảo mật dữ liệu, mình đã thử nghiệm dùng CTGAN và ctdGAN để tổng hợp dữ liệu nhân trắc học nhân tạo (Tuổi, Chủng tộc, Giới tính). Dự án khám phá này là bước đầu giúp mình hiểu cách các nhà nghiên cứu có thể chia sẻ dữ liệu y tế an toàn trong tương lai.

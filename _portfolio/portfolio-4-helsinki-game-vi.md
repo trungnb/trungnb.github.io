@@ -6,8 +6,8 @@ date: 2024-12-01
 lang: vi
 permalink: /vi/portfolio/portfolio-4-helsinki-game/
 ---
-**GitHub Repository:** [https://github.com/trungnb/Game_project](https://github.com/trungnb/Game_project)  
-**Tech Stack:** Python, Pygame, Object-Oriented Programming (OOP)  
+**Kho lưu trữ GitHub:** [https://github.com/trungnb/Game_project](https://github.com/trungnb/Game_project)  
+**Công nghệ sử dụng:** Python, Pygame, Object-Oriented Programming (OOP)  
 
 ### Tổng quan
 Việc tìm hiểu AI y tế đòi hỏi các kiến thức nền tảng về khoa học máy tính mà mình còn thiếu. Để bước ra khỏi vùng an toàn lâm sàng và tập code, mình đã tự mài mò làm một game arcade 2D cơ bản bằng Python. Quá trình tự thử nghiệm và sửa lỗi (trial and error) để xử lý va chạm trong game là một cách thú vị giúp mình tự học các kiến thức cơ bản về Lập trình hướng đối tượng (OOP).
