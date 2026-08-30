@@ -12,6 +12,7 @@ date: 2026-08-01
 Noticing that dental students often lack immediate feedback on X-ray errors due to scarce instructor time, I built PeriApicaI—a web application utilizing generative AI as a virtual tutor. Recently upgraded to v2.8.9, the platform now features a dual-model consensus pipeline and semantic guardrails for enhanced reliability in medical imaging contexts.
 
 ### Key Features & Technical Approach
+
 * **Dual-Model Consensus Pipeline:** Runs parallel AI vision inferences (e.g., Gemini Pro & Flash) and cross-validates bounding polygons to filter out single-model hallucinations and tag findings with precise provenance ("Consensus" vs. "Review Required").
 * **Semantic Validation Engine:** Implemented hard backend schema validators that intercept AI responses, clamp confidence scores, and enforce strict taxonomy mappings against established dental dictionaries.
 * **Pathology Segmentation:** Extended the AI capabilities from basic technical errors (e.g., cone-cutting, elongation) to detecting 8-class dental pathologies with spatial polygon mapping.

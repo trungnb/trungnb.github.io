@@ -13,6 +13,7 @@ permalink: /vi/portfolio/portfolio-1-periapical/
 Nhận thấy sinh viên nha khoa thường thiếu phản hồi tức thì về phim X-quang do quỹ thời gian của giảng viên eo hẹp, mình đã phát triển PeriApicaI. Với bản nâng cấp v2.8.9, ứng dụng hiện tích hợp luồng hội chẩn AI song song (Dual-model Consensus) và các lớp giáp bảo vệ ngữ nghĩa (Semantic Guardrails), biến AI tạo sinh thành một trợ giảng ảo an toàn và đáng tin cậy hơn.
 
 ### Tính năng Nổi bật & Kỹ thuật
+
 * **Luồng Hội chẩn AI Song song:** Khởi chạy đồng thời 2 mô hình (VD: Gemini Pro & Flash) để đối chiếu chéo tọa độ vùng tổn thương (IoU Matching), giúp loại bỏ các ảo giác (hallucination) đơn lẻ và gán nhãn độ tin cậy rõ ràng ("Hội chẩn" vs "Cần rà soát").
 * **Semantic Validation Engine:** Xây dựng cơ chế xác thực lược đồ (schema) backend cứng, bắt lỗi đầu ra của AI, giới hạn điểm tin cậy, và ép buộc AI chỉ được phép dùng các thuật ngữ bệnh lý chuẩn.
 * **Phân đoạn Tổn thương (Pathology Segmentation):** Nâng cấp năng lực phân tích từ các lỗi kỹ thuật cơ bản (cắt nón, giãn ảnh) lên khả năng phát hiện và khoanh vùng 8 loại bệnh lý nha khoa khác nhau.
