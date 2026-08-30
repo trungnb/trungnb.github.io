@@ -1,23 +1,21 @@
 ---
 title: "PeriApicaI: AI Dental Radiography Platform"
-excerpt: "Interactive clinical platform utilizing Gemini Vision LLMs to diagnose periapical X-ray errors.<br/><img src='https://img.shields.io/badge/Live_App-periapical.ai.studio-blue'>"
+excerpt: "Interactive clinical platform utilizing dual-mode Gemini Vision LLMs to diagnose periapical X-ray errors and segment pathologies.<br/><img src='https://img.shields.io/badge/Live_App-periapical.ai.studio-blue'>"
 collection: portfolio
 date: 2026-08-01
 ---
 
 **Live URL:** [https://periapical.ai.studio](https://periapical.ai.studio)  
-**Tech Stack:** Multimodal Large Language Models (Gemini Vision), Prompt Engineering, Web Application  
+**Tech Stack:** Multimodal LLMs (Gemini Vision), React/TypeScript, Prompt Engineering, Firebase  
 
 ### Overview
-Noticing that dental students often lack immediate feedback on X-ray errors due to scarce instructor time, I wanted to explore if AI could help. I built a preliminary web app using Gemini AI to test instant periapical evaluations. It was a great learning experience in prompt engineering, taking my first steps to see if generative AI might one day serve as a basic virtual tutor.
+Noticing that dental students often lack immediate feedback on X-ray errors due to scarce instructor time, I built PeriApicaI—a web application utilizing generative AI as a virtual tutor. Recently upgraded to v2.8.9, the platform now features a dual-model consensus pipeline and semantic guardrails for enhanced reliability in medical imaging contexts.
 
-### Motivation
-Dental radiology requires intense pattern recognition. Instructors are often overwhelmed, leaving students guessing about their technical errors (e.g., cone-cutting, elongation). I wanted to see if multimodal Large Language Models could bridge this educational gap.
+### Key Features & Technical Approach
+* **Dual-Model Consensus Pipeline:** Runs parallel AI vision inferences (e.g., Gemini Pro & Flash) and cross-validates bounding polygons to filter out single-model hallucinations and tag findings with precise provenance ("Consensus" vs. "Review Required").
+* **Semantic Validation Engine:** Implemented hard backend schema validators that intercept AI responses, clamp confidence scores, and enforce strict taxonomy mappings against established dental dictionaries.
+* **Pathology Segmentation:** Extended the AI capabilities from basic technical errors (e.g., cone-cutting, elongation) to detecting 8-class dental pathologies with spatial polygon mapping.
+* **Reliability Engineering:** Enforced global execution budgets with AbortControllers, preventing ghost requests and protecting API quotas while maintaining stable performance metrics.
 
-### Technical Approach
-* Integrated Google's Gemini Vision API to analyze uploaded periapical X-rays.
-* Experimented with prompt engineering to constrain the AI's output to standard radiographic errors.
-* Built a simple, interactive web interface for immediate user feedback.
-
-### Key Learnings & Future Work
-Learned how to structure prompts for multimodal AI to reduce hallucinations in medical imaging contexts. **Future Work:** Hope to refine the AI's accuracy by exploring fine-tuning techniques with a dedicated dataset of annotated dental radiographs.
+### Learnings & Future Work
+Developed deep experience in multimodal prompt engineering and mitigating LLM hallucination through strict bounding box mapping and schema validation. **Future Work:** Aim to refine spatial accuracy via fine-tuning techniques using a dedicated, clinically-annotated dataset.
