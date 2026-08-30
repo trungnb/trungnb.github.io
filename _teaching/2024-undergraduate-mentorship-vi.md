@@ -1,17 +1,17 @@
 ---
-title: "Clinical Research & Oral Radiology Mentorship"
+title: "Hướng dẫn Nghiên cứu Lâm sàng & Chẩn đoán Hình ảnh"
 collection: teaching
-type: "Undergraduate Research Supervision"
+type: "Hướng dẫn Nghiên cứu Đại học"
 permalink: /vi/teaching/2024-undergraduate-mentorship
-venue: "University of Medicine and Pharmacy at Ho Chi Minh City, Faculty of Dentistry"
+venue: "Khoa Răng Hàm Mặt, Đại học Y Dược TP.HCM"
 date: 2024-01-01
-location: "Ho Chi Minh City, Vietnam"
+location: "TP. Hồ Chí Minh, Việt Nam"
 lang: vi
 ---
 
-Supervised a cohort of **5 undergraduate dental students** in clinical research methodology, oral radiology interpretation, and CBCT anatomical landmark identification.
+Hướng dẫn một nhóm gồm **5 sinh viên nha khoa (hệ đại học)** về phương pháp luận nghiên cứu lâm sàng, cách đọc kết quả chẩn đoán hình ảnh và kỹ năng xác định các mốc giải phẫu trên phim CBCT.
 
-### Responsibilities:
-- Trained students on 3D CBCT software (ITK-SNAP, specialized viewer tools).
-- Guided data collection, anatomical landmark localization, and verification protocols.
-- Provided feedback on scientific writing and statistical interpretation in R.
+### Trách nhiệm và Phạm vi Hướng dẫn:
+- Đào tạo sinh viên sử dụng các phần mềm phân tích CBCT 3D (ITK-SNAP, OnDemand3D).
+- Hướng dẫn quy trình thu thập dữ liệu, xác định các mốc giải phẫu và các quy trình kiểm chứng chéo.
+- Góp ý và hỗ trợ các kỹ năng viết báo cáo khoa học và đọc hiểu các phân tích thống kê bằng R.

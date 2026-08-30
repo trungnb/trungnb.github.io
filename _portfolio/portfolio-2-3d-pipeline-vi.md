@@ -10,10 +10,10 @@ permalink: /vi/portfolio/portfolio-2-3d-pipeline/
 **Tech Stack:** Python, TotalSegmentator, NiBabel, PyTorch, Pandas  
 
 ### Tổng quan
-Các nghiên cứu giải phẫu thường bị đình trệ do khâu phân vùng CBCT thủ công chậm chạp. Nhằm mục đích tự học xử lý ảnh y khoa, tôi đã thử nghiệm TotalSegmentator để xem liệu có thể tự động hóa việc trích xuất sọ mặt hay không. Những thử nghiệm bước đầu này giúp tôi làm quen với cách deep learning có thể hỗ trợ thu thập dữ liệu chỉnh nha.
+Các nghiên cứu giải phẫu thường bị đình trệ do khâu phân vùng CBCT thủ công chậm chạp. Nhằm mục đích tự học xử lý ảnh y khoa, mình đã thử nghiệm TotalSegmentator để xem liệu có thể tự động hóa việc trích xuất sọ mặt hay không. Những thử nghiệm bước đầu này giúp mình làm quen với cách deep learning có thể hỗ trợ thu thập dữ liệu chỉnh nha.
 
 ### Động lực thực hiện
-Trong quá trình thu thập dữ liệu nghiên cứu, tôi nhận ra việc tô vẽ mặt nạ (masking) trên từng lát cắt CBCT thủ công là cực kỳ kém hiệu quả. Tôi muốn bước ra khỏi lối mòn lâm sàng để tìm hiểu các công cụ deep learning mã nguồn mở có thể tự động hóa quy trình nhàm chán này.
+Trong quá trình thu thập dữ liệu nghiên cứu, mình nhận ra việc tô vẽ mặt nạ (masking) trên từng lát cắt CBCT thủ công là cực kỳ kém hiệu quả. Mình muốn bước ra khỏi lối mòn lâm sàng để tìm hiểu các công cụ deep learning mã nguồn mở có thể tự động hóa quy trình nhàm chán này.
 
 ### Phương pháp Kỹ thuật
 * Thiết lập môi trường Python cơ bản để chạy TotalSegmentator trên phim CBCT (định dạng NIfTI).

@@ -1,17 +1,17 @@
 ---
-title: "Anatomical Morphology of the Maxillary Premolar Alveolar Bone in Vietnamese Adults Assessed by Cone Beam Computed Tomography"
+title: "Hình thái giải phẫu xương ổ vùng răng cối nhỏ hàm trên người Việt trưởng thành qua hình ảnh cắt lớp chùm tia hình nón"
 collection: publications
 permalink: /vi/publication/2025-02-01-maxillary-premolar-alveolar-bone
 excerpt: "Đánh giá hình thái xương ổ răng cối nhỏ hàm trên qua CBCT, nhấn mạnh các lưu ý lâm sàng khi đặt implant tức thì do bản xương ngoài mỏng và chân răng sát xoang hàm."
 date: 2025-02-01
-venue: 'Vietnam Medical Journal (VMJ)'
+venue: 'Tạp chí Y học Việt Nam'
 paperurl: 'https://doi.org/10.51298/vmj.v555i3.16172'
-citation: 'Ngo AD, Nguyen BT, Vo CH, Lam DP. (2025). &quot;Anatomical Morphology of the Maxillary Premolar Alveolar Bone in Vietnamese Adults Assessed by Cone Beam Computed Tomography.&quot; <i>Vietnam Medical Journal</i>, 555(3).'
+citation: 'Ngô AĐ, Nguyễn BT, Võ CH, Lâm ĐP. (2025). &quot;Hình thái giải phẫu xương ổ vùng răng cối nhỏ hàm trên người Việt trưởng thành qua hình ảnh cắt lớp chùm tia hình nón.&quot; <i>Tạp chí Y học Việt Nam</i>, 555(3).'
 lang: vi
 ---
 
-**Tác giả:** Ngo AD, **Nguyen BT**, Vo CH, Lam DP  
-**Tạp chí:** *Vietnam Medical Journal (VMJ)*, 2025; 555(3)  
+**Tác giả:** Ngô AĐ, **Nguyễn BT**, Võ CH, Lâm ĐP  
+**Tạp chí:** *Tạp chí Y học Việt Nam*, 2025; 555(3)  
 **DOI:** [10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172)  
 
 ### Tóm tắt

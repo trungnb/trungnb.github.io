@@ -10,10 +10,10 @@ permalink: /vi/portfolio/portfolio-5-osa-airway-statistics/
 **Related Publication:** *Upper Airway Dimensions on CBCT in Vietnamese Subjects with and without Obstructive Sleep Apnea* (Vietnam Medical Journal, 2025)
 
 ### Tổng quan
-Kho lưu trữ này chứa các kịch bản mô hình hóa thống kê được phát triển cho Luận văn Thạc sĩ của tôi về Hội chứng ngưng thở khi ngủ (OSA). Làm việc với dữ liệu CBCT, tôi đã viết các kịch bản R để làm sạch, trực quan hóa và phân tích thống kê hình thái học đường thở trên, trực tiếp hỗ trợ cho một bài báo khoa học đã được công bố.
+Kho lưu trữ này chứa các kịch bản mô hình hóa thống kê được phát triển cho Luận văn Thạc sĩ của mình về Hội chứng ngưng thở khi ngủ (OSA). Làm việc với dữ liệu CBCT, mình đã viết các kịch bản R để làm sạch, trực quan hóa và phân tích thống kê hình thái học đường thở trên, trực tiếp hỗ trợ cho một bài báo khoa học đã được công bố.
 
 ### Động lực thực hiện
-Đối với Luận văn Thạc sĩ, tôi cần xử lý và phân tích các số đo thể tích phức tạp của đường thở trên. Thay vì chỉ phụ thuộc vào các phần mềm thống kê thao tác bằng chuột (như SPSS), tôi muốn học ngôn ngữ R để đảm bảo tính tái lập (reproducibility) và vẽ biểu đồ dữ liệu bằng code.
+Đối với Luận văn Thạc sĩ, mình cần xử lý và phân tích các số đo thể tích phức tạp của đường thở trên. Thay vì chỉ phụ thuộc vào các phần mềm thống kê thao tác bằng chuột (như SPSS), mình muốn học ngôn ngữ R để đảm bảo tính tái lập (reproducibility) và vẽ biểu đồ dữ liệu bằng code.
 
 ### Phương pháp Kỹ thuật
 * Xử lý và làm sạch một bộ dữ liệu lâm sàng gồm 111 số đo từ phim CBCT.

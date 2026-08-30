@@ -10,10 +10,10 @@ permalink: /vi/portfolio/portfolio-3-ctgan/
 **Tech Stack:** Python, CTGAN, ctdGAN, Scikit-Learn, Differential Privacy  
 
 ### Tổng quan
-Một rào cản lớn khi làm AI y tế là sự khan hiếm các bộ dữ liệu lâm sàng mã nguồn mở do luật bảo mật nghiêm ngặt. Để tìm hiểu về bảo mật dữ liệu, tôi đã thử nghiệm dùng CTGAN và ctdGAN để tổng hợp dữ liệu nhân trắc học nhân tạo (Tuổi, Chủng tộc, Giới tính). Dự án khám phá này là bước đầu giúp tôi hiểu cách các nhà nghiên cứu có thể chia sẻ dữ liệu y tế an toàn trong tương lai.
+Một rào cản lớn khi làm AI y tế là sự khan hiếm các bộ dữ liệu lâm sàng mã nguồn mở do luật bảo mật nghiêm ngặt. Để tìm hiểu về bảo mật dữ liệu, mình đã thử nghiệm dùng CTGAN và ctdGAN để tổng hợp dữ liệu nhân trắc học nhân tạo (Tuổi, Chủng tộc, Giới tính). Dự án khám phá này là bước đầu giúp mình hiểu cách các nhà nghiên cứu có thể chia sẻ dữ liệu y tế an toàn trong tương lai.
 
 ### Động lực thực hiện
-Khi đọc các bài báo nghiên cứu AI, tôi nhận thấy việc tiếp cận dữ liệu lâm sàng rất khó khăn do đạo luật HIPAA và quyền bảo mật bệnh nhân. Tôi trở nên tò mò muốn biết việc Tổng hợp Dữ liệu Nhân tạo (Synthetic Data Generation) có thể giải quyết điểm nghẽn này như thế nào.
+Khi đọc các bài báo nghiên cứu AI, mình nhận thấy việc tiếp cận dữ liệu lâm sàng rất khó khăn do đạo luật HIPAA và quyền bảo mật bệnh nhân. Mình trở nên tò mò muốn biết việc Tổng hợp Dữ liệu Nhân tạo (Synthetic Data Generation) có thể giải quyết điểm nghẽn này như thế nào.
 
 ### Phương pháp Kỹ thuật
 * Sử dụng hệ sinh thái Synthetic Data Vault (SDV) để huấn luyện các mô hình CTGAN và ctdGAN.
