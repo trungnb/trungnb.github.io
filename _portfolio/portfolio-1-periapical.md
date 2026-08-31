@@ -9,14 +9,14 @@ date: 2026-08-01
 **Tech Stack:** Multimodal LLMs (Gemini Vision), React/TypeScript, Prompt Engineering, Firebase  
 
 ### Overview
-Noticing that dental students often lack immediate feedback on X-ray errors due to scarce instructor time, I built PeriApicaI—a web application utilizing generative AI as a virtual tutor. Recently upgraded to v2.8.9, the platform now features a dual-model consensus pipeline and semantic guardrails for enhanced reliability in medical imaging contexts.
+Dental radiology requires intense pattern recognition, yet students often lack immediate feedback on X-ray errors due to scarce instructor time. To bridge this educational gap, I built **PeriApicaI**—an AI-powered web application that serves as a virtual clinical tutor. The platform evaluates uploaded periapical radiographs in real-time, providing instant technical feedback and pathology segmentation to help students and practitioners refine their diagnostic skills.
 
 ### Key Features & Technical Approach
 
-* **Dual-Model Consensus Pipeline:** Runs parallel AI vision inferences (e.g., Gemini Pro & Flash) and cross-validates bounding polygons to filter out single-model hallucinations and tag findings with precise provenance ("Consensus" vs. "Review Required").
-* **Semantic Validation Engine:** Implemented hard backend schema validators that intercept AI responses, clamp confidence scores, and enforce strict taxonomy mappings against established dental dictionaries.
-* **Pathology Segmentation:** Extended the AI capabilities from basic technical errors (e.g., cone-cutting, elongation) to detecting 8-class dental pathologies with spatial polygon mapping.
-* **Reliability Engineering:** Enforced global execution budgets with AbortControllers, preventing ghost requests and protecting API quotas while maintaining stable performance metrics.
+* **Comprehensive Diagnostic Pipelines:** The platform supports both Technical Error Detection (e.g., cone-cutting, elongation) and Pathology Segmentation (identifying and mapping 8 distinct classes of dental lesions).
+* **Dual-Model Consensus Architecture:** To ensure clinical reliability, the app runs parallel AI vision inferences (e.g., Gemini Pro & Flash). It cross-validates bounding polygons to filter out single-model hallucinations and tags findings with precise provenance ("Consensus" vs. "Review Required").
+* **Semantic Validation Engine:** Robust backend schema validators intercept AI responses, clamp confidence scores, and enforce strict taxonomy mappings against established dental dictionaries, preventing unformatted or hallucinatory outputs from reaching the user.
+* **Resilient Infrastructure:** Engineered for stability and cost-efficiency with global execution budgets, asynchronous AbortControllers to prevent ghost requests, and a bounded offline-queue for robust data syncing even under poor network conditions.
 
 ### Learnings & Future Work
-Developed deep experience in multimodal prompt engineering and mitigating LLM hallucination through strict bounding box mapping and schema validation. **Future Work:** Aim to refine spatial accuracy via fine-tuning techniques using a dedicated, clinically-annotated dataset.
+Developing PeriApicaI provided deep experience in multimodal prompt engineering and mitigating LLM hallucination through strict bounding box intersection algorithms and schema validation. **Future Work:** Aim to refine spatial accuracy via fine-tuning techniques using a dedicated, clinically-annotated dataset of dental radiographs.
