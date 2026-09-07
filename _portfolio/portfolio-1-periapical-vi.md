@@ -1,16 +1,16 @@
 ---
 title: "PeriApicaI: Nền tảng AI Đào tạo X-quang"
-excerpt: "Nền tảng lâm sàng tương tác sử dụng LLM Đa phương thức (Gemini Vision) để phân tích lỗi X-quang và khoanh vùng tổn thương.<br/><img src='https://img.shields.io/badge/Live_App-periapical.ai.studio-blue'>"
+excerpt: "Nền tảng lâm sàng tương tác sử dụng LLM Đa phương thức (Gemini Vision) để phân tích lỗi X-quang và khoanh vùng tổn thương.<br/><img src='https://img.shields.io/badge/Live_App-periapical.ai.studio-blue'> <img src='https://img.shields.io/badge/Ph%C6%B0%C6%A1ng_ph%C3%A1p-Vibe_Coding_%26_Prompt_Eng-purple'>"
 collection: portfolio
 date: 2026-08-01
 lang: vi
 permalink: /vi/portfolio/portfolio-1-periapical/
 ---
 **Đường dẫn dự án:** [https://periapical.ai.studio](https://periapical.ai.studio)  
-**Công nghệ sử dụng:** Multimodal LLMs (Gemini Vision), React/TypeScript, Express, Prompt Engineering, Firebase  
+**Công nghệ sử dụng:** Multimodal LLMs (Gemini Vision), Kỹ nghệ câu lệnh (Prompt Engineering), Phát triển có AI hỗ trợ (Vibe Coding), Express, Firebase  
 
 ### Tổng quan
-Phim X-quang nha khoa đòi hỏi kỹ năng nhận diện hình ảnh rất cao, nhưng sinh viên thường thiếu phản hồi tức thì do quỹ thời gian của giảng viên eo hẹp. Để lấp đầy khoảng trống này, mình đã phát triển **PeriApicaI**—một ứng dụng web đóng vai trò như trợ giảng ảo. Vượt qua giai đoạn thử nghiệm sơ bộ để trở thành một hệ thống sẵn sàng vận hành thực tế (production-ready), nền tảng đánh giá phim X-quang quanh chóp theo thời gian thực, cung cấp phản hồi tức thì về lỗi kỹ thuật chụp cũng như khoanh vùng tổn thương, giúp sinh viên và nha sĩ nhanh chóng rèn luyện kỹ năng chẩn đoán.
+Phim X-quang nha khoa đòi hỏi kỹ năng nhận diện hình ảnh rất cao, nhưng sinh viên thường thiếu phản hồi tức thì do quỹ thời gian của giảng viên eo hẹp. Để lấp đầy khoảng trống này, mình đã phát triển **PeriApicaI**—một ứng dụng web đóng vai trò như trợ giảng ảo. Được xây dựng từ góc nhìn của một bác sĩ lâm sàng thông qua phương pháp **phát triển có AI hỗ trợ (vibe coding)** kết hợp cùng **kỹ nghệ câu lệnh (prompt engineering)** chuyên sâu, nền tảng đã nhanh chóng chuyển mình từ bản thử nghiệm sơ bộ thành một hệ thống sẵn sàng vận hành thực tế (production-ready). Nền tảng đánh giá phim X-quang quanh chóp theo thời gian thực, cung cấp phản hồi tức thì về lỗi kỹ thuật chụp cũng như khoanh vùng tổn thương, giúp sinh viên và nha sĩ rèn luyện kỹ năng chẩn đoán với các rào chắn an toàn y khoa chặt chẽ.
 
 ### Tính năng Nổi bật & Kỹ thuật
 
