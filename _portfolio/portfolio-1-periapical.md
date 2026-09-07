@@ -6,7 +6,7 @@ date: 2026-08-01
 ---
 
 **Live URL:** [https://periapical.ai.studio](https://periapical.ai.studio)  
-**Tech Stack:** Multimodal LLMs (Gemini Vision), Prompt Engineering, AI-Assisted Development (Vibe Coding), Express, Firebase  
+**Tech Stack:** Multimodal LLMs (Gemini Vision), Prompt Engineering, AI-Assisted Development (Vibe Coding)  
 
 ### Overview
 Dental radiology requires intense pattern recognition, yet students often lack immediate feedback on X-ray errors due to scarce instructor time. To bridge this educational gap, I built **PeriApicaI**—an AI-powered web application serving as a virtual clinical tutor. Developed from a clinician's perspective using **AI-assisted development (vibe coding)** and rigorous **prompt engineering**, the platform rapidly evolved from an experimental prototype into a production-ready application. It evaluates uploaded periapical radiographs in real-time, providing instant technical feedback and pathology segmentation to help students and practitioners refine their diagnostic skills under strict clinical guardrails.
