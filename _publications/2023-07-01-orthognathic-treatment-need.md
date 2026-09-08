@@ -5,6 +5,7 @@ permalink: /publication/2023-07-01-orthognathic-treatment-need
 excerpt: "A hospital-level cross-sectional study of sagittal skeletal relationships and functional need for orthognathic surgery."
 date: 2023-07-01
 venue: 'Journal of Malaria and Parasite Diseases Control'
+paper_link_label: 'Publication record'
 paperurl: 'https://www.researchgate.net/publication/372064327_TUONG_QUAN_XUONG_HAM_CHIEU_TRUOC_SAU_VA_TY_LE_CAN_DIEU_TRI_PHAU_THUAT_CHINH_HINH_THEO_IOFTN_TAI_BENH_VIEN_THAI_THUONG_HOANG_NAM_2022'
 citation: 'Nguyen BT, Nguyen MH. (2023). &quot;Sagittal Skeletal Relationships and Orthognathic Surgery Treatment Need at Thai Thuong Hoang Hospital in 2022.&quot; <i>Journal of Malaria and Parasite Diseases Control</i>, 135(3), 42–48.'
 ---
