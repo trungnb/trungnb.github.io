@@ -15,10 +15,10 @@ Hướng tập trung nghiên cứu hiện tại của mình là giao điểm gi�
 * **CBCT và hình thái học răng**: Nghiên cứu kích thước đường thở trên ở người có và không có OSA, hình thái xương ổ răng cối nhỏ hàm trên, cùng các thử nghiệm về tỷ lệ thân-chân răng và đường nối men-xê măng (CEJ).
 * **Nghiên cứu định lượng có tính tái lập**: Làm sạch dữ liệu, phân tích thống kê và trực quan hóa khoa học bằng R và Python cho các số đo trích xuất từ CBCT.
 * **Thử nghiệm xử lý ảnh y khoa và AI**: Làm quen với TotalSegmentator, NiBabel, các mô hình tạo dữ liệu dạng bảng và AI đa phương thức qua các dự án cá nhân ở giai đoạn đầu.
-* **Phần mềm phục vụ đào tạo**: Nhà phát triển [PeriApicaI](https://periapical.ai.studio), một prototype web thử nghiệm phản hồi có hỗ trợ AI cho phim X-quang quanh chóp. Dự án chưa được thẩm định lâm sàng và không phải thiết bị y tế.
+* **Phần mềm phục vụ đào tạo**: Nhà phát triển [PeriApicaI](https://periapical.ai.studio), một prototype web thử nghiệm phản hồi có hỗ trợ AI cho hình ảnh quanh chóp. Dự án chưa được thẩm định lâm sàng và không phải thiết bị y tế.
 
 ### 📢 Tin tức & Cập nhật mới
-* **Tháng 08/2026**: Công bố **[PeriApicaI](https://periapical.ai.studio)**, prototype web thử nghiệm hỗ trợ đào tạo đọc phim X-quang nha khoa bằng AI.
+* **Tháng 08/2026**: Công bố **[PeriApicaI](https://periapical.ai.studio)**, prototype web thử nghiệm hỗ trợ đào tạo chẩn đoán hình ảnh nha khoa bằng AI.
 * **Tháng 02/2025**: Xuất bản bài báo đồng tác giả về "*Hình thái giải phẫu xương ổ vùng răng cối nhỏ hàm trên người Việt trưởng thành qua hình ảnh cắt lớp chùm tia hình nón*" trên Tạp chí Y học Việt Nam.
 * **Tháng 01/2025**: Xuất bản bài báo tác giả chính về "*Kích thước đường thở trên phim CBCT ở nhóm người Việt mắc và không mắc ngưng thở tắc nghẽn khi ngủ: Báo cáo loạt ca*" trên Tạp chí Y học Việt Nam.
 * **2025**: Hoàn thành **Thạc sĩ Răng Hàm Mặt** tại ĐHYD TP.HCM với luận văn về phân tích đường thở trên phim CBCT.

@@ -1,6 +1,6 @@
 ---
-title: "PeriApicaI: Nền tảng AI Đào tạo X-quang"
-excerpt: "Prototype web thử nghiệm dùng Gemini Vision để hỗ trợ rà soát phim X-quang quanh chóp.<br/><img src='https://img.shields.io/badge/Prototype-periapical.ai.studio-blue'> <img src='https://img.shields.io/badge/Methodology-AI--assisted_development_%26_prompt_design-purple'>"
+title: "PeriApicaI: Prototype AI cho Chẩn đoán Hình ảnh Nha khoa"
+excerpt: "Prototype web thử nghiệm dùng Gemini Vision để hỗ trợ rà soát hình ảnh quanh chóp.<br/><img src='https://img.shields.io/badge/Prototype-periapical.ai.studio-blue'> <img src='https://img.shields.io/badge/Methodology-AI--assisted_development_%26_prompt_design-purple'>"
 collection: portfolio
 translation_key: portfolio-1-periapical
 date: 2026-08-01
@@ -11,7 +11,7 @@ permalink: /vi/portfolio/portfolio-1-periapical/
 **Công nghệ sử dụng:** Multimodal LLMs (Gemini Vision), Thiết kế Prompt, Phát triển có hỗ trợ AI  
 
 ### Tổng quan
-Đọc phim X-quang nha khoa đòi hỏi sự thận trọng, nhưng người học không phải lúc nào cũng có thể nhận được phản hồi ngay từ giảng viên. Mình phát triển **PeriApicaI** như một prototype web thử nghiệm để tìm hiểu liệu AI đa phương thức có thể hỗ trợ việc học từ phim X-quang quanh chóp hay không. Dự án được xây dựng từ góc nhìn lâm sàng với phương pháp phát triển có hỗ trợ AI và thiết kế prompt; ứng dụng đưa ra phản hồi tự động về chất lượng kỹ thuật và các vùng phát hiện tiềm năng để người học rà soát. Kết quả chỉ có tính tham khảo; dự án chưa được thẩm định lâm sàng và không phải thiết bị y tế.
+Chẩn đoán hình ảnh nha khoa đòi hỏi sự thận trọng, nhưng người học không phải lúc nào cũng có thể nhận được phản hồi ngay từ giảng viên. Mình phát triển **PeriApicaI** như một prototype web thử nghiệm để tìm hiểu liệu AI đa phương thức có thể hỗ trợ việc học từ hình ảnh quanh chóp hay không. Dự án được xây dựng từ góc nhìn lâm sàng với phương pháp phát triển có hỗ trợ AI và thiết kế prompt; ứng dụng đưa ra phản hồi tự động về chất lượng kỹ thuật và các vùng phát hiện tiềm năng để người học rà soát. Kết quả chỉ có tính tham khảo; dự án chưa được thẩm định lâm sàng và không phải thiết bị y tế.
 
 ### Tính năng Nổi bật & Kỹ thuật
 

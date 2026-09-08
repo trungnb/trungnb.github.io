@@ -1,5 +1,5 @@
 ---
-title: "PeriApicaI: AI Dental Radiography Platform"
+title: "PeriApicaI: AI-Assisted Dental Radiology Prototype"
 excerpt: "Experimental web prototype using Gemini Vision models for AI-assisted review of periapical radiographs.<br/><img src='https://img.shields.io/badge/Prototype-periapical.ai.studio-blue'> <img src='https://img.shields.io/badge/Methodology-AI--assisted_development_%26_prompt_design-purple'>"
 collection: portfolio
 lang: en
