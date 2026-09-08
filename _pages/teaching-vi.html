@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% assign sorted_teaching = site.teaching | sort: 'date' | reverse %}
+{% for post in sorted_teaching %}
   {% if post.lang == 'vi' %}
     {% include archive-single.html %}
   {% endif %}

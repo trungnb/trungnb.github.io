@@ -17,9 +17,10 @@ Hướng tập trung nghiên cứu hiện tại của mình là giao điểm gi�
 
 ### 📢 Tin tức & Cập nhật mới
 * **Tháng 08/2026**: Công bố **[PeriApicaI](https://periapical.ai.studio)**, prototype web thử nghiệm hỗ trợ đào tạo đọc phim X-quang nha khoa bằng AI.
-* **2025**: Hoàn thành chứng chỉ **[Writing in the Sciences](/files/Stanford_Writing_in_the_Sciences.pdf)** (Viết khoa học) từ **Đại học Stanford (Online)**.
-* **2025**: Xuất bản bài báo đồng tác giả về "*Hình thái giải phẫu xương ổ vùng răng cối nhỏ hàm trên người Việt trưởng thành qua hình ảnh cắt lớp chùm tia hình nón*" trên Tạp chí Y học Việt Nam.
-* **2025**: Xuất bản bài báo tác giả chính về "*Kích thước đường thở trên phim CBCT ở nhóm người Việt mắc và không mắc ngưng thở tắc nghẽn khi ngủ: Báo cáo loạt ca*" trên Tạp chí Y học Việt Nam.
+* **Tháng 02/2025**: Xuất bản bài báo đồng tác giả về "*Hình thái giải phẫu xương ổ vùng răng cối nhỏ hàm trên người Việt trưởng thành qua hình ảnh cắt lớp chùm tia hình nón*" trên Tạp chí Y học Việt Nam.
+* **Tháng 01/2025**: Xuất bản bài báo tác giả chính về "*Kích thước đường thở trên phim CBCT ở nhóm người Việt mắc và không mắc ngưng thở tắc nghẽn khi ngủ: Báo cáo loạt ca*" trên Tạp chí Y học Việt Nam.
 * **2025**: Hoàn thành **Thạc sĩ Răng Hàm Mặt** tại ĐHYD TP.HCM với luận văn về phân tích đường thở trên phim CBCT.
+* **2025**: Hoàn thành chứng chỉ **[Writing in the Sciences](/files/Stanford_Writing_in_the_Sciences.pdf)** (Viết khoa học) từ **Đại học Stanford (Online)**.
 * **2024 – 2025**: Nhận tài trợ Nghiên cứu khoa học cấp cơ sở (30.000.000 VNĐ) từ ĐHYD TP.HCM cho đề tài nghiên cứu đường thở trên CBCT.
 * **2024 – 2025**: Hoàn thành chứng chỉ MOOCs của Đại học Helsinki về **[Lập trình Python nâng cao](/files/Helsinki_Advanced_Programming.png)** & **[Phân tích Dữ liệu với Python](/files/Helsinki_Data_Analysis.png)**.
+* **Tháng 07/2023**: Xuất bản bài báo tác giả chính về tương quan xương hàm và nhu cầu phẫu thuật chỉnh hình tại Bệnh viện Thái Thượng Hoàng ([doi:10.59253/tcpcsr.v135i3.126](https://doi.org/10.59253/tcpcsr.v135i3.126)).

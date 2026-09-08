@@ -12,11 +12,11 @@ author_profile: true
   *Đại học Y Dược TP.HCM (UMP HCMC), Việt Nam*  
   * **GPA:** 7.82 / 10  
   * **Luận văn:** *"Khảo sát kích thước đường thở trên ở bệnh nhân có và không mắc hội chứng ngưng thở khi ngủ bằng phương pháp chụp cắt lớp vi tính chùm tia hình nón"* (Cán bộ hướng dẫn: TS.BS. Lâm Đại Phong).
+* **Đào tạo liên tục về Phẫu thuật Hàm mặt** (2020 – 2021)<br>
+  *Bệnh viện Quân y 103, Hà Nội, Việt Nam*
 * **Bác sĩ Răng Hàm Mặt** (2014 – 2020)  
   *Trường Đại học Y Dược, Đại học Huế, Việt Nam*  
   * **GPA:** 7.27 / 10 (Chương trình đào tạo 6 năm).
-* **Đào tạo liên tục về Phẫu thuật Hàm mặt** (2020 – 2021)  
-  *Bệnh viện Quân y 103, Hà Nội, Việt Nam*
 
 ## Chứng chỉ
 * **[Writing in the Sciences](/files/Stanford_Writing_in_the_Sciences.pdf)** — Đại học Stanford (Stanford Online, 2025).
@@ -35,24 +35,24 @@ author_profile: true
   * Chuẩn bị ba bản thảo, hình minh họa và phản hồi cho quá trình phản biện của các sản phẩm nghiên cứu đã xuất bản và đang phản biện.
   * Hướng dẫn 5 sinh viên nha khoa về phương pháp nghiên cứu và chẩn đoán hình ảnh răng.
 
-## Công bố Khoa học
-1. **Nguyễn BT**, Nguyễn MH. (2023). Tương quan xương hàm chiều trước sau và tỷ lệ cần điều trị phẫu thuật chỉnh hình theo IOFTN tại Bệnh viện Thái Thượng Hoàng năm 2022. *Tạp chí Phòng chống Bệnh sốt rét và các bệnh ký sinh trùng*, 135(3), 42–48. [doi:10.59253/tcpcsr.v135i3.126](https://doi.org/10.59253/tcpcsr.v135i3.126). Tác giả thứ nhất; nghiên cứu cấp bệnh viện về tương quan xương hàm và nhu cầu phẫu thuật chỉnh hình.
-2. **Nguyễn BT**, Vũ TTQ, Bùi ĐK, Lâm ĐP. (2025). Kích thước đường thở trên phim CBCT ở người Việt có và không có hội chứng ngưng thở khi ngủ: Báo cáo hàng loạt ca. *Tạp chí Y học Việt Nam*, 553(3), 267–272. [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486). Tác giả thứ nhất; tham gia thiết kế nghiên cứu, xây dựng quy trình đo, phân tích và viết bản thảo.
-3. Ngô AĐ, **Nguyễn BT**, Võ CH, Lâm ĐP. (2025). Hình thái giải phẫu xương ổ vùng răng cối nhỏ hàm trên người Việt trưởng thành qua hình ảnh cắt lớp chùm tia hình nón. *Tạp chí Y học Việt Nam*, 555(3), 303–308. [doi:10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172). Đồng tác giả; tham gia trích xuất, làm sạch, phân tích thống kê dữ liệu và soạn thảo bản thảo.
-
 ## Bản thảo đang phản biện
 * Ngô AĐ, **Nguyễn BT**, Võ CH, Lâm ĐP. *Hình thái xương ổ vùng răng cối lớn hàm trên người Việt trưởng thành: Nghiên cứu CBCT phục vụ đặt implant tức thì*. *Dental Hypotheses*. Được ghi nhận đang phản biện trong CV tháng 8/2026; đóng góp gồm điều tra nghiên cứu, xử lý dữ liệu, phân tích thống kê bằng R và soạn thảo bản thảo. Đây chưa phải là bài báo đã xuất bản.
+
+## Công bố Khoa học
+1. Ngô AĐ, **Nguyễn BT**, Võ CH, Lâm ĐP. (2025). Hình thái giải phẫu xương ổ vùng răng cối nhỏ hàm trên người Việt trưởng thành qua hình ảnh cắt lớp chùm tia hình nón. *Tạp chí Y học Việt Nam*, 555(3), 303–308. [doi:10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172). Đồng tác giả; tham gia trích xuất, làm sạch, phân tích thống kê dữ liệu và soạn thảo bản thảo.
+2. **Nguyễn BT**, Vũ TTQ, Bùi ĐK, Lâm ĐP. (2025). Kích thước đường thở trên phim CBCT ở người Việt có và không có hội chứng ngưng thở khi ngủ: Báo cáo hàng loạt ca. *Tạp chí Y học Việt Nam*, 553(3), 267–272. [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486). Tác giả thứ nhất; tham gia thiết kế nghiên cứu, xây dựng quy trình đo, phân tích và viết bản thảo.
+3. **Nguyễn BT**, Nguyễn MH. (2023). Tương quan xương hàm chiều trước sau và tỷ lệ cần điều trị phẫu thuật chỉnh hình theo IOFTN tại Bệnh viện Thái Thượng Hoàng năm 2022. *Tạp chí Phòng chống Bệnh sốt rét và các bệnh ký sinh trùng*, 135(3), 42–48. [doi:10.59253/tcpcsr.v135i3.126](https://doi.org/10.59253/tcpcsr.v135i3.126). Tác giả thứ nhất; nghiên cứu cấp bệnh viện về tương quan xương hàm và nhu cầu phẫu thuật chỉnh hình.
 
 ## Giải thưởng & Tài trợ Nghiên cứu
 * **Tài trợ Nghiên cứu Khoa học Cấp trường** (2024 – 2025) — Đại học Y Dược TP.HCM. Kinh phí: **30.000.000 VNĐ** cho dự án nghiên cứu đường thở OSA trên phim CBCT.
 * **Giải Nhì, Cuộc thi Nghiên cứu Khoa học Thường niên** (2022) — Bệnh viện Thái Thượng Hoàng. Đề tài: Mối tương quan xương hàm theo chiều dọc và nhu cầu phẫu thuật chỉnh hình xương hàm.
 
 ## Dự án Nghiên cứu & Phần mềm Tiêu biểu
-* **[Luận văn Thạc sĩ: Phân tích Kích thước Đường thở trên Bệnh nhân OSA (R)](/vi/portfolio/portfolio-5-osa-airway-statistics/)** (Tháng 9/2025): Luồng R có tính tái lập để làm sạch, so sánh và trực quan hóa các số đo đường thở trên CBCT ở loạt ca 11 người Việt có và không có OSA.
 * **[PeriApicaI](https://periapical.ai.studio)** (Tháng 8/2026): Prototype web thử nghiệm phản hồi có hỗ trợ AI cho phim X-quang quanh chóp. Dự án có luồng rà soát chất lượng ảnh, khoanh vùng phát hiện tiềm năng, đối chiếu mô hình và lưu trạng thái con người rà soát; chưa được thẩm định lâm sàng và không phải thiết bị y tế.
 * **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Tháng 7/2026): Các notebook Python/Jupyter thử nghiệm căn chỉnh trục giải phẫu, định vị CEJ, tính tỷ lệ thân-chân răng và thể tích tủy từ dữ liệu răng 3D đã phân vùng.
 * **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Tháng 7/2026): Các notebook Python thử nghiệm TotalSegmentator và NiBabel để phân vùng dữ liệu NIfTI, tính thể tích cấu trúc và tạo hình chiếu 2D.
 * **[Medical Tabular Data Synthesis (CTGAN & ctdGAN)](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Tháng 6/2026): Các notebook thử nghiệm huấn luyện và đánh giá phân phối dữ liệu bằng CTGAN/ctdGAN trên dữ liệu nhân trắc học giả lập. Dự án không chứng minh rằng dữ liệu lâm sàng được bảo vệ riêng tư.
+* **[Luận văn Thạc sĩ: Phân tích Kích thước Đường thở trên Bệnh nhân OSA (R)](/vi/portfolio/portfolio-5-osa-airway-statistics/)** (Tháng 9/2025): Luồng R có tính tái lập để làm sạch, so sánh và trực quan hóa các số đo đường thở trên CBCT ở loạt ca 11 người Việt có và không có OSA.
 
 ## Giảng dạy & Hướng dẫn
 * **Hướng dẫn Nghiên cứu Lâm sàng** (2024 – 2025) — Khoa Răng Hàm Mặt, Đại học Y Dược TP.HCM. Hướng dẫn 5 sinh viên nha khoa về phương pháp luận nghiên cứu chẩn đoán hình ảnh.

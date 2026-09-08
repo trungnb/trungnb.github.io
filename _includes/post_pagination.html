@@ -2,7 +2,7 @@
 
 {% assign collection_posts = site[page.collection] %}
 {% if collection_posts %}
-  {% assign same_lang_posts = collection_posts | where: "lang", page.lang | sort: "date" %}
+  {% assign same_lang_posts = collection_posts | where: "lang", page.lang | sort: "date" | reverse %}
 {% else %}
   {% assign same_lang_posts = nil %}
 {% endif %}
