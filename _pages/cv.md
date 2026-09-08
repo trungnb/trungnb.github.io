@@ -34,16 +34,13 @@ redirect_from:
   *Department of Oral Radiology, UMP HCMC, Vietnam*  
   * Conducted a funded quantitative thesis project on upper-airway measurements in Vietnamese subjects with and without OSA using CBCT.  
   * Extracted anatomical measurements from 111 CBCT scans for a maxillary premolar alveolar bone study and analyzed the data in R and Python.  
-  * Prepared three manuscripts, publication figures, and reviewer responses across the published and under-review research outputs.
+  * Prepared manuscripts, publication figures, and reviewer responses across research outputs.
   * Supervised 5 undergraduate dental students in research methods and oral radiology.
-
-## Manuscript Under Review
-* Ngo AD, **Nguyen BT**, Vo CH, Lam DP. *Alveolar Morphology of the Maxillary Molars in Vietnamese Adults: A CBCT Study for Immediate Implant Placement*. *Dental Hypotheses*. Status reported as under review in August 2026; co-author contribution included study investigation, data manipulation, statistical analysis in R, and manuscript drafting. This item is not a published paper.
 
 ## Peer-Reviewed Publications
 1. Ngo AD, **Nguyen BT**, Vo CH, Lam DP. (2025). Anatomical Morphology of the Maxillary Premolar Alveolar Bone in Vietnamese Adults Assessed by Cone Beam Computed Tomography. *Vietnam Medical Journal (VMJ)*, 555(3), 303–308. [doi:10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172). Co-author; contributed to data extraction, cleaning, statistical analysis, and manuscript drafting.
 2. **Nguyen BT**, Vu TTQ, Bui DK, Lam DP. (2025). Upper Airway Dimensions on CBCT in Vietnamese Subjects with and without Obstructive Sleep Apnea: A Case Series. *Vietnam Medical Journal (VMJ)*, 553(3), 267–272. [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486). First author; contributed to the study design, measurement protocol, analysis, and manuscript.
-3. **Nguyen BT**, Nguyen MH. (2023). Sagittal Skeletal Relationships and Orthognathic Surgery Treatment Need at Thai Thuong Hoang Hospital in 2022. *Journal of Malaria and Parasite Diseases Control*, 135(3), 42–48. [doi:10.59253/tcpcsr.v135i3.126](https://doi.org/10.59253/tcpcsr.v135i3.126). First author; hospital-level study of sagittal skeletal relationships and orthognathic surgery treatment need.
+3. **Nguyen BT**, Nguyen MH. (2023). Sagittal Skeletal Relationships and Orthognathic Surgery Treatment Need at Thai Thuong Hoang Hospital in 2022. *Journal of Malaria and Parasite Diseases Control*, 135(3), 42–48. DOI: `10.59253/tcpcsr.v135i3.126`. [Publication record](https://www.researchgate.net/publication/372064327_TUONG_QUAN_XUONG_HAM_CHIEU_TRUOC_SAU_VA_TY_LE_CAN_DIEU_TRI_PHAU_THUAT_CHINH_HINH_THEO_IOFTN_TAI_BENH_VIEN_THAI_THUONG_HOANG_NAM_2022). First author; hospital-level study of sagittal skeletal relationships and orthognathic surgery treatment need.
 
 ## Research Grants & Awards
 * **University Research Grant** (2024 – 2025) — University of Medicine and Pharmacy at Ho Chi Minh City. Funding: **30,000,000 VND** for project on CBCT upper airway dimensions in OSA.

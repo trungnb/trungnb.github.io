@@ -32,16 +32,13 @@ author_profile: true
   *Bộ môn Chẩn đoán Hình ảnh, Đại học Y Dược TP.HCM, Việt Nam*  
   * Thực hiện đề tài luận văn có tài trợ về kích thước đường thở trên ở người có và không có OSA bằng CBCT.  
   * Trích xuất số đo giải phẫu từ 111 phim CBCT cho nghiên cứu hình thái xương ổ răng cối nhỏ hàm trên và phân tích dữ liệu bằng R, Python.  
-  * Chuẩn bị ba bản thảo, hình minh họa và phản hồi cho quá trình phản biện của các sản phẩm nghiên cứu đã xuất bản và đang phản biện.
+  * Chuẩn bị bản thảo, hình minh họa và phản hồi cho quá trình phản biện của các sản phẩm nghiên cứu.
   * Hướng dẫn 5 sinh viên nha khoa về phương pháp nghiên cứu và chẩn đoán hình ảnh răng.
-
-## Bản thảo đang phản biện
-* Ngô AĐ, **Nguyễn BT**, Võ CH, Lâm ĐP. *Hình thái xương ổ vùng răng cối lớn hàm trên người Việt trưởng thành: Nghiên cứu CBCT phục vụ đặt implant tức thì*. *Dental Hypotheses*. Được ghi nhận đang phản biện trong CV tháng 8/2026; đóng góp gồm điều tra nghiên cứu, xử lý dữ liệu, phân tích thống kê bằng R và soạn thảo bản thảo. Đây chưa phải là bài báo đã xuất bản.
 
 ## Công bố Khoa học
 1. Ngô AĐ, **Nguyễn BT**, Võ CH, Lâm ĐP. (2025). Hình thái giải phẫu xương ổ vùng răng cối nhỏ hàm trên người Việt trưởng thành qua hình ảnh cắt lớp chùm tia hình nón. *Tạp chí Y học Việt Nam*, 555(3), 303–308. [doi:10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172). Đồng tác giả; tham gia trích xuất, làm sạch, phân tích thống kê dữ liệu và soạn thảo bản thảo.
 2. **Nguyễn BT**, Vũ TTQ, Bùi ĐK, Lâm ĐP. (2025). Kích thước đường thở trên phim CBCT ở người Việt có và không có hội chứng ngưng thở khi ngủ: Báo cáo hàng loạt ca. *Tạp chí Y học Việt Nam*, 553(3), 267–272. [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486). Tác giả thứ nhất; tham gia thiết kế nghiên cứu, xây dựng quy trình đo, phân tích và viết bản thảo.
-3. **Nguyễn BT**, Nguyễn MH. (2023). Tương quan xương hàm chiều trước sau và tỷ lệ cần điều trị phẫu thuật chỉnh hình theo IOFTN tại Bệnh viện Thái Thượng Hoàng năm 2022. *Tạp chí Phòng chống Bệnh sốt rét và các bệnh ký sinh trùng*, 135(3), 42–48. [doi:10.59253/tcpcsr.v135i3.126](https://doi.org/10.59253/tcpcsr.v135i3.126). Tác giả thứ nhất; nghiên cứu cấp bệnh viện về tương quan xương hàm và nhu cầu phẫu thuật chỉnh hình.
+3. **Nguyễn BT**, Nguyễn MH. (2023). Tương quan xương hàm chiều trước sau và tỷ lệ cần điều trị phẫu thuật chỉnh hình theo IOFTN tại Bệnh viện Thái Thượng Hoàng năm 2022. *Tạp chí Phòng chống Bệnh sốt rét và các bệnh ký sinh trùng*, 135(3), 42–48. DOI: `10.59253/tcpcsr.v135i3.126`. [Bản ghi công bố](https://www.researchgate.net/publication/372064327_TUONG_QUAN_XUONG_HAM_CHIEU_TRUOC_SAU_VA_TY_LE_CAN_DIEU_TRI_PHAU_THUAT_CHINH_HINH_THEO_IOFTN_TAI_BENH_VIEN_THAI_THUONG_HOANG_NAM_2022). Tác giả thứ nhất; nghiên cứu cấp bệnh viện về tương quan xương hàm và nhu cầu phẫu thuật chỉnh hình.
 
 ## Giải thưởng & Tài trợ Nghiên cứu
 * **Tài trợ Nghiên cứu Khoa học Cấp trường** (2024 – 2025) — Đại học Y Dược TP.HCM. Kinh phí: **30.000.000 VNĐ** cho dự án nghiên cứu đường thở OSA trên phim CBCT.

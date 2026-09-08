@@ -23,4 +23,4 @@ Hướng tập trung nghiên cứu hiện tại của mình là giao điểm gi�
 * **2025**: Hoàn thành chứng chỉ **[Writing in the Sciences](/files/Stanford_Writing_in_the_Sciences.pdf)** (Viết khoa học) từ **Đại học Stanford (Online)**.
 * **2024 – 2025**: Nhận tài trợ Nghiên cứu khoa học cấp cơ sở (30.000.000 VNĐ) từ ĐHYD TP.HCM cho đề tài nghiên cứu đường thở trên CBCT.
 * **2024 – 2025**: Hoàn thành chứng chỉ MOOCs của Đại học Helsinki về **[Lập trình Python nâng cao](/files/Helsinki_Advanced_Programming.png)** & **[Phân tích Dữ liệu với Python](/files/Helsinki_Data_Analysis.png)**.
-* **Tháng 07/2023**: Xuất bản bài báo tác giả chính về tương quan xương hàm và nhu cầu phẫu thuật chỉnh hình tại Bệnh viện Thái Thượng Hoàng ([doi:10.59253/tcpcsr.v135i3.126](https://doi.org/10.59253/tcpcsr.v135i3.126)).
+* **Tháng 07/2023**: Xuất bản bài báo tác giả chính về tương quan xương hàm và nhu cầu phẫu thuật chỉnh hình tại Bệnh viện Thái Thượng Hoàng ([bản ghi công bố](https://www.researchgate.net/publication/372064327_TUONG_QUAN_XUONG_HAM_CHIEU_TRUOC_SAU_VA_TY_LE_CAN_DIEU_TRI_PHAU_THUAT_CHINH_HINH_THEO_IOFTN_TAI_BENH_VIEN_THAI_THUONG_HOANG_NAM_2022)).

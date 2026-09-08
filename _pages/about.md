@@ -26,4 +26,4 @@ My current research focus is at the intersection of **clinical dentistry, 3D med
 * **2025**: Completed the **[Writing in the Sciences](/files/Stanford_Writing_in_the_Sciences.pdf)** certification from **Stanford University (Online)**.
 * **2024 – 2025**: Awarded the **University Research Grant** (30,000,000 VND) by UMP HCMC for basic research in CBCT airway analysis.
 * **2024 – 2025**: Completed University of Helsinki MOOCs in **[Advanced Programming with Python](/files/Helsinki_Advanced_Programming.png)** & **[Data Analysis with Python](/files/Helsinki_Data_Analysis.png)**.
-* **July 2023**: Published first-author paper on sagittal skeletal relationships and orthognathic surgery treatment need at Thai Thuong Hoang Hospital ([doi:10.59253/tcpcsr.v135i3.126](https://doi.org/10.59253/tcpcsr.v135i3.126)).
+* **July 2023**: Published first-author paper on sagittal skeletal relationships and orthognathic surgery treatment need at Thai Thuong Hoang Hospital ([publication record](https://www.researchgate.net/publication/372064327_TUONG_QUAN_XUONG_HAM_CHIEU_TRUOC_SAU_VA_TY_LE_CAN_DIEU_TRI_PHAU_THUAT_CHINH_HINH_THEO_IOFTN_TAI_BENH_VIEN_THAI_THUONG_HOANG_NAM_2022)).
