@@ -15,7 +15,7 @@ This repository contains the statistical modeling scripts developed for my Maste
 For my Master's thesis, I needed to process and analyze complex volumetric measurements of the upper airway. Instead of relying solely on point-and-click statistical software (SPSS), I wanted to learn R to ensure reproducibility and programmatic data visualization.
 
 ### Technical Approach
-* Processed and cleaned a clinical dataset of 111 CBCT scan measurements.
+* Processed and cleaned a clinical dataset of 11 CBCT scan measurements (case series of Vietnamese subjects with and without OSA).
 * Wrote reproducible R scripts using `dplyr` for data wrangling and `ggplot2`/`ggpubr` for statistical plotting.
 * Conducted multivariate analyses to assess the correlation between airway dimensions and OSA severity.
 

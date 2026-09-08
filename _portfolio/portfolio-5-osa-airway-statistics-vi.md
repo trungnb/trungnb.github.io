@@ -16,7 +16,7 @@ Kho lưu trữ này chứa các kịch bản mô hình hóa thống kê được
 Đối với Luận văn Thạc sĩ, mình cần xử lý và phân tích các số đo thể tích phức tạp của đường thở trên. Thay vì chỉ phụ thuộc vào các phần mềm thống kê thao tác bằng chuột (như SPSS), mình muốn học ngôn ngữ R để đảm bảo tính tái lập (reproducibility) và vẽ biểu đồ dữ liệu bằng code.
 
 ### Phương pháp Kỹ thuật
-* Xử lý và làm sạch một bộ dữ liệu lâm sàng gồm 111 số đo từ phim CBCT.
+* Xử lý và làm sạch bộ dữ liệu lâm sàng gồm 11 ca chụp CBCT (báo cáo loạt ca ở người Việt có và không có OSA).
 * Viết kịch bản R có tính tái lập sử dụng `dplyr` để thao tác dữ liệu và `ggplot2`/`ggpubr` để vẽ biểu đồ thống kê.
 * Thực hiện các phân tích đa biến để đánh giá mối tương quan giữa kích thước đường thở và mức độ nghiêm trọng của OSA.
 

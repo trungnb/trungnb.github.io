@@ -30,7 +30,7 @@ redirect_from:
   * Conducted hospital-level clinical research on orthognathic surgery treatment demand.
 * **Graduate Research Assistant** (Sep 2023 – Dec 2025)  
   *Department of Oral Radiology, UMP HCMC, Vietnam*  
-  * Managed 3D volumetric data extraction from 111 CBCT radiographs.  
+  * Managed data extraction and anatomical landmark measurements from 111 CBCT radiographs for maxillary premolar alveolar bone morphology research.  
   * Developed data preprocessing and statistical analysis pipelines in R and Python.  
   * Supervised 5 undergraduate dental students in clinical research.
 

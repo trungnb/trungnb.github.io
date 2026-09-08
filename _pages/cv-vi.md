@@ -28,7 +28,7 @@ author_profile: true
   * Thực hiện nghiên cứu lâm sàng cấp cơ sở về nhu cầu phẫu thuật chỉnh hình xương hàm.
 * **Nghiên cứu sinh Thạc sĩ (Trợ lý Nghiên cứu)** (Tháng 9/2023 – Tháng 12/2025)  
   *Bộ môn Chẩn đoán Hình ảnh, Đại học Y Dược TP.HCM, Việt Nam*  
-  * Quản lý và trích xuất dữ liệu thể tích 3D từ 111 phim CBCT.  
+  * Quản lý và trích xuất dữ liệu đo đạc mốc giải phẫu từ 111 phim CBCT phục vụ nghiên cứu hình thái xương ổ răng cối nhỏ.  
   * Xây dựng luồng tiền xử lý dữ liệu và phân tích thống kê bằng ngôn ngữ R và Python.  
   * Hướng dẫn 5 sinh viên nha khoa thực tập nghiên cứu lâm sàng.
 
