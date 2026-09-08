@@ -1,6 +1,8 @@
 ---
 title: "Upper Airway Dimensions on CBCT in Vietnamese Subjects with and without Obstructive Sleep Apnea: A Case Series"
 collection: publications
+lang: en
+translation_key: upper-airway-cbct-osa
 permalink: /publication/2025-01-01-upper-airway-cbct-osa
 excerpt: "A CBCT-based case series evaluating the volumetric and cross-sectional dimensions of the upper airway in Vietnamese subjects with and without Obstructive Sleep Apnea (OSA)."
 date: 2025-01-01

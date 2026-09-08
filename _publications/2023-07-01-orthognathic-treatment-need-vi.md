@@ -1,6 +1,7 @@
 ---
 title: "Tương quan xương hàm chiều trước sau và tỷ lệ cần điều trị phẫu thuật chỉnh hình theo IOFTN tại Bệnh viện Thái Thượng Hoàng năm 2022"
 collection: publications
+translation_key: orthognathic-treatment-need
 permalink: /vi/publication/2023-07-01-orthognathic-treatment-need
 excerpt: "Nghiên cứu cấp bệnh viện về tương quan xương hàm theo chiều trước sau và nhu cầu điều trị phẫu thuật chỉnh hình theo IOFTN."
 date: 2023-07-01

@@ -2,6 +2,8 @@
 title: "Medical Tabular Data Synthesis (CTGAN & ctdGAN)"
 excerpt: "Exploratory CTGAN and ctdGAN notebooks using mock demographic data.<br/><img src='https://img.shields.io/badge/Tech-CTGAN_%7C_ctdGAN_%7C_Python-green'>"
 collection: portfolio
+lang: en
+translation_key: portfolio-3-ctgan
 date: 2026-06-15
 ---
 

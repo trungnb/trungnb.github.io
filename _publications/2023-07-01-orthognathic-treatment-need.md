@@ -1,6 +1,8 @@
 ---
 title: "Sagittal Skeletal Relationships and Orthognathic Surgery Treatment Need at Thai Thuong Hoang Hospital in 2022"
 collection: publications
+lang: en
+translation_key: orthognathic-treatment-need
 permalink: /publication/2023-07-01-orthognathic-treatment-need
 excerpt: "A hospital-level cross-sectional study of sagittal skeletal relationships and functional need for orthognathic surgery."
 date: 2023-07-01

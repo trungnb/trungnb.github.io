@@ -2,6 +2,7 @@
 title: "Thử nghiệm Phân tích Sọ mặt 3D"
 excerpt: "Luồng Python thử nghiệm với TotalSegmentator và NiBabel trên dữ liệu NIfTI 3D.<br/><img src='https://img.shields.io/badge/Tech-TotalSegmentator_%7C_NiBabel_%7C_Python-purple'>"
 collection: portfolio
+translation_key: portfolio-2-3d-pipeline
 date: 2026-07-17
 lang: vi
 permalink: /vi/portfolio/portfolio-2-3d-pipeline/

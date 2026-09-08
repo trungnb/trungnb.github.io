@@ -28,6 +28,12 @@ en: &DEFAULT_EN
   email_label                : "Email"
   recent_posts               : "Recent Posts"
   site_map                   : "Sitemap"
+  publication_label          : "Published in"
+  recommended_citation_label : "Recommended citation:"
+  view_publication_label     : "View publication"
+  download_paper_label       : "Download Paper"
+  download_slides_label      : "Download Slides"
+  download_bibtex_label      : "Download BibTeX"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
   comment_form_comment_label : "Comment"
@@ -48,6 +54,49 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
+
+# Vietnamese
+# -----------------
+vi:
+  <<: *DEFAULT_EN
+  breadcrumb_home_label      : "Trang chủ"
+  toc_label                  : "Mục lục"
+  ext_link_label             : "Liên kết trực tiếp"
+  less_than                  : "dưới"
+  minute_read                : "phút đọc"
+  share_on_label             : "Chia sẻ trên"
+  pagination_previous        : "Trước"
+  pagination_next            : "Tiếp"
+  tags_label                 : "Thẻ:"
+  categories_label           : "Danh mục:"
+  date_label                 : "Đăng:"
+  more_label                 : "Đọc thêm"
+  related_label              : "Có thể bạn quan tâm"
+  follow_label               : "Theo dõi:"
+  powered_by                 : "Được xây dựng bằng"
+  website_label              : "Trang web"
+  email_label                : "Email"
+  recent_posts               : "Bài viết gần đây"
+  site_map                   : "Sơ đồ trang"
+  comments_label             : "Bình luận"
+  comments_title             : "Bình luận"
+  comment_form_info          : "Địa chỉ email của bạn sẽ không được công khai. Các trường bắt buộc được đánh dấu"
+  comment_form_comment_label : "Bình luận"
+  comment_form_md_info       : "Có hỗ trợ Markdown."
+  comment_form_name_label    : "Tên"
+  comment_form_email_label   : "Địa chỉ email"
+  comment_form_website_label : "Trang web (không bắt buộc)"
+  comment_btn_submit         : "Gửi bình luận"
+  comment_btn_submitted      : "Đã gửi"
+  comment_success_msg        : "Cảm ơn bạn đã bình luận! Bình luận sẽ hiển thị sau khi được duyệt."
+  comment_error_msg          : "Đã xảy ra lỗi. Vui lòng kiểm tra các trường bắt buộc và thử lại."
+  loading_label              : "Đang tải..."
+  publication_label          : "Công bố tại"
+  recommended_citation_label : "Trích dẫn đề xuất:"
+  view_publication_label     : "Xem bài báo"
+  download_paper_label      : "Tải bài báo"
+  download_slides_label     : "Tải slide"
+  download_bibtex_label     : "Tải BibTeX"
 
 # Spanish
 # --------------

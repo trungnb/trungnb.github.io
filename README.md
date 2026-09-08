@@ -17,6 +17,17 @@ This repository powers the personal academic website of **Nguyen Bao Trung, MD, 
 * **`files/`**: Place downloadable PDFs here (e.g., full CV PDF, paper preprints).
 * **`images/`**: Site icons, favicons, and profile pictures (`profile.jpg`).
 
+## 🌐 Bilingual Content Convention
+
+English and Vietnamese pages are maintained as explicit pairs:
+
+* English content uses `lang: en`; Vietnamese content uses `lang: vi`.
+* Each pair shares the same `translation_key` and has matching URL structure under `/` and `/vi/`.
+* Collection entries should keep the same date in both languages so the index pages remain newest-first.
+* New pages and collection entries should be added in both languages, with `lang`, `translation_key`, `permalink`, and localized UI labels set in the front matter where needed.
+
+The language switcher uses `translation_key` to open the equivalent page. If a translation is not available yet, it falls back to the corresponding language homepage.
+
 ---
 
 ## 📸 How to Update Your Profile Photo (Avatar)
@@ -39,6 +50,8 @@ Create a new file in `_publications/` (e.g., `2026-06-01-new-paper-title.md`):
 ---
 title: "Your Paper Title Here"
 collection: publications
+lang: en
+translation_key: new-paper-title
 permalink: /publication/2026-06-01-new-paper-title
 excerpt: "Short 1-2 sentence summary of findings."
 date: 2026-06-01

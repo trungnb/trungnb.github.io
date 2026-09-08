@@ -2,6 +2,8 @@
 title: "Master's Thesis: Upper Airway Dimensions in OSA (R Analysis)"
 excerpt: "Reproducible R workflow for group comparisons and high-resolution visualization of CBCT airway measurements in OSA.<br/><img src='https://img.shields.io/badge/Tech-R_%7C_ggplot2_%7C_dplyr-blue'>"
 collection: portfolio
+lang: en
+translation_key: portfolio-5-osa-airway-statistics
 date: 2025-09-09
 ---
 

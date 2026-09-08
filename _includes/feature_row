@@ -1,4 +1,6 @@
 {% include base_path %}
+{% assign current_lang = page.lang | default: 'en' %}
+{% assign ui = site.data.ui-text[current_lang] %}
 
 {% if include.id %}
   {% assign feature_row = page.[include.id] %}
@@ -42,7 +44,7 @@
           {% endif %}
 
           {% if f.url %}
-            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: ui.more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
       </div>

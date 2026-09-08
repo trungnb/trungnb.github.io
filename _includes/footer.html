@@ -1,7 +1,9 @@
 {% include base_path %}
+{% assign current_lang = page.lang | default: 'en' %}
+{% assign ui = site.data.ui-text[current_lang] %}
 
 <div class="page__footer-copyright" style="text-align: center; font-size: 0.9em; padding: 5px 0;">
-  &copy; {{ site.time | date: '%Y' }} {% if page.url contains '/vi/' %}ThS.Bs. Nguyễn Bảo Trung{% else %}{{ site.name | default: site.title }}{% endif %}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>. &nbsp;|&nbsp; 
-  {% if page.url contains '/vi/' %}Cập nhật lần cuối:{% else %}Last updated:{% endif %} {{ "now" | date: '%Y-%m-%d' }} &nbsp;|&nbsp; 
-  <a href="/sitemap/" style="text-transform: uppercase;">{{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}</a>
+  &copy; {{ site.time | date: '%Y' }} {% if current_lang == 'vi' %}ThS.Bs. Nguyễn Bảo Trung{% else %}{{ site.name | default: site.title }}{% endif %}. {{ ui.powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>. &nbsp;|&nbsp;
+  {% if current_lang == 'vi' %}Cập nhật lần cuối:{% else %}Last updated:{% endif %} {{ "now" | date: '%Y-%m-%d' }} &nbsp;|&nbsp;
+  <a href="/sitemap/" style="text-transform: uppercase;">{{ ui.site_map | default: "Sitemap" }}</a>
 </div>

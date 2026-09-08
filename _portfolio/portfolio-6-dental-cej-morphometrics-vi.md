@@ -2,6 +2,7 @@
 title: "Hình thái học Nha khoa: CEJ & Tỷ lệ Thân-Chân răng"
 excerpt: "Các notebook Python thử nghiệm về CEJ và số đo thân-chân răng từ dữ liệu răng 3D đã phân vùng.<br/><img src='https://img.shields.io/badge/Tech-Python_%7C_Morphometrics-blue'>"
 collection: portfolio
+translation_key: portfolio-6-dental-cej-morphometrics
 date: 2026-07-28
 lang: vi
 permalink: /vi/portfolio/portfolio-6-dental-cej-morphometrics/

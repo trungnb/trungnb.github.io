@@ -2,6 +2,7 @@
 title: "PeriApicaI: Nền tảng AI Đào tạo X-quang"
 excerpt: "Prototype web thử nghiệm dùng Gemini Vision để hỗ trợ rà soát phim X-quang quanh chóp.<br/><img src='https://img.shields.io/badge/Prototype-periapical.ai.studio-blue'> <img src='https://img.shields.io/badge/Methodology-AI--assisted_development_%26_prompt_design-purple'>"
 collection: portfolio
+translation_key: portfolio-1-periapical
 date: 2026-08-01
 lang: vi
 permalink: /vi/portfolio/portfolio-1-periapical/

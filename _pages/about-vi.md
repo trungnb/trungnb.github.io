@@ -1,5 +1,7 @@
 ---
 permalink: /vi/
+lang: vi
+translation_key: home
 title: "ThS.Bs. Nguyễn Bảo Trung"
 excerpt: "Về mình"
 author_profile: true

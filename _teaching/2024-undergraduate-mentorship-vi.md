@@ -1,6 +1,7 @@
 ---
 title: "Hướng dẫn Nghiên cứu Lâm sàng & Chẩn đoán Hình ảnh"
 collection: teaching
+translation_key: undergraduate-mentorship
 type: "Hướng dẫn Nghiên cứu Đại học"
 permalink: /vi/teaching/2024-undergraduate-mentorship
 venue: "Khoa Răng Hàm Mặt, Đại học Y Dược TP.HCM"

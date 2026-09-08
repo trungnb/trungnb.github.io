@@ -1,6 +1,7 @@
 ---
 title: "Kích thước đường thở trên phim CBCT ở người Việt có và không có hội chứng Ngưng thở khi ngủ: Báo cáo hàng loạt ca"
 collection: publications
+translation_key: upper-airway-cbct-osa
 permalink: /vi/publication/2025-01-01-upper-airway-cbct-osa
 excerpt: "Đánh giá kích thước thể tích và diện tích cắt ngang đường thở trên ở bệnh nhân Việt Nam có và không mắc hội chứng ngưng thở khi ngủ (OSA) qua phim CBCT."
 date: 2025-01-01

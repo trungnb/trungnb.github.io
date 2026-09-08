@@ -1,4 +1,25 @@
 {% include base_path %}
+{% assign current_lang = page.lang | default: 'en' %}
+{% assign target_lang = 'vi' %}
+{% if current_lang == 'vi' %}
+  {% assign target_lang = 'en' %}
+{% endif %}
+{% assign translated_page = nil %}
+{% if page.translation_key %}
+  {% if page.collection %}
+    {% assign translation_candidates = site[page.collection] | where: 'translation_key', page.translation_key | where: 'lang', target_lang %}
+  {% else %}
+    {% assign translation_candidates = site.pages | where: 'translation_key', page.translation_key | where: 'lang', target_lang %}
+  {% endif %}
+  {% assign translated_page = translation_candidates | first %}
+{% endif %}
+{% if translated_page %}
+  {% assign language_url = translated_page.url %}
+{% elsif target_lang == 'vi' %}
+  {% assign language_url = '/vi/' %}
+{% else %}
+  {% assign language_url = '/' %}
+{% endif %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -6,9 +27,9 @@
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
-            <a href="{% if page.url contains '/vi/' %}{{ base_path }}/vi/{% else %}{{ base_path }}/{% endif %}">{% if page.url contains '/vi/' %}Nguyễn Bảo Trung{% else %}{{ site.title }}{% endif %}</a>
+            <a href="{% if current_lang == 'vi' %}{{ base_path }}/vi/{% else %}{{ base_path }}/{% endif %}">{% if current_lang == 'vi' %}Nguyễn Bảo Trung{% else %}{{ site.title }}{% endif %}</a>
           </li>
-          {% if page.url contains '/vi/' %}
+          {% if current_lang == 'vi' %}
             {% assign nav_links = site.data.navigation.main_vi %}
           {% else %}
             {% assign nav_links = site.data.navigation.main %}
@@ -24,8 +45,8 @@
             </li>
           {% endfor %}
           <li class="masthead__menu-item persist tail">
-            <a href="{% if page.url contains '/vi/' %}{{ base_path }}/{% else %}{{ base_path }}/vi/{% endif %}" title="Switch Language" style="font-weight: bold;">
-              <span style="font-size: 0.9em; text-transform: uppercase;">{% if page.url contains '/vi/' %}EN{% else %}VI{% endif %}</span>
+            <a href="{{ base_path }}{{ language_url }}" title="{% if current_lang == 'vi' %}Chuyển sang tiếng Anh{% else %}Switch to Vietnamese{% endif %}" style="font-weight: bold;">
+              <span style="font-size: 0.9em; text-transform: uppercase;">{% if current_lang == 'vi' %}EN{% else %}VI{% endif %}</span>
             </a>
           </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">

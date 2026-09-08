@@ -2,6 +2,7 @@
 title: "Tổng hợp Dữ liệu Y tế Dạng bảng"
 excerpt: "Các notebook CTGAN và ctdGAN thử nghiệm trên dữ liệu nhân trắc học giả lập.<br/><img src='https://img.shields.io/badge/Tech-CTGAN_%7C_ctdGAN_%7C_Python-green'>"
 collection: portfolio
+translation_key: portfolio-3-ctgan
 date: 2026-06-15
 lang: vi
 permalink: /vi/portfolio/portfolio-3-ctgan/

@@ -1,6 +1,8 @@
 ---
 title: "Anatomical Morphology of the Maxillary Premolar Alveolar Bone in Vietnamese Adults Assessed by Cone Beam Computed Tomography"
 collection: publications
+lang: en
+translation_key: maxillary-premolar-alveolar-bone
 permalink: /publication/2025-02-01-maxillary-premolar-alveolar-bone
 excerpt: "A CBCT assessment of maxillary premolar alveolar bone morphology, highlighting clinical implications for immediate implant placement due to thin buccal plates and sinus proximity."
 date: 2025-02-01

@@ -1,5 +1,7 @@
 ---
 layout: archive
+lang: en
+translation_key: publications_index
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -25,17 +27,15 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% if post.lang != 'vi' %}
+      {% if post.lang == 'en' %}
       {% include archive-single.html %}
       {% endif %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in sorted_publications %}
-    {% if post.lang != 'vi' %}
+    {% if post.lang == 'en' %}
       {% include archive-single.html %}
       {% endif %}
   {% endfor %}
 {% endif %}
-
-

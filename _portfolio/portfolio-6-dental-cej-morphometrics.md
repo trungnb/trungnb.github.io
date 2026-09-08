@@ -2,6 +2,8 @@
 title: "Dental Morphometrics: CEJ & Crown-Root Ratio"
 excerpt: "Proof-of-concept Python notebooks for exploratory CEJ and crown-root measurements from segmented 3D dental data.<br/><img src='https://img.shields.io/badge/Tech-Python_%7C_Morphometrics-blue'>"
 collection: portfolio
+lang: en
+translation_key: portfolio-6-dental-cej-morphometrics
 date: 2026-07-28
 ---
 

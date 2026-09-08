@@ -2,6 +2,8 @@
 title: "Exploratory 3D Craniofacial Analysis"
 excerpt: "Exploratory Python workflow using TotalSegmentator and NiBabel with 3D NIfTI data.<br/><img src='https://img.shields.io/badge/Tech-TotalSegmentator_%7C_NiBabel_%7C_Python-purple'>"
 collection: portfolio
+lang: en
+translation_key: portfolio-2-3d-pipeline
 date: 2026-07-17
 ---
 

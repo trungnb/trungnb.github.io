@@ -1,5 +1,7 @@
 ---
 layout: archive
+lang: en
+translation_key: cv
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true

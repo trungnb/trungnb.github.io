@@ -1,5 +1,7 @@
 ---
 layout: archive
+lang: vi
+translation_key: cv
 title: "Hồ sơ Lý lịch (CV)"
 permalink: /vi/cv/
 author_profile: true
@@ -42,7 +44,7 @@ author_profile: true
 
 ## Giải thưởng & Tài trợ Nghiên cứu
 * **Tài trợ Nghiên cứu Khoa học Cấp trường** (2024 – 2025) — Đại học Y Dược TP.HCM. Kinh phí: **30.000.000 VNĐ** cho dự án nghiên cứu đường thở OSA trên phim CBCT.
-* **Giải Nhì, Cuộc thi Nghiên cứu Khoa học Thường niên** (2022) — Bệnh viện Thái Thượng Hoàng. Đề tài: Mối tương quan xương hàm theo chiều dọc và nhu cầu phẫu thuật chỉnh hình xương hàm.
+* **Giải Nhì, Cuộc thi Nghiên cứu Khoa học Thường niên** (2022) — Bệnh viện Thái Thượng Hoàng. Đề tài: Mối tương quan xương hàm theo chiều trước–sau và nhu cầu phẫu thuật chỉnh hình xương hàm.
 
 ## Dự án Nghiên cứu & Phần mềm Tiêu biểu
 * **[PeriApicaI](https://periapical.ai.studio)** (Tháng 8/2026): Prototype web thử nghiệm phản hồi có hỗ trợ AI cho phim X-quang quanh chóp. Dự án có luồng rà soát chất lượng ảnh, khoanh vùng phát hiện tiềm năng, đối chiếu mô hình và lưu trạng thái con người rà soát; chưa được thẩm định lâm sàng và không phải thiết bị y tế.

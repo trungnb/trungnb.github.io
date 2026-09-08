@@ -2,6 +2,7 @@
 title: "Luận văn Thạc sĩ: Phân tích Kích thước Đường thở trên Bệnh nhân OSA (R)"
 excerpt: "Luồng phân tích R có tính tái lập để so sánh nhóm và trực quan hóa số đo đường thở trên CBCT ở người có OSA.<br/><img src='https://img.shields.io/badge/Tech-R_%7C_ggplot2_%7C_dplyr-blue'>"
 collection: portfolio
+translation_key: portfolio-5-osa-airway-statistics
 date: 2025-09-09
 lang: vi
 permalink: /vi/portfolio/portfolio-5-osa-airway-statistics/

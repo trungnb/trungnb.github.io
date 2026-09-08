@@ -1,5 +1,7 @@
 ---
 layout: archive
+lang: en
+translation_key: portfolio_index
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
@@ -10,8 +12,7 @@ author_profile: true
 
 {% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
 {% for post in sorted_portfolio %}
-  {% if post.lang != 'vi' %}
+  {% if post.lang == 'en' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-

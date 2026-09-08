@@ -1,6 +1,7 @@
 ---
 title: "Hình thái giải phẫu xương ổ vùng răng cối nhỏ hàm trên người Việt trưởng thành qua hình ảnh cắt lớp chùm tia hình nón"
 collection: publications
+translation_key: maxillary-premolar-alveolar-bone
 permalink: /vi/publication/2025-02-01-maxillary-premolar-alveolar-bone
 excerpt: "Đánh giá hình thái xương ổ răng cối nhỏ hàm trên qua CBCT, nhấn mạnh các lưu ý lâm sàng khi đặt implant tức thì do bản xương ngoài mỏng và chân răng sát xoang hàm."
 date: 2025-02-01

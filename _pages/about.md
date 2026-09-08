@@ -1,5 +1,7 @@
 ---
 permalink: /
+lang: en
+translation_key: home
 title: "Nguyen Bao Trung, MD, MSc"
 excerpt: "About me"
 author_profile: true
