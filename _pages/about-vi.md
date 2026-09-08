@@ -9,7 +9,7 @@ layout: single
 Mình là bác sĩ Răng Hàm Mặt, có kinh nghiệm lâm sàng trong phẫu thuật miệng và định hướng nghiên cứu về chẩn đoán hình ảnh CBCT, hình thái học răng và phân tích dữ liệu. Mình tốt nghiệp Thạc sĩ khoa học ngành Răng Hàm Mặt tại Đại học Y Dược TP.HCM (UMP HCMC) và Bác sĩ Răng Hàm Mặt tại Trường Đại học Y Dược, Đại học Huế.
 
 ### 🔬 Lĩnh vực Nghiên cứu
-Hướng nghiên cứu của mình nằm ở giao điểm giữa Răng Hàm Mặt lâm sàng, Hình ảnh Y học 3D và phân tích dữ liệu:
+Hướng tập trung nghiên cứu hiện tại của mình là giao điểm giữa Răng Hàm Mặt lâm sàng, Hình ảnh Y học 3D và phân tích dữ liệu, cùng mối quan tâm thử nghiệm về trí tuệ nhân tạo trong đào tạo nha khoa và chẩn đoán hình ảnh:
 * **CBCT và hình thái học răng**: Nghiên cứu kích thước đường thở trên ở người có và không có OSA, hình thái xương ổ răng cối nhỏ hàm trên, cùng các thử nghiệm về tỷ lệ thân-chân răng và đường nối men-xê măng (CEJ).
 * **Nghiên cứu định lượng có tính tái lập**: Làm sạch dữ liệu, phân tích thống kê và trực quan hóa khoa học bằng R và Python cho các số đo trích xuất từ CBCT.
 * **Thử nghiệm xử lý ảnh y khoa và AI**: Làm quen với TotalSegmentator, NiBabel, các mô hình tạo dữ liệu dạng bảng và AI đa phương thức qua các dự án cá nhân ở giai đoạn đầu.

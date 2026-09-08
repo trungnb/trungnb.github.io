@@ -12,7 +12,7 @@ redirect_from:
 I am a dentist with clinical experience in oral surgery and a research focus on CBCT-based oral radiology, dental morphometrics, and data analysis. I hold a **Master of Science in Odonto-Stomatology** from the University of Medicine and Pharmacy at Ho Chi Minh City (UMP HCMC) and a **Doctor of Medicine in Odonto-Stomatology** from Hue University of Medicine and Pharmacy.
 
 ### 🔬 Research Focus
-My work sits at the intersection of **clinical dentistry, 3D medical imaging, and applied data analysis**:
+My current research focus is at the intersection of **clinical dentistry, 3D medical imaging, and applied data analysis**, with an exploratory interest in artificial intelligence for dental education and imaging:
 * **CBCT and dental morphometrics**: Research on upper-airway dimensions in Obstructive Sleep Apnea (OSA), maxillary premolar alveolar bone, and exploratory crown-root ratio and cementoenamel junction (CEJ) measurements.
 * **Reproducible quantitative research**: Data cleaning, statistical analysis, and scientific visualization in R and Python for CBCT-derived measurements.
 * **Exploratory medical imaging and AI**: Early-stage work with TotalSegmentator, NiBabel, and synthetic tabular data models, alongside prompt-based multimodal AI experiments.
