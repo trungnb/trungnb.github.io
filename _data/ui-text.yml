@@ -27,7 +27,6 @@ en: &DEFAULT_EN
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Recent Posts"
-  site_map                   : "Sitemap"
   publication_label          : "Published in"
   recommended_citation_label : "Recommended citation:"
   view_publication_label     : "View publication"
