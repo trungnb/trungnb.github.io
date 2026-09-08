@@ -1,6 +1,6 @@
 ---
 title: "Hình thái học Nha khoa: CEJ & Tỷ lệ Thân-Chân răng"
-excerpt: "Quantitative Python analysis workflow for calculating Crown-Root ratios and identifying the Cementoenamel Junction (CEJ) from 3D dental models.<br/><img src='https://img.shields.io/badge/Tech-Python_%7C_Morphometrics-blue'>"
+excerpt: "Các notebook Python thử nghiệm về CEJ và số đo thân-chân răng từ dữ liệu răng 3D đã phân vùng.<br/><img src='https://img.shields.io/badge/Tech-Python_%7C_Morphometrics-blue'>"
 collection: portfolio
 date: 2026-07-28
 lang: vi
@@ -10,7 +10,7 @@ permalink: /vi/portfolio/portfolio-6-dental-cej-morphometrics/
 **Công nghệ sử dụng:** Python, Jupyter, NiBabel, NumPy, SciPy (`ndimage`), Pandas, Matplotlib  
 
 ### Tổng quan
-Việc đo đạc 3D thủ công trong nha khoa vô cùng tốn thời gian. Với mong muốn khám phá giải phẫu răng bằng lập trình, mình đã viết các kịch bản Python thử nghiệm trong Jupyter để tự động hóa việc căn chỉnh trục giải phẫu, nhận diện CEJ và tính tỷ lệ thân-chân răng từ file NIfTI đã phân vùng. Dự án nhỏ này giúp mình có kinh nghiệm thực tế về thao tác voxel 3D và biến đổi hệ tọa độ.
+Việc đo đạc 3D thủ công trong nha khoa có thể tốn nhiều thời gian. Để khám phá giải phẫu răng bằng lập trình, mình đã viết các notebook Python thử nghiệm trong Jupyter về căn chỉnh trục giải phẫu, định vị CEJ ở mức thăm dò và tính tỷ lệ thân-chân răng từ dữ liệu NIfTI đã phân vùng. Dự án giúp mình có kinh nghiệm thực tế về thao tác voxel 3D và biến đổi hệ tọa độ.
 
 ### Động lực thực hiện
 Việc click chuột thủ công trên các mô hình 3D nha khoa để tìm các mốc giải phẫu như Đường nối men-xê măng (CEJ) rất tốn thời gian và phụ thuộc chủ quan vào người đo. Mình thực hiện dự án này nhằm thử nghiệm xem việc tự động căn chỉnh tọa độ và quét tỷ trọng voxel có thể hỗ trợ chuẩn hóa quy trình trích xuất hình thái răng hay không.
@@ -23,4 +23,4 @@ Việc click chuột thủ công trên các mô hình 3D nha khoa để tìm cá
 * Viết các hàm tính toán tỷ lệ giải phẫu (thân-chân răng / Crown-to-Root) và thể tích buồng tủy.
 
 ### Bài học Rút ra & Hướng phát triển
-Có được hiểu biết nền tảng về thao tác mảng 3D và dữ liệu voxel trong Python. **Hướng phát triển:** Mục tiêu là tích hợp các kịch bản này với các mô hình phân vùng răng tự động để tạo ra một luồng đo lường hình thái học hoàn toàn tự động.
+Có được hiểu biết nền tảng về thao tác mảng 3D và dữ liệu voxel trong Python. **Hướng phát triển:** Đánh giá tính lặp lại của các số đo thử nghiệm và tìm hiểu khả năng kết hợp với mô hình phân vùng răng tự động.

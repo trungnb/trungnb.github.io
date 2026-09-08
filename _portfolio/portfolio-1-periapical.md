@@ -1,22 +1,22 @@
 ---
 title: "PeriApicaI: AI Dental Radiography Platform"
-excerpt: "Interactive clinical platform utilizing dual-mode Gemini Vision LLMs to diagnose periapical X-ray errors and segment pathologies.<br/><img src='https://img.shields.io/badge/Live_App-periapical.ai.studio-blue'> <img src='https://img.shields.io/badge/Methodology-Vibe_Coding_%26_Prompt_Eng-purple'>"
+excerpt: "Experimental web prototype using Gemini Vision models for AI-assisted review of periapical radiographs.<br/><img src='https://img.shields.io/badge/Prototype-periapical.ai.studio-blue'> <img src='https://img.shields.io/badge/Methodology-AI--assisted_development_%26_prompt_design-purple'>"
 collection: portfolio
 date: 2026-08-01
 ---
 
 **Live URL:** [https://periapical.ai.studio](https://periapical.ai.studio)  
-**Tech Stack:** Multimodal LLMs (Gemini Vision), Prompt Engineering, AI-Assisted Development (Vibe Coding)  
+**Tech Stack:** Multimodal LLMs (Gemini Vision), Prompt Design, AI-Assisted Development  
 
 ### Overview
-Dental radiology requires intense pattern recognition, yet students often lack immediate feedback on X-ray errors due to scarce instructor time. To bridge this educational gap, I built **PeriApicaI**—an AI-powered web application serving as a virtual clinical tutor. Developed from a clinician's perspective using **AI-assisted development (vibe coding)** and rigorous **prompt engineering**, the platform rapidly evolved from an experimental prototype into a production-ready application. It evaluates uploaded periapical radiographs in real-time, providing instant technical feedback and pathology segmentation to help students and practitioners refine their diagnostic skills under strict clinical guardrails.
+Dental radiology requires careful image interpretation, yet learners may not always have access to immediate feedback. I built **PeriApicaI** as an experimental web prototype to explore whether multimodal AI could support learning from periapical radiographs. Developed from a clinician's perspective with AI-assisted development and prompt design, it provides automated technical-quality feedback and candidate finding annotations for educational review. The output is advisory; the project has not been clinically validated and is not a medical device.
 
 ### Key Features & Technical Approach
 
-* **Comprehensive Diagnostic Pipelines:** Supports both Technical Error Detection (e.g., cone-cutting, elongation) and Pathology Segmentation (identifying and mapping 8 distinct classes of dental lesions).
-* **Dual-Model Consensus Architecture:** To ensure clinical reliability, the app runs parallel AI vision inferences (e.g., Gemini Pro & Flash). It cross-validates bounding polygons to filter out single-model hallucinations and tags findings with precise provenance ("Consensus" vs. "Review Required").
-* **Semantic Validation & Provenance Tracking:** Robust backend schema validators intercept AI responses and enforce strict taxonomy mappings against established dental dictionaries. The system records immutable inference lineage, preserving exact AI model IDs, credentials, and original prediction confidence prior to human adjudication.
-* **Production-Grade Infrastructure:** Engineered for stability and cost-efficiency with deterministic model fallback ladders, global execution budgets, asynchronous AbortControllers to prevent ghost requests, and a bounded offline-recovery queue for robust data syncing even under poor network conditions.
+* **Two assessment workflows:** Supports technical-quality review (for example, cone-cutting and elongation) and candidate pathology annotation across the project's defined taxonomy.
+* **Optional dual-model comparison:** Can run Gemini Flash and Gemini Pro in parallel, compare their findings and polygon coordinates, and label agreement or review-required cases.
+* **Validation and provenance:** Backend schemas normalize model output against dental dictionaries, while inference lineage and append-only human-review states keep model output separate from later review decisions.
+* **Reliability controls:** Includes model fallback handling, execution limits, request cancellation with `AbortController`, and bounded recovery logic for transient failures.
 
 ### Learnings & Future Work
-Developing PeriApicaI provided deep experience in multimodal prompt engineering, deterministic AI orchestration, and mitigating LLM hallucination through strict bounding box intersection algorithms. **Future Work:** Establish a large-scale clinical pilot leveraging the platform's new human-review adjudication tools to fine-tune spatial accuracy with a dedicated, annotated dataset.
+Developing PeriApicaI gave me hands-on experience with multimodal prompt design, model comparison, schema validation, and human-review workflows. **Future Work:** Evaluate the prototype with an appropriately governed, annotated dataset and independent clinical review before making any claims about performance or clinical use.

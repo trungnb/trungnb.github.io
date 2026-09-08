@@ -9,9 +9,9 @@ location: "TP. Hồ Chí Minh, Việt Nam"
 lang: vi
 ---
 
-Hướng dẫn một nhóm gồm **5 sinh viên nha khoa (hệ đại học)** về phương pháp luận nghiên cứu lâm sàng, cách đọc kết quả chẩn đoán hình ảnh và kỹ năng xác định các mốc giải phẫu trên phim CBCT.
+Hướng dẫn một nhóm gồm **5 sinh viên nha khoa (hệ đại học)** về phương pháp nghiên cứu lâm sàng, đọc hình ảnh nha khoa và xác định các mốc giải phẫu trên phim CBCT.
 
 ### Trách nhiệm và Phạm vi Hướng dẫn:
-- Đào tạo sinh viên sử dụng các phần mềm phân tích CBCT 3D (ITK-SNAP, OnDemand3D).
-- Hướng dẫn quy trình thu thập dữ liệu, xác định các mốc giải phẫu và các quy trình kiểm chứng chéo.
-- Góp ý và hỗ trợ các kỹ năng viết báo cáo khoa học và đọc hiểu các phân tích thống kê bằng R.
+- Hướng dẫn sinh viên sử dụng phần mềm và công cụ xem CBCT 3D.
+- Hỗ trợ quy trình thu thập dữ liệu, xác định mốc giải phẫu và kiểm chứng.
+- Góp ý về viết khoa học và diễn giải các phân tích thống kê bằng R.

@@ -1,10 +1,10 @@
-# AcademicPages Configuration for Dr. Nguyen Bao Trung
+# AcademicPages Configuration for Nguyen Bao Trung
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Nguyen Bao Trung"
 title_separator          : "•"
 name                     : &name "Nguyen Bao Trung"
-description              : &description "Academic website & portfolio of Dr. Nguyen Bao Trung, MD, MSc - Oral Surgeon & Dental AI Researcher."
+description              : &description "Academic website and portfolio of Nguyen Bao Trung, MD, MSc, a dentist working at the intersection of CBCT-based research, oral radiology, and AI in dentistry."
 url                      : "https://trungnb.github.io"
 baseurl                  : ""
 repository               : "trungnb/trungnb.github.io"
@@ -13,7 +13,7 @@ repository               : "trungnb/trungnb.github.io"
 author:
   avatar           : "profile.jpg"
   name             : "Nguyen Bao Trung, MD, MSc"
-  bio              : "Oral Surgeon & Dental AI Researcher"
+  bio              : "Dentist | CBCT Researcher | AI in Dentistry"
   uri              : "https://trungnb.github.io"
   email            : "nbtrungrhm@gmail.com"
 

@@ -10,15 +10,15 @@ permalink: /vi/portfolio/portfolio-4-helsinki-game/
 **Công nghệ sử dụng:** Python, Pygame, Object-Oriented Programming (OOP)  
 
 ### Tổng quan
-Việc tìm hiểu AI y tế đòi hỏi các kiến thức nền tảng về khoa học máy tính mà mình còn thiếu. Để bước ra khỏi vùng an toàn lâm sàng và tập code, mình đã tự mài mò làm một game arcade 2D cơ bản bằng Python. Quá trình tự thử nghiệm và sửa lỗi (trial and error) để xử lý va chạm trong game là một cách thú vị giúp mình tự học các kiến thức cơ bản về Lập trình hướng đối tượng (OOP).
+Trong khuôn khổ dự án cuối khóa Advanced Programming của Đại học Helsinki, mình đã tự xây dựng một game arcade 2D nhỏ bằng Python và Pygame. Dự án giúp mình thực hành lập trình hướng đối tượng, vòng lặp sự kiện, quản lý trạng thái và xử lý va chạm trong quá trình chuyển từ công việc lâm sàng sang các dự án tính toán.
 
 ### Động lực thực hiện
-Là một bác sĩ đang học lập trình, việc chỉ viết các kịch bản xử lý dữ liệu rời rạc là không đủ để hiểu về kiến trúc phần mềm. Mình cần một dự án phức tạp, có quản lý trạng thái (stateful) để ép bản thân thực sự hiểu về Lập trình hướng đối tượng (OOP) và cách tổ chức mã nguồn.
+Là một bác sĩ đang học lập trình, mình muốn có một dự án cụ thể đòi hỏi nhiều hơn các script xử lý dữ liệu rời rạc. Một game nhỏ có quản lý trạng thái tạo ra bối cảnh thực tế để mình học thiết kế hướng đối tượng và tổ chức mã nguồn.
 
 ### Phương pháp Kỹ thuật
-* Lập trình toàn bộ vòng lặp game (game loop) từ con số không bằng Python và thư viện Pygame.
-* Xây dựng các lớp (classes) tùy chỉnh cho các thực thể (robot, quái vật, đồng xu) áp dụng tính kế thừa và đóng gói.
-* Viết logic vật lý cơ bản để xử lý va chạm và quỹ đạo di chuyển ngẫu nhiên của kẻ thù.
+* Lập trình vòng lặp game bằng Python và Pygame.
+* Xây dựng các lớp cho robot, quái vật, đồng xu và cánh cửa, với trạng thái và hành vi được đóng gói.
+* Thêm kiểm tra va chạm, sinh vị trí ngẫu nhiên và hành vi di chuyển hoặc bật nảy đơn giản của quái vật.
 
 ### Bài học Rút ra & Hướng phát triển
-Củng cố vững chắc các khái niệm khoa học máy tính cốt lõi: lớp (classes), quản lý trạng thái, vòng lặp sự kiện (event loops) và tái cấu trúc mã nguồn (refactoring). **Hướng phát triển:** Dự án đã hoàn thiện, nhưng các bài học về kiến trúc phần mềm tại đây đang được mình tích cực áp dụng vào cách tổ chức các kịch bản phân tích dữ liệu y tế của mình.
+Xây dựng nền tảng thực hành về lớp, quản lý trạng thái, vòng lặp sự kiện và xử lý va chạm cơ bản. **Hướng phát triển:** Tiếp tục áp dụng các thói quen lập trình này vào những script phân tích dữ liệu y tế nhỏ và có thể kiểm tra được.

@@ -1,6 +1,6 @@
 ---
 title: "Master's Thesis: Upper Airway Dimensions in OSA (R Analysis)"
-excerpt: "Reproducible R workflow for non-parametric group comparisons and publication-ready visualization of CBCT airway dimensions in OSA.<br/><img src='https://img.shields.io/badge/Tech-R_%7C_ggplot2_%7C_dplyr-blue'>"
+excerpt: "Reproducible R workflow for group comparisons and high-resolution visualization of CBCT airway measurements in OSA.<br/><img src='https://img.shields.io/badge/Tech-R_%7C_ggplot2_%7C_dplyr-blue'>"
 collection: portfolio
 date: 2025-09-09
 ---
@@ -22,4 +22,4 @@ For my Master's thesis, I needed to process and analyze volumetric and cross-sec
 * Generated publication-quality boxplots with jittered data points and automated p-value brackets using `ggplot2` and `ggpubr` (exported at 1200 DPI).
 
 ### Key Learnings & Future Work
-Mastered programmatic data cleaning, non-parametric hypothesis testing, and high-resolution scientific visualization in R. **Future Work:** Successfully used this workflow to publish a paper; next steps involve using Python to automate the initial 3D data extraction phase.
+Developed hands-on experience in programmatic data cleaning, non-parametric hypothesis testing, and scientific visualization in R. **Future Work:** Extend the workflow with Python-assisted extraction of 3D measurements, subject to validation.

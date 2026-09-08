@@ -9,15 +9,15 @@ date: 2024-12-01
 **Tech Stack:** Python, Pygame, Object-Oriented Programming (OOP)  
 
 ### Overview
-Transitioning into medical AI requires basic computer science fundamentals that I lacked. As a capstone graduation project for the University of Helsinki's Advanced Programming MOOC, I built a simple 2D arcade game from scratch using Python/PyGame. Figuring out collision detection through trial and error was a fun way to self-teach Object-Oriented Programming basics.
+As a capstone project for the University of Helsinki's Advanced Programming MOOC, I built a small 2D arcade game from scratch using Python and Pygame. The project helped me practise object-oriented programming, event loops, state management, and collision detection while moving from clinical work into computational projects.
 
 ### Motivation
-As a dentist learning to program, writing isolated data scripts wasn't enough to grasp software architecture. I needed a complex, stateful project to force myself to truly understand Object-Oriented Programming (OOP) and code organization.
+As a dentist learning to program, I wanted a concrete project that required more than isolated data scripts. A small stateful game gave me a practical setting for learning object-oriented design and code organization.
 
 ### Technical Approach
-* Programmed a complete game loop from scratch using Python and the Pygame library.
-* Implemented custom classes for entities (robots, monsters, coins) utilizing inheritance and encapsulation.
-* Coded basic physics logic for collision detection and randomized enemy pathing.
+* Programmed a game loop using Python and Pygame.
+* Implemented classes for the robot, monsters, coins, and door, with encapsulated state and behaviour.
+* Added collision checks, random spawning, and simple bouncing or moving enemy behaviour.
 
 ### Key Learnings & Future Work
-Solidified core computer science concepts: classes, state management, event loops, and refactoring messy code. **Future Work:** The project is complete, but the architectural lessons learned here are actively being applied to how I structure my medical data analysis scripts.
+Developed a working foundation in classes, state management, event loops, and basic collision logic. **Future Work:** Continue applying these programming habits to small, testable medical data-analysis scripts.

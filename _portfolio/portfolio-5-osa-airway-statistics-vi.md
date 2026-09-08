@@ -1,13 +1,13 @@
 ---
 title: "Luận văn Thạc sĩ: Phân tích Kích thước Đường thở trên Bệnh nhân OSA (R)"
-excerpt: "Luồng phân tích R có tính tái lập để so sánh nhóm phi tham số và trực quan hóa kích thước đường thở CBCT trên bệnh nhân OSA.<br/><img src='https://img.shields.io/badge/Tech-R_%7C_ggplot2_%7C_dplyr-blue'>"
+excerpt: "Luồng phân tích R có tính tái lập để so sánh nhóm và trực quan hóa số đo đường thở trên CBCT ở người có OSA.<br/><img src='https://img.shields.io/badge/Tech-R_%7C_ggplot2_%7C_dplyr-blue'>"
 collection: portfolio
 date: 2025-09-09
 lang: vi
 permalink: /vi/portfolio/portfolio-5-osa-airway-statistics/
 ---
 **Công nghệ sử dụng:** R, RMarkdown, `dplyr`, `tidyr`, `ggplot2`, `ggpubr`, `effsize`  
-**Bài báo liên quan:** *Kích thước đường thở trên trên phim CBCT ở người Việt có và không có hội chứng ngưng thở khi ngủ: Báo cáo hàng loạt ca* (Tạp chí Y học Việt Nam, 2025)
+**Bài báo liên quan:** *Kích thước đường thở trên phim CBCT ở người Việt có và không có hội chứng ngưng thở khi ngủ: Báo cáo hàng loạt ca* (Tạp chí Y học Việt Nam, 2025)
 
 ### Tổng quan
 Kho lưu trữ này chứa các kịch bản phân tích dữ liệu có tính tái lập được phát triển cho Luận văn Thạc sĩ của mình về Hội chứng ngưng thở khi ngủ (OSA). Làm việc với dữ liệu phim CBCT, mình đã trực tiếp viết kịch bản R để tiền xử lý số liệu, trực quan hóa và thực hiện các kiểm định thống kê so sánh kích thước hình thái đường thở trên giữa hai nhóm, trực tiếp hỗ trợ cho bài báo khoa học công bố trên Tạp chí Y học Việt Nam (2025).
@@ -23,4 +23,4 @@ Kho lưu trữ này chứa các kịch bản phân tích dữ liệu có tính t
 * Lập trình hàm vẽ biểu đồ Boxplot kết hợp điểm dữ liệu phân tán (jitter) và thanh chú thích giá trị p tự động bằng `ggplot2` và `ggpubr` (xuất ảnh 1200 DPI phục vụ bài báo).
 
 ### Bài học Rút ra & Hướng phát triển
-Nắm vững kỹ năng tiền xử lý dữ liệu bằng code, kiểm định giả thuyết phi tham số và trực quan hóa khoa học độ phân giải cao trong R. **Hướng phát triển:** Đã sử dụng thành công luồng làm việc này để xuất bản một bài báo; bước tiếp theo là sử dụng Python để tự động hóa giai đoạn trích xuất dữ liệu thể tích 3D ban đầu.
+Có thêm kinh nghiệm thực hành về tiền xử lý dữ liệu bằng code, kiểm định giả thuyết phi tham số và trực quan hóa khoa học trong R. **Hướng phát triển:** Mở rộng luồng bằng Python để hỗ trợ trích xuất số đo 3D, đi kèm bước kiểm chứng phù hợp.

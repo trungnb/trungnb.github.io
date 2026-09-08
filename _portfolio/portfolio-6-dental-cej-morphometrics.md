@@ -1,6 +1,6 @@
 ---
 title: "Dental Morphometrics: CEJ & Crown-Root Ratio"
-excerpt: "Quantitative Python analysis workflow for calculating Crown-Root ratios and identifying the Cementoenamel Junction (CEJ) from 3D dental models.<br/><img src='https://img.shields.io/badge/Tech-Python_%7C_Morphometrics-blue'>"
+excerpt: "Proof-of-concept Python notebooks for exploratory CEJ and crown-root measurements from segmented 3D dental data.<br/><img src='https://img.shields.io/badge/Tech-Python_%7C_Morphometrics-blue'>"
 collection: portfolio
 date: 2026-07-28
 ---
@@ -9,7 +9,7 @@ date: 2026-07-28
 **Tech Stack:** Python, Jupyter, NiBabel, NumPy, SciPy (`ndimage`), Pandas, Matplotlib  
 
 ### Overview
-Manual 3D measurements in dentistry are highly tedious. Driven by a desire to explore computational dental anatomy, I wrote proof-of-concept Python scripts in Jupyter to automate anatomical alignment, CEJ detection, and crown-root ratio calculations from NIfTI segmentations. This hands-on project provided practical experience in 3D voxel manipulation and coordinate transformations.
+Manual 3D measurements in dentistry can be time-consuming. To explore computational dental anatomy, I wrote proof-of-concept Python notebooks in Jupyter for anatomical alignment, exploratory CEJ localization, and crown-root ratio calculations from segmented NIfTI data. The project provided practical experience with 3D voxel manipulation and coordinate transformations.
 
 ### Motivation
 Manually clicking through 3D dental models to find landmarks like the Cementoenamel Junction (CEJ) is time-consuming and subjective. I explored whether programmatic coordinate alignment and voxel density profiling could assist in standardizing dental morphometric extraction.
@@ -22,4 +22,4 @@ Manually clicking through 3D dental models to find landmarks like the Cementoena
 * Scripted functions to compute anatomical ratios (Crown-to-Root) and pulp chamber volume.
 
 ### Key Learnings & Future Work
-Gained a foundational understanding of manipulating 3D arrays and voxel data in Python. **Future Work:** Aim to integrate these scripts with automated tooth segmentation models for a fully hands-off morphometric measurement pipeline.
+Gained a foundational understanding of manipulating 3D arrays and voxel data in Python. **Future Work:** Assess the repeatability of these exploratory measurements and investigate whether they can be integrated with automated tooth-segmentation models.

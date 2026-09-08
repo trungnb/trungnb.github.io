@@ -1,23 +1,23 @@
 ---
 title: "PeriApicaI: Nền tảng AI Đào tạo X-quang"
-excerpt: "Nền tảng lâm sàng tương tác sử dụng LLM Đa phương thức (Gemini Vision) để phân tích lỗi X-quang và khoanh vùng tổn thương.<br/><img src='https://img.shields.io/badge/Live_App-periapical.ai.studio-blue'> <img src='https://img.shields.io/badge/Methodology-Vibe_Coding_%26_Prompt_Eng-purple'>"
+excerpt: "Prototype web thử nghiệm dùng Gemini Vision để hỗ trợ rà soát phim X-quang quanh chóp.<br/><img src='https://img.shields.io/badge/Prototype-periapical.ai.studio-blue'> <img src='https://img.shields.io/badge/Methodology-AI--assisted_development_%26_prompt_design-purple'>"
 collection: portfolio
 date: 2026-08-01
 lang: vi
 permalink: /vi/portfolio/portfolio-1-periapical/
 ---
 **Đường dẫn dự án:** [https://periapical.ai.studio](https://periapical.ai.studio)  
-**Công nghệ sử dụng:** Multimodal LLMs (Gemini Vision), Prompt Engineering, AI-Assisted Development (Vibe Coding)  
+**Công nghệ sử dụng:** Multimodal LLMs (Gemini Vision), Thiết kế Prompt, Phát triển có hỗ trợ AI  
 
 ### Tổng quan
-Phim X-quang nha khoa đòi hỏi kỹ năng nhận diện hình ảnh rất cao, nhưng sinh viên thường thiếu phản hồi tức thì do quỹ thời gian của giảng viên eo hẹp. Để lấp đầy khoảng trống này, mình đã phát triển **PeriApicaI**—một ứng dụng web đóng vai trò như trợ giảng ảo. Được xây dựng từ góc nhìn của một bác sĩ lâm sàng thông qua phương pháp **AI-Assisted Development (Vibe Coding)** kết hợp cùng **Prompt Engineering** chuyên sâu, nền tảng đã nhanh chóng chuyển mình từ bản thử nghiệm sơ bộ thành một hệ thống sẵn sàng vận hành thực tế (production-ready). Nền tảng đánh giá phim X-quang quanh chóp theo thời gian thực, cung cấp phản hồi tức thì về lỗi kỹ thuật chụp cũng như khoanh vùng tổn thương, giúp sinh viên và nha sĩ rèn luyện kỹ năng chẩn đoán với các rào chắn an toàn y khoa chặt chẽ.
+Đọc phim X-quang nha khoa đòi hỏi sự thận trọng, nhưng người học không phải lúc nào cũng có thể nhận được phản hồi ngay từ giảng viên. Mình phát triển **PeriApicaI** như một prototype web thử nghiệm để tìm hiểu liệu AI đa phương thức có thể hỗ trợ việc học từ phim X-quang quanh chóp hay không. Dự án được xây dựng từ góc nhìn lâm sàng với phương pháp phát triển có hỗ trợ AI và thiết kế prompt; ứng dụng đưa ra phản hồi tự động về chất lượng kỹ thuật và các vùng phát hiện tiềm năng để người học rà soát. Kết quả chỉ có tính tham khảo; dự án chưa được thẩm định lâm sàng và không phải thiết bị y tế.
 
 ### Tính năng Nổi bật & Kỹ thuật
 
-* **Luồng Phân tích Toàn diện:** Hỗ trợ song song hai luồng đánh giá: Phát hiện lỗi kỹ thuật chụp (VD: cắt nón, kéo dài răng) và Phân đoạn Tổn thương (nhận diện và khoanh vùng 8 loại bệnh lý nha khoa khác nhau).
-* **Kiến trúc Hội chẩn AI (Dual-Model Consensus):** Khởi chạy đồng thời 2 mô hình (VD: Gemini Pro & Flash) để đối chiếu chéo tọa độ vùng bệnh lý. Cơ chế này loại bỏ các ảo giác (hallucination) đơn lẻ và gán nhãn độ tin cậy rõ ràng ("Hội chẩn" vs "Cần rà soát").
-* **Xác thực Ngữ nghĩa & Lưu trữ Nguồn gốc (Provenance):** Hệ thống schema backend bắt lỗi đầu ra của AI và ép buộc sử dụng các thuật ngữ bệnh lý y khoa chuẩn. Mọi chẩn đoán đều được lưu vết chi tiết (lineage) gồm ID mô hình, thông tin xác thực, và điểm tin cậy gốc trước khi có sự can thiệp của con người.
-* **Hạ tầng Ổn định cấp Production:** Tối ưu hóa API quota với các cơ chế dự phòng mô hình (fallback ladders), Execution Budget, và AbortController để chặn luồng AI thừa. Tích hợp hàng đợi ngoại tuyến (offline-recovery queue) đảm bảo đồng bộ dữ liệu mượt mà kể cả khi rớt mạng.
+* **Hai luồng đánh giá:** Hỗ trợ rà soát chất lượng kỹ thuật (ví dụ: cắt nón, kéo dài răng) và khoanh vùng phát hiện tiềm năng theo taxonomy của dự án.
+* **Đối chiếu hai mô hình tùy chọn:** Có thể chạy Gemini Flash và Gemini Pro song song, so sánh kết quả và tọa độ polygon, sau đó gắn nhãn mức độ đồng thuận hoặc trường hợp cần rà soát.
+* **Xác thực và lưu vết:** Schema backend chuẩn hóa đầu ra theo từ điển nha khoa; lineage của lượt suy luận và trạng thái rà soát nối tiếp giúp tách kết quả của mô hình khỏi quyết định rà soát về sau.
+* **Các cơ chế tăng độ ổn định:** Có xử lý fallback mô hình, giới hạn thực thi, hủy request bằng `AbortController` và cơ chế khôi phục có giới hạn cho lỗi tạm thời.
 
 ### Bài học Rút ra & Hướng phát triển
-Dự án giúp mình làm chủ kỹ nghệ câu lệnh (prompt engineering) phức tạp cho AI đa phương thức và cách kiềm chế "ảo giác" của LLM thông qua thuật toán đối chiếu tọa độ. **Hướng phát triển:** Triển khai thử nghiệm lâm sàng quy mô lớn thông qua bộ công cụ thẩm định/duyệt kết quả (human-review adjudication) vừa được xây dựng, tạo tiền đề fine-tune mô hình với bộ dữ liệu chuẩn y khoa.
+Dự án giúp mình có kinh nghiệm thực hành về thiết kế prompt đa phương thức, đối chiếu mô hình, xác thực schema và xây dựng luồng rà soát của con người. **Hướng phát triển:** Đánh giá prototype trên bộ dữ liệu có quản trị phù hợp, có nhãn và được rà soát độc lập trước khi đưa ra bất kỳ kết luận nào về hiệu năng hoặc ứng dụng lâm sàng.

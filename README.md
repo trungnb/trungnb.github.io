@@ -1,6 +1,6 @@
-# Academic Website & Portfolio — Dr. Nguyen Bao Trung, MD, MSc
+# Academic Website & Portfolio — Nguyen Bao Trung, MD, MSc
 
-This repository powers the personal academic website of **Dr. Nguyen Bao Trung, MD, MSc** ([trungnb.github.io](https://trungnb.github.io)), built with [AcademicPages](https://academicpages.github.io) and hosted on **GitHub Pages**.
+This repository powers the personal academic website of **Nguyen Bao Trung, MD, MSc** ([trungnb.github.io](https://trungnb.github.io)), built with [AcademicPages](https://academicpages.github.io) and hosted on **GitHub Pages**.
 
 ---
 
@@ -15,14 +15,14 @@ This repository powers the personal academic website of **Dr. Nguyen Bao Trung, 
 * **`_portfolio/`**: Markdown files for applied AI projects, platforms (e.g., *PeriApicaI*), and software.
 * **`_teaching/`**: Markdown files for mentorship and academic supervision activities.
 * **`files/`**: Place downloadable PDFs here (e.g., full CV PDF, paper preprints).
-* **`images/`**: Site icons, favicons, and profile pictures (`profile.png`).
+* **`images/`**: Site icons, favicons, and profile pictures (`profile.jpg`).
 
 ---
 
 ## 📸 How to Update Your Profile Photo (Avatar)
 
-1. Save your portrait photo as **`profile.png`** (or `.jpg`).
-2. Put it into the **`images/`** folder (replacing `images/profile.png`).
+1. Save your portrait photo as **`profile.jpg`** (or `.png`).
+2. Put it into the **`images/`** folder (replacing `images/profile.jpg`).
 3. *(Alternative)*: If you put your image inside **`files/bio.jpg`**, update line 14 of `_config.yml`:
    ```yaml
    author:
