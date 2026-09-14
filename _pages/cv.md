@@ -14,17 +14,22 @@ redirect_from:
 ## Education
 * **Master of Science in Odonto-Stomatology (MSc)** (2023 – 2025)  
   *University of Medicine and Pharmacy at Ho Chi Minh City (UMP HCMC), Vietnam*  
-  * **GPA:** 7.82 / 10  
-  * **Thesis:** *"Assessment of upper airway dimensions in subjects with and without Obstructive Sleep Apnea using Cone-Beam Computed Tomography"* (Supervisor: Phong Dai Lam, PhD; >30,000 words monograph).
+  * **GPA:** Coursework 7.82 / 10 | **Thesis Defense Score:** 8.2 / 10 (Degree No. YDS.ThS.002936, Reg. No. 601/2025/ThS/ĐHYD)  
+  * **Thesis:** *"Assessment of upper airway dimensions in subjects with and without obstructive sleep apnea using cone-beam computed tomography"* (Supervisor: Dr. Lam Dai Phong, PhD).
 * **Continuing Education in Maxillofacial Surgery** (2020 – 2021)<br>
   *Vietnam Military Medical University, Hanoi, Vietnam*
 * **Doctor of Medicine in Odonto-Stomatology (MD)** (2014 – 2020)  
   *Hue University of Medicine and Pharmacy, Vietnam*  
-  * **GPA:** 7.27 / 10 (6-year clinical dental surgery curriculum).
+  * **GPA:** 7.27 / 10 (6-year clinical dental surgery curriculum, 206 credits, Reg. No. 0079/RHM.2020).
 
 ## Certifications
-* **[Writing in the Sciences](/files/Stanford_Writing_in_the_Sciences.pdf)** — Stanford University (Stanford Online, 2025).
-* **[Advanced Programming with Python](/files/Helsinki_Advanced_Programming.png)** & **[Data Analysis with Python](/files/Helsinki_Data_Analysis.png)** — University of Helsinki (MOOCs, 2024–2025).
+* **[Writing in the Sciences](/files/Stanford_Writing_in_the_Sciences.pdf)** — Stanford Online (Coursera, 2025).
+* **[Data Analysis with Python](/files/Helsinki_Data_Analysis.png)** & **[Advanced Programming with Python](/files/Helsinki_Advanced_Programming.png)** — University of Helsinki (5 ECTS each, 2024–2025).
+* **Introduction to Programming** — University of Helsinki (5 ECTS, 2024).
+* **Introduction to Computer Science and Programming Using Python (6.00.1x)** — MITx (edX, 2023).
+* **US-ASEAN Science, Technology, and Innovation Cooperation (STIC)** — US-ASEAN STIC Program (Track 1 & Track 2, 2025).
+* **Google Advanced Data Analytics Professional Certificate** — Google (Coursera, 2025).
+* **IBM Data Science Professional Certificate** — IBM (Coursera, 2025).
 
 ## Clinical & Professional Experience
 * **Oral Surgeon** (Oct 2020 – Jul 2026)  
@@ -53,7 +58,7 @@ redirect_from:
 * **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Jul 2026): Proof-of-concept Python/Jupyter notebooks exploring anatomical alignment, CEJ localization, crown-root ratios, and pulp-volume calculations from segmented 3D dental data.
 * **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Jul 2026): Exploratory Python notebooks using TotalSegmentator and NiBabel for NIfTI-based segmentation, structure-volume calculations, and 2D projections.
 * **[Medical Tabular Data Synthesis (CTGAN & ctdGAN)](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Jun 2026): Exploratory notebooks using mock demographic data to learn CTGAN/ctdGAN training and distributional evaluation. The project does not establish a privacy guarantee for clinical data.
-* **[Master's Thesis: Upper Airway Dimensions in OSA (R Analysis)](/portfolio/portfolio-5-osa-airway-statistics/)** (Sep 2025): Reproducible R workflow for cleaning, comparing, and visualizing CBCT-derived upper-airway measurements in a case series of 11 Vietnamese subjects with and without OSA.
+* **[Master's Thesis: Upper Airway Dimensions in OSA (R Analysis)](/portfolio/portfolio-5-osa-airway-statistics/)** (Sep 2025): Reproducible R workflow for cleaning, comparing, and visualizing CBCT-derived upper-airway measurements in a case series of 11 Vietnamese subjects with and without OSA (thesis project supported by UMP research grant; published in VMJ 2025).
 
 ## Teaching & Supervision
 * **Undergraduate Clinical Research Mentor** (2024 – 2025) — Faculty of Dentistry, UMP HCMC. Supervised 5 dental students in radiology research methodology.
@@ -64,4 +69,5 @@ redirect_from:
 * **Medical imaging:** CBCT-based morphometric analysis, NIfTI/NiBabel workflows, exploratory TotalSegmentator use, and familiarity with ITK-SNAP.
 * **AI and software projects:** Gemini API and prompt design, CTGAN/ctdGAN experiments, Jupyter, Git/GitHub, and an AI-assisted TypeScript/React/Node prototype.
 * **Languages:** Vietnamese (Native), English (IELTS Academic 7.5: Listening 8.5, Reading 9.0, Writing 6.5, Speaking 6.0).
+* **Licensure:** Licensed Doctor of Odonto-Stomatology (Vietnam).
 * **Memberships:** Full Member, Vietnam Odonto-Stomatology Association (2024 – 2026).

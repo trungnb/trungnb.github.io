@@ -12,17 +12,22 @@ author_profile: true
 ## Học vấn
 * **Thạc sĩ Răng Hàm Mặt** (2023 – 2025)  
   *Đại học Y Dược TP.HCM (UMP HCMC), Việt Nam*  
-  * **GPA:** 7.82 / 10  
-  * **Luận văn:** *"Khảo sát kích thước đường thở trên ở bệnh nhân có và không mắc hội chứng ngưng thở khi ngủ bằng phương pháp chụp cắt lớp vi tính chùm tia hình nón"* (Cán bộ hướng dẫn: TS.BS. Lâm Đại Phong).
+  * **GPA học phần:** 7.82 / 10 | **Điểm bảo vệ Luận văn:** 8.2 / 10 (Kèm bằng số: YDS.ThS.002936, Số vào sổ: 601/2025/ThS/ĐHYD)  
+  * **Luận văn:** *"Khảo sát kích thước đường hô hấp trên ở người có và không có ngưng thở tắc nghẽn khi ngủ bằng phần mềm phân tích phim cắt lớp vi tính chùm tia hình nón"* (Cán bộ hướng dẫn: TS.BS. Lâm Đại Phong).
 * **Đào tạo liên tục về Phẫu thuật Hàm mặt** (2020 – 2021)<br>
-  *Bệnh viện Quân y 103, Hà Nội, Việt Nam*
+  *Bệnh viện Quân y 103 / Học viện Quân y, Hà Nội, Việt Nam*
 * **Bác sĩ Răng Hàm Mặt** (2014 – 2020)  
   *Trường Đại học Y Dược, Đại học Huế, Việt Nam*  
-  * **GPA:** 7.27 / 10 (Chương trình đào tạo 6 năm).
+  * **GPA:** 7.27 / 10 (Chương trình đào tạo 6 năm, 206 tín chỉ, Số vào sổ: 0079/RHM.2020).
 
 ## Chứng chỉ
 * **[Writing in the Sciences](/files/Stanford_Writing_in_the_Sciences.pdf)** — Đại học Stanford (Stanford Online, 2025).
-* **[Advanced Programming with Python](/files/Helsinki_Advanced_Programming.png)** & **[Data Analysis with Python](/files/Helsinki_Data_Analysis.png)** — Đại học Helsinki (Các khóa học mở trực tuyến đại chúng - MOOC, 2024–2025).
+* **[Data Analysis with Python](/files/Helsinki_Data_Analysis.png)** & **[Advanced Programming with Python](/files/Helsinki_Advanced_Programming.png)** — Đại học Helsinki (5 ECTS mỗi khóa, 2024–2025).
+* **Introduction to Programming** — Đại học Helsinki (5 ECTS, 2024).
+* **Introduction to Computer Science and Programming Using Python (6.00.1x)** — MITx (edX, 2023).
+* **US-ASEAN Science, Technology, and Innovation Cooperation (STIC)** — Chương trình US-ASEAN STIC (Track 1 & Track 2, 2025).
+* **Google Advanced Data Analytics Professional Certificate** — Google (Coursera, 2025).
+* **IBM Data Science Professional Certificate** — IBM (Coursera, 2025).
 
 ## Kinh nghiệm Lâm sàng & Chuyên môn
 * **Bác sĩ Phẫu thuật Răng Hàm Mặt** (Tháng 10/2020 – Tháng 7/2026)  
@@ -51,7 +56,7 @@ author_profile: true
 * **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Tháng 7/2026): Các notebook Python/Jupyter thử nghiệm căn chỉnh trục giải phẫu, định vị CEJ, tính tỷ lệ thân-chân răng và thể tích tủy từ dữ liệu răng 3D đã phân vùng.
 * **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Tháng 7/2026): Các notebook Python thử nghiệm TotalSegmentator và NiBabel để phân vùng dữ liệu NIfTI, tính thể tích cấu trúc và tạo hình chiếu 2D.
 * **[Medical Tabular Data Synthesis (CTGAN & ctdGAN)](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Tháng 6/2026): Các notebook thử nghiệm huấn luyện và đánh giá phân phối dữ liệu bằng CTGAN/ctdGAN trên dữ liệu nhân trắc học giả lập. Dự án không chứng minh rằng dữ liệu lâm sàng được bảo vệ riêng tư.
-* **[Luận văn Thạc sĩ: Phân tích Kích thước Đường thở trên Bệnh nhân OSA (R)](/vi/portfolio/portfolio-5-osa-airway-statistics/)** (Tháng 9/2025): Luồng R có tính tái lập để làm sạch, so sánh và trực quan hóa các số đo đường thở trên CBCT ở loạt ca 11 người Việt có và không có OSA.
+* **[Luận văn Thạc sĩ: Phân tích Kích thước Đường thở trên Bệnh nhân OSA (R)](/vi/portfolio/portfolio-5-osa-airway-statistics/)** (Tháng 9/2025): Luồng R có tính tái lập để làm sạch, so sánh và trực quan hóa các số đo đường thở trên CBCT ở loạt ca 11 người Việt có và không có OSA (đề tài luận văn được tài trợ bởi ĐHYD TP.HCM; công bố trên Tạp chí Y học Việt Nam năm 2025).
 
 ## Giảng dạy & Hướng dẫn
 * **Hướng dẫn Nghiên cứu Lâm sàng** (2024 – 2025) — Khoa Răng Hàm Mặt, Đại học Y Dược TP.HCM. Hướng dẫn 5 sinh viên nha khoa về phương pháp luận nghiên cứu chẩn đoán hình ảnh.
@@ -62,4 +67,5 @@ author_profile: true
 * **Hình ảnh y khoa:** Phân tích hình thái từ CBCT, quy trình NIfTI/NiBabel, thử nghiệm TotalSegmentator và làm quen với ITK-SNAP.
 * **AI và dự án phần mềm:** Gemini API và thiết kế prompt, thử nghiệm CTGAN/ctdGAN, Jupyter, Git/GitHub và prototype TypeScript/React/Node được phát triển có hỗ trợ AI.
 * **Ngoại ngữ:** Tiếng Việt (Bản xứ), Tiếng Anh (IELTS Academic 7.5: Nghe 8.5, Đọc 9.0, Viết 6.5, Nói 6.0).
+* **Chứng chỉ hành nghề:** Bác sĩ Răng Hàm Mặt (Việt Nam).
 * **Thành viên:** Hội viên chính thức, Hội Răng Hàm Mặt Việt Nam (2024 – 2026).

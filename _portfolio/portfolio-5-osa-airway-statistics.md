@@ -11,7 +11,7 @@ date: 2025-09-09
 **Related Publication:** *Upper Airway Dimensions on CBCT in Vietnamese Subjects with and without Obstructive Sleep Apnea: A Case Series* (Vietnam Medical Journal, 2025)
 
 ### Overview
-This repository contains the reproducible data analysis scripts developed for my Master's thesis on Obstructive Sleep Apnea (OSA). Working with CBCT data, I wrote R scripts to clean, visualize, and perform statistical group comparisons of upper airway morphometrics, directly supporting a peer-reviewed publication in the Vietnam Medical Journal (2025).
+This repository contains the reproducible data analysis scripts developed for my Master's thesis on Obstructive Sleep Apnea (OSA) at UMP HCMC. Working with CBCT data, I wrote R scripts to clean, visualize, and perform statistical group comparisons of upper airway morphometrics, directly supporting a peer-reviewed publication in the Vietnam Medical Journal (2025).
 
 ### Motivation
 For my Master's thesis, I needed to process and analyze volumetric and cross-sectional measurements of the upper airway. Instead of relying solely on point-and-click statistical software (SPSS), I chose to learn R to ensure reproducibility, programmatic data wrangling, and publication-standard visualization.
