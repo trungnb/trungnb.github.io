@@ -20,14 +20,9 @@ author_profile: true
   *Trường Đại học Y Dược, Đại học Huế, Việt Nam*  
   * **GPA:** 7.27 / 10 (Chương trình đào tạo 6 năm, 206 tín chỉ, Số vào sổ: 0079/RHM.2020).
 
-## Chứng chỉ
+## Chứng chỉ tiêu biểu
 * **[Writing in the Sciences](/files/Stanford_Writing_in_the_Sciences.pdf)** — Đại học Stanford (Stanford Online, 2025).
 * **[Data Analysis with Python](/files/Helsinki_Data_Analysis.png)** & **[Advanced Programming with Python](/files/Helsinki_Advanced_Programming.png)** — Đại học Helsinki (5 ECTS mỗi khóa, 2024–2025).
-* **Introduction to Programming** — Đại học Helsinki (5 ECTS, 2024).
-* **Introduction to Computer Science and Programming Using Python (6.00.1x)** — MITx (edX, 2023).
-* **US-ASEAN Science, Technology, and Innovation Cooperation (STIC)** — Chương trình US-ASEAN STIC (Track 1 & Track 2, 2025).
-* **Google Advanced Data Analytics Professional Certificate** — Google (Coursera, 2025).
-* **IBM Data Science Professional Certificate** — IBM (Coursera, 2025).
 
 ## Kinh nghiệm Lâm sàng & Chuyên môn
 * **Bác sĩ Phẫu thuật Răng Hàm Mặt** (Tháng 10/2020 – Tháng 7/2026)  

@@ -22,14 +22,9 @@ redirect_from:
   *Hue University of Medicine and Pharmacy, Vietnam*  
   * **GPA:** 7.27 / 10 (6-year clinical dental surgery curriculum, 206 credits, Reg. No. 0079/RHM.2020).
 
-## Certifications
+## Selected Certifications
 * **[Writing in the Sciences](/files/Stanford_Writing_in_the_Sciences.pdf)** — Stanford Online (Coursera, 2025).
 * **[Data Analysis with Python](/files/Helsinki_Data_Analysis.png)** & **[Advanced Programming with Python](/files/Helsinki_Advanced_Programming.png)** — University of Helsinki (5 ECTS each, 2024–2025).
-* **Introduction to Programming** — University of Helsinki (5 ECTS, 2024).
-* **Introduction to Computer Science and Programming Using Python (6.00.1x)** — MITx (edX, 2023).
-* **US-ASEAN Science, Technology, and Innovation Cooperation (STIC)** — US-ASEAN STIC Program (Track 1 & Track 2, 2025).
-* **Google Advanced Data Analytics Professional Certificate** — Google (Coursera, 2025).
-* **IBM Data Science Professional Certificate** — IBM (Coursera, 2025).
 
 ## Clinical & Professional Experience
 * **Oral Surgeon** (Oct 2020 – Jul 2026)  
