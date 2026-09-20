@@ -8,14 +8,14 @@ date: 2026-08-01
 ---
 
 **Live URL:** [https://periapical.ai.studio](https://periapical.ai.studio)  
-**Tech Stack:** Multimodal LLMs (Gemini Vision), Prompt Design, AI-Assisted Development  
+**Tech Stack:** TypeScript, React, Node.js / Express, Vite, Tailwind CSS, Google Gemini API (multimodal LLMs), Prompt Design, AI-Assisted Development  
 
 ### Overview
 Dental radiology requires careful image interpretation, yet learners may not always have access to immediate feedback. I built **PeriApicaI** as an experimental web prototype to explore whether multimodal AI could support learning from periapical radiographs. Developed from a clinician's perspective with AI-assisted development and prompt design, it provides automated technical-quality feedback and candidate finding annotations for educational review. The output is advisory; the project has not been clinically validated and is not a medical device.
 
 ### Key Features & Technical Approach
 
-* **Two assessment workflows:** Supports technical-quality review (for example, cone-cutting and elongation) and candidate pathology annotation across the project's defined taxonomy.
+* **Two assessment workflows:** *Film Technical Error Check* covers 11 technical error types (receptor placement, angulation and geometry, exposure and processing; for example cone-cut and vertical elongation), and *Abnormality Detection & Segmentation* provides candidate pathology annotation across the project's defined taxonomy.
 * **Optional dual-model comparison:** Can run Gemini Flash and Gemini Pro in parallel, compare their findings and polygon coordinates, and label agreement or review-required cases.
 * **Validation and provenance:** Backend schemas normalize model output against dental dictionaries, while inference lineage and append-only human-review states keep model output separate from later review decisions.
 * **Reliability controls:** Includes model fallback handling, execution limits, request cancellation with `AbortController`, and bounded recovery logic for transient failures.

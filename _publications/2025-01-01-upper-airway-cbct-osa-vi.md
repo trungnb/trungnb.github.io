@@ -4,15 +4,15 @@ collection: publications
 translation_key: upper-airway-cbct-osa
 permalink: /vi/publication/2025-01-01-upper-airway-cbct-osa
 excerpt: "Đánh giá kích thước thể tích và diện tích cắt ngang đường thở trên ở bệnh nhân Việt Nam có và không mắc hội chứng ngưng thở khi ngủ (OSA) qua phim CBCT."
-date: 2025-01-01
+date: 2025-09-19
 venue: 'Tạp chí Y học Việt Nam'
 paperurl: 'https://doi.org/10.51298/vmj.v553i3.15486'
-citation: 'Nguyễn BT, Vũ TTQ, Bùi ĐK, Lâm ĐP. (2025). &quot;Kích thước đường thở trên phim CBCT ở người Việt có và không có hội chứng ngưng thở khi ngủ.&quot; <i>Tạp chí Y học Việt Nam</i>, 553(3), 267–272.'
+citation: '<strong>Nguyen, B.T.</strong>, Vu, T.T.Q., Bui, D.K. and Lam, D.P. (2025) &#39;Upper airway dimensions on CBCT in Vietnamese subjects with and without obstructive sleep apnea: a case series&#39;, <i>Vietnam Medical Journal</i>, 553(3), pp. 267–272.'
 lang: vi
 ---
 
 **Tác giả:** **Nguyễn BT**, Vũ TTQ, Bùi ĐK, Lâm ĐP  
-**Tạp chí:** *Tạp chí Y học Việt Nam*, 2025; 553(3): 267–272  
+**Tạp chí:** *Tạp chí Y học Việt Nam*, 2025; 553(3): 267–272 (số tháng 8/2025)  
 **DOI:** [10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486)  
 
 ### Tóm tắt

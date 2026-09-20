@@ -7,7 +7,7 @@ translation_key: portfolio-2-3d-pipeline
 date: 2026-07-17
 ---
 
-**Project Repository (Google Drive):** [View Notebooks & Data](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)  
+**Project Repository (Google Drive):** [View Notebooks](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)  
 **Tech Stack:** Python, TotalSegmentator, NiBabel, Pandas, Matplotlib  
 
 ### Overview
@@ -19,7 +19,7 @@ While collecting data for research, I realized that manually masking CBCT slices
 ### Technical Approach
 * Configured a Python environment to run TotalSegmentator on NIfTI volumes.
 * Explored extraction of structures such as the skull, mandible, teeth, and airway-related regions.
-* Calculated example volumes and generated 2D projections from segmented 3D arrays.
+* Calculated example volumes, generated 2D projections from segmented 3D arrays, and compared runs with Dice and IoU.
 
 ### Key Learnings & Future Work
 Gained practical exposure to running an existing segmentation tool and handling 3D medical arrays with NiBabel. **Future Work:** Assess segmentation quality and, if appropriate, connect the workflow to statistical shape analysis for orthodontic research.

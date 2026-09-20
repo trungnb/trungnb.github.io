@@ -11,7 +11,7 @@ permalink: /vi/portfolio/portfolio-5-osa-airway-statistics/
 **Bài báo liên quan:** *Kích thước đường thở trên phim CBCT ở người Việt có và không có hội chứng ngưng thở khi ngủ: Báo cáo hàng loạt ca* (Tạp chí Y học Việt Nam, 2025)
 
 ### Tổng quan
-Kho lưu trữ này chứa các kịch bản phân tích dữ liệu có tính tái lập được phát triển cho Luận văn Thạc sĩ của mình về Hội chứng ngưng thở khi ngủ (OSA). Làm việc với dữ liệu phim CBCT, mình đã trực tiếp viết kịch bản R để tiền xử lý số liệu, trực quan hóa và thực hiện các kiểm định thống kê so sánh kích thước hình thái đường thở trên giữa hai nhóm, trực tiếp hỗ trợ cho bài báo khoa học công bố trên Tạp chí Y học Việt Nam (2025).
+Dự án này gồm các kịch bản phân tích dữ liệu có tính tái lập được phát triển cho Luận văn Thạc sĩ của mình về Hội chứng ngưng thở khi ngủ (OSA). Làm việc với dữ liệu phim CBCT, mình đã trực tiếp viết kịch bản R để tiền xử lý số liệu, trực quan hóa và thực hiện các kiểm định thống kê so sánh kích thước hình thái đường thở trên giữa hai nhóm, trực tiếp hỗ trợ cho bài báo khoa học công bố trên Tạp chí Y học Việt Nam (2025).
 
 ### Động lực thực hiện
 Đối với Luận văn Thạc sĩ, mình cần xử lý và so sánh các số đo thể tích và diện tích tiết diện cắt ngang của đường thở trên. Thay vì chỉ phụ thuộc vào các phần mềm thống kê thao tác bằng chuột (như SPSS), mình chọn học và sử dụng ngôn ngữ R để đảm bảo tính tái lập (reproducibility), làm sạch dữ liệu bằng code và xuất biểu đồ đạt chuẩn quy cách bài báo quốc tế.

@@ -7,6 +7,7 @@ This repository powers the personal academic website of **Nguyen Bao Trung, MD, 
 ## 📂 Repository Structure
 
 * **`_config.yml`**: Global site configuration (Name, bio, ORCID, affiliations, social links).
+* **`_data/`**: Navigation, author, and UI-label data for both languages.
 * **`_pages/`**:
   * `about.md`: Homepage bio, research interests, and recent news.
   * `cv.md`: Online Curriculum Vitae.
@@ -34,7 +35,7 @@ The language switcher uses `translation_key` to open the equivalent page. If a t
 
 1. Save your portrait photo as **`profile.jpg`** (or `.png`).
 2. Put it into the **`images/`** folder (replacing `images/profile.jpg`).
-3. *(Alternative)*: If you put your image inside **`files/bio.jpg`**, update line 14 of `_config.yml`:
+3. *(Alternative)*: If you put your image inside **`files/bio.jpg`**, update the `avatar` entry under `author:` in `_config.yml`:
    ```yaml
    author:
      avatar: "../files/bio.jpg"
@@ -57,7 +58,7 @@ excerpt: "Short 1-2 sentence summary of findings."
 date: 2026-06-01
 venue: 'Journal Name'
 paperurl: 'https://doi.org/your-doi-link'
-citation: '<strong>Nguyen BT</strong>, et al. (2026). &quot;Your Paper Title.&quot; <i>Journal Name</i>.'
+citation: '<strong>Nguyen, B.T.</strong>, Surname, A.B. and Surname, C. (2026) &#39;Your paper title in sentence case&#39;, <i>Journal Name</i>, 12(3), pp. 1–9.'
 ---
 
 ### Abstract

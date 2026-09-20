@@ -7,7 +7,7 @@ date: 2026-07-17
 lang: vi
 permalink: /vi/portfolio/portfolio-2-3d-pipeline/
 ---
-**Kho lưu trữ dự án (Google Drive):** [Xem Notebook & Dữ liệu](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)  
+**Kho lưu trữ dự án (Google Drive):** [Xem Notebook](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)  
 **Công nghệ sử dụng:** Python, TotalSegmentator, NiBabel, Pandas, Matplotlib  
 
 ### Tổng quan
@@ -19,7 +19,7 @@ Trong quá trình thu thập dữ liệu nghiên cứu, mình nhận ra việc t
 ### Phương pháp Kỹ thuật
 * Thiết lập môi trường Python để chạy TotalSegmentator trên các khối dữ liệu NIfTI.
 * Thử nghiệm trích xuất các cấu trúc như hộp sọ, xương hàm dưới, răng và vùng liên quan đến đường thở.
-* Tính một số thể tích mẫu và tạo hình chiếu 2D từ các mảng 3D đã phân vùng.
+* Tính một số thể tích mẫu, tạo hình chiếu 2D từ các mảng 3D đã phân vùng và so sánh các lần chạy bằng Dice và IoU.
 
 ### Bài học Rút ra & Hướng phát triển
 Làm quen với việc chạy một công cụ phân vùng có sẵn và xử lý mảng dữ liệu 3D y khoa bằng NiBabel. **Hướng phát triển:** Đánh giá chất lượng phân vùng và, nếu phù hợp, kết nối luồng này với phân tích hình thái học thống kê trong nghiên cứu chỉnh nha.

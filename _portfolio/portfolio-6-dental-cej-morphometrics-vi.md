@@ -8,7 +8,7 @@ lang: vi
 permalink: /vi/portfolio/portfolio-6-dental-cej-morphometrics/
 ---
 **Kho lưu trữ dự án (Google Drive):** [Xem Notebook & Dữ liệu](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)  
-**Công nghệ sử dụng:** Python, Jupyter, NiBabel, NumPy, SciPy (`ndimage`), Pandas, Matplotlib  
+**Công nghệ sử dụng:** Python, Jupyter / Google Colab, NiBabel, NumPy, SciPy (`ndimage`), scikit-learn (PCA), Pandas, Matplotlib, Plotly  
 
 ### Tổng quan
 Việc đo đạc 3D thủ công trong nha khoa có thể tốn nhiều thời gian. Để khám phá giải phẫu răng bằng lập trình, mình đã viết các notebook Python thử nghiệm trong Jupyter về căn chỉnh trục giải phẫu, định vị CEJ ở mức thăm dò và tính tỷ lệ thân-chân răng từ dữ liệu NIfTI đã phân vùng. Dự án giúp mình có kinh nghiệm thực tế về thao tác voxel 3D và biến đổi hệ tọa độ.
@@ -21,7 +21,7 @@ Việc click chuột thủ công trên các mô hình 3D nha khoa để tìm cá
 * Ứng dụng phép bào mòn nhị phân 3D (Binary Erosion) trên mặt nạ răng để phân tách riêng lớp vỏ ngoài (outer shell voxels).
 * Áp dụng Phân tích thành phần chính (PCA) trên tọa độ 3D của răng để tính toán trục giải phẫu chính và xoay trục dài của răng thẳng đứng theo trục Z qua biến đổi affine.
 * Quét và phân tích biến thiên tỷ trọng Hounsfield Unit (HU) (mean, min, max, std) theo từng lát cắt trục Z để tìm ranh giới chuyển tiếp men-xê măng (CEJ).
-* Viết các hàm tính toán tỷ lệ giải phẫu (thân-chân răng / Crown-to-Root) và thể tích buồng tủy.
+* Xuất bảng tỷ lệ thân-chân răng ra CSV ở các ngưỡng cố định (20 % và 25 %) và ngưỡng động (10–90 %), đồng thời xây dựng công cụ xem lát cắt tương tác và bản đồ nhiệt Plotly của giá trị xám.
 
 ### Bài học Rút ra & Hướng phát triển
 Có được hiểu biết nền tảng về thao tác mảng 3D và dữ liệu voxel trong Python. **Hướng phát triển:** Đánh giá tính lặp lại của các số đo thử nghiệm và tìm hiểu khả năng kết hợp với mô hình phân vùng răng tự động.
