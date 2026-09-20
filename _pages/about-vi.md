@@ -15,7 +15,7 @@ Hướng tập trung nghiên cứu hiện tại của mình là giao điểm gi�
 * **CBCT và hình thái học răng**: Nghiên cứu kích thước đường thở trên ở người có và không có OSA, hình thái xương ổ răng cối nhỏ hàm trên, cùng các thử nghiệm về tỷ lệ thân-chân răng và đường nối men-xê măng (CEJ).
 * **Nghiên cứu định lượng có tính tái lập**: Làm sạch dữ liệu, phân tích thống kê và trực quan hóa khoa học bằng R và Python cho các số đo trích xuất từ CBCT.
 * **Thử nghiệm xử lý ảnh y khoa và AI**: Làm quen với TotalSegmentator, NiBabel, các mô hình tạo dữ liệu dạng bảng và AI đa phương thức qua các dự án cá nhân ở giai đoạn đầu.
-* **Phần mềm phục vụ đào tạo**: Người thiết kế [PeriApicaI](https://periapical.ai.studio), một prototype web thử nghiệm phản hồi có hỗ trợ AI cho hình ảnh cận chóp, được xây dựng bằng công cụ lập trình AI. Dự án chưa được thẩm định lâm sàng và không phải thiết bị y tế.
+* **Phần mềm phục vụ đào tạo**: Người thiết kế [PeriApicaI](https://periapical.ai.studio), một prototype web thử nghiệm phản hồi có hỗ trợ AI cho hình ảnh cận chóp, phát triển có hỗ trợ AI. Dự án chưa được thẩm định lâm sàng và không phải thiết bị y tế.
 
 ### 📢 Tin tức & Cập nhật mới
 * **Tháng 08/2026**: Công bố **[PeriApicaI](https://periapical.ai.studio)**, prototype web thử nghiệm hỗ trợ đào tạo chẩn đoán hình ảnh nha khoa bằng AI.

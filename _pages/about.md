@@ -18,7 +18,7 @@ My current research focus is at the intersection of **clinical dentistry, 3D med
 * **CBCT and dental morphometrics**: Research on upper-airway dimensions in Obstructive Sleep Apnea (OSA), maxillary premolar alveolar bone, and exploratory crown-root ratio and cementoenamel junction (CEJ) measurements.
 * **Reproducible quantitative research**: Data cleaning, statistical analysis, and scientific visualization in R and Python for CBCT-derived measurements.
 * **Exploratory medical imaging and AI**: Early-stage work with TotalSegmentator, NiBabel, and synthetic tabular data models, alongside prompt-based multimodal AI experiments.
-* **Educational software**: Designer of [PeriApicaI](https://periapical.ai.studio), an experimental web prototype, built with AI coding tools, for AI-assisted feedback on dental periapical radiographs. It is not clinically validated or a medical device.
+* **Educational software**: Designer of [PeriApicaI](https://periapical.ai.studio), an experimental web prototype for AI-assisted feedback on dental periapical radiographs (AI-assisted development). It is not clinically validated or a medical device.
 
 ### 📢 Recent News & Updates
 * **August 2026**: Published **[PeriApicaI](https://periapical.ai.studio)**, an experimental AI-assisted web prototype for dental radiology education.
