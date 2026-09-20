@@ -8,10 +8,10 @@ date: 2026-08-01
 ---
 
 **Live URL:** [https://periapical.ai.studio](https://periapical.ai.studio)  
-**Tech Stack:** TypeScript, React, Node.js / Express, Vite, Tailwind CSS, Google Gemini API (multimodal LLMs), Prompt Design, AI-Assisted Development  
+**Tools:** Google Gemini API (multimodal LLMs); the web app was built with AI coding tools, while I designed the workflow, the prompts and the review logic  
 
 ### Overview
-Dental radiology requires careful image interpretation, yet learners may not always have access to immediate feedback. I built **PeriApicaI** as an experimental web prototype to explore whether multimodal AI could support learning from periapical radiographs. Developed from a clinician's perspective with AI-assisted development and prompt design, it provides automated technical-quality feedback and candidate finding annotations for educational review. The output is advisory; the project has not been clinically validated and is not a medical device.
+Dental radiology requires careful image interpretation, yet learners may not always have access to immediate feedback. I designed **PeriApicaI** as an experimental web prototype to explore whether multimodal AI could support learning from periapical radiographs. Developed from a clinician's perspective with AI-assisted development and prompt design, it provides automated technical-quality feedback and candidate finding annotations for educational review. The output is advisory; the project has not been clinically validated and is not a medical device.
 
 ### Key Features & Technical Approach
 

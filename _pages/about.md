@@ -11,14 +11,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a dentist with clinical experience in oral surgery and implantology and a research focus on CBCT-based oral radiology, dental morphometrics, and data analysis. I hold a **Master of Science in Odonto-Stomatology** from the University of Medicine and Pharmacy at Ho Chi Minh City (UMP HCMC) and a **Doctor of Medicine in Odonto-Stomatology** from Hue University of Medicine and Pharmacy.
+I am a dentist with clinical experience in oral surgery and implantology and a research focus on CBCT-based oral radiology, dental morphometrics, and data analysis. I hold a **Master of Science in Odonto-Stomatology** from the University of Medicine and Pharmacy at Ho Chi Minh City (UMP HCMC) and a **Doctor of Medicine in Odonto-Stomatology** from the University of Medicine and Pharmacy, Hue University.
 
 ### 🔬 Research Focus
 My current research focus is at the intersection of **clinical dentistry, 3D medical imaging, and applied data analysis**, with an exploratory interest in artificial intelligence for dental education and imaging:
 * **CBCT and dental morphometrics**: Research on upper-airway dimensions in Obstructive Sleep Apnea (OSA), maxillary premolar alveolar bone, and exploratory crown-root ratio and cementoenamel junction (CEJ) measurements.
 * **Reproducible quantitative research**: Data cleaning, statistical analysis, and scientific visualization in R and Python for CBCT-derived measurements.
 * **Exploratory medical imaging and AI**: Early-stage work with TotalSegmentator, NiBabel, and synthetic tabular data models, alongside prompt-based multimodal AI experiments.
-* **Educational software**: Creator of [PeriApicaI](https://periapical.ai.studio), an experimental web prototype for AI-assisted feedback on dental periapical radiographs. It is not clinically validated or a medical device.
+* **Educational software**: Designer of [PeriApicaI](https://periapical.ai.studio), an experimental web prototype, built with AI coding tools, for AI-assisted feedback on dental periapical radiographs. It is not clinically validated or a medical device.
 
 ### 📢 Recent News & Updates
 * **August 2026**: Published **[PeriApicaI](https://periapical.ai.studio)**, an experimental AI-assisted web prototype for dental radiology education.

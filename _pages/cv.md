@@ -20,13 +20,13 @@ redirect_from:
   *Military Hospital 103, Vietnam Military Medical University, Hanoi, Vietnam*  
   * 1,000 teaching hours.
 * **Doctor of Medicine in Odonto-Stomatology (MD)** (2014 – 2020)  
-  *Hue University of Medicine and Pharmacy, Vietnam*  
+  *University of Medicine and Pharmacy, Hue University, Vietnam*  
   * **GPA:** 7.27 / 10 (Good).
 
 ## Clinical & Professional Experience
 * **Dentist (oral surgery and implantology)** (Sep 2020 – Jul 2026)  
   *Thai Thuong Hoang Hospital of Odonto-Stomatology and Cosmetic Surgery, Nghe An, Vietnam*  
-  * Performed diagnostic evaluations and dentoalveolar and implant surgical procedures in a regional specialty hospital.  
+  * Performed diagnostic evaluations, minor oral surgery and implant surgery in a regional specialty hospital.  
   * Used CBCT reconstructions to guide anatomical assessment and preoperative surgical planning.  
   * Conducted hospital-level research on orthognathic surgery treatment need using the IOFTN index.
 * **Master's Candidate & Graduate Researcher, Department of Oral Radiology** (Sep 2023 – Dec 2025)  
@@ -46,7 +46,7 @@ redirect_from:
 * **Second Prize, Outstanding Scientific Research Project** (2022) — TTH Group (Thai Thuong Hoang Hospital), for a clinical study on orthognathic surgery treatment need using the IOFTN index.
 
 ## Selected Research & Software Projects
-* **[PeriApicaI](https://periapical.ai.studio)** (Aug 2026): An experimental web prototype for AI-assisted feedback on periapical radiographs (React, TypeScript, Node.js, Google Gemini API). It offers film technical-error checks and abnormality detection, dual-model comparison, and human-review records; it is not clinically validated or a medical device.
+* **[PeriApicaI](https://periapical.ai.studio)** (Aug 2026): An experimental web prototype for AI-assisted feedback on periapical radiographs (built with AI coding tools; Google Gemini API). It offers film technical-error checks and abnormality detection, dual-model comparison, and human-review records; it is not clinically validated or a medical device.
 * **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Jul 2026): Proof-of-concept Python notebooks on segmented 3D tooth data: PCA-based axis normalisation, HU profiling along the tooth axis, and crown/root ratio tables.
 * **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Jul 2026): Exploratory Python notebooks using TotalSegmentator (craniofacial structures and teeth) and NiBabel for NIfTI-based segmentation, 2D projections, and Dice/IoU comparison.
 * **[Medical Tabular Data Synthesis (CTGAN & ctdGAN)](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Jun 2026): Exploratory notebooks using mock demographic data to learn CTGAN/ctdGAN training and distributional evaluation. The project does not establish a privacy guarantee for clinical data.
@@ -64,9 +64,8 @@ redirect_from:
 * **Introduction to Programming** (5 ECTS) — University of Helsinki, 2024.
 
 ## Skills
-* **Clinical & imaging:** Dentoalveolar and implant surgery, CBCT-based surgical planning, oral radiology; CBCT airway analysis (Romexis Viewer, OnDemand3D, DTX Studio); 3D Slicer, NiBabel (NIfTI), TotalSegmentator.
-* **Statistics (R):** `dplyr`, `tidyr`, `readr`, `readxl`, `ggplot2`, `ggpubr`, `psych`, `effsize`, `pROC`; Shapiro–Wilk, t-test, Wilcoxon/Mann–Whitney, chi-square/Fisher, Cliff's delta, ROC analysis, ICC reliability.
-* **Python & data:** NumPy, pandas, SciPy, scikit-learn, XGBoost, matplotlib, seaborn, OpenCV, scikit-image, Jupyter; CTGAN/ctdGAN and SDMetrics for synthetic tabular data; SQL (basic).
-* **Software & AI:** TypeScript, React, Node.js/Express, Vite, Tailwind CSS, Google Gemini API; Git/GitHub.
+* **Clinical & imaging:** CBCT-based surgical planning and oral radiology; CBCT airway analysis (Romexis Viewer, OnDemand3D, DTX Studio); 3D Slicer.
+* **Data analysis (working level):** R (`dplyr`, `ggplot2`; Wilcoxon, Fisher, Cliff's delta, ROC, ICC) and Python (`pandas`, `scikit-learn`) applied to my own research data; basic SQL.
+* **Learning:** TotalSegmentator and CTGAN in tutorial-level notebooks; a web prototype (PeriApicaI) built with AI coding tools.
 * **Languages:** Vietnamese (native); English (IELTS Academic 7.5: Listening 8.5, Reading 9.0, Writing 6.5, Speaking 6.0).
 * **Licensure:** Licensed Doctor of Odonto-Stomatology (Vietnam).

@@ -8,10 +8,10 @@ lang: vi
 permalink: /vi/portfolio/portfolio-1-periapical/
 ---
 **Đường dẫn dự án:** [https://periapical.ai.studio](https://periapical.ai.studio)  
-**Công nghệ sử dụng:** TypeScript, React, Node.js / Express, Vite, Tailwind CSS, Google Gemini API (LLM đa phương thức), Thiết kế Prompt, Phát triển có hỗ trợ AI  
+**Công cụ:** Google Gemini API (LLM đa phương thức); ứng dụng web được xây dựng bằng công cụ lập trình AI, còn quy trình, prompt và logic rà soát do mình thiết kế  
 
 ### Tổng quan
-Chẩn đoán hình ảnh nha khoa đòi hỏi sự thận trọng, nhưng người học không phải lúc nào cũng có thể nhận được phản hồi ngay từ giảng viên. Mình phát triển **PeriApicaI** như một prototype web thử nghiệm để tìm hiểu liệu AI đa phương thức có thể hỗ trợ việc học từ hình ảnh cận chóp hay không. Dự án được xây dựng từ góc nhìn lâm sàng với phương pháp phát triển có hỗ trợ AI và thiết kế prompt; ứng dụng đưa ra phản hồi tự động về chất lượng kỹ thuật và các vùng phát hiện tiềm năng để người học rà soát. Kết quả chỉ có tính tham khảo; dự án chưa được thẩm định lâm sàng và không phải thiết bị y tế.
+Chẩn đoán hình ảnh nha khoa đòi hỏi sự thận trọng, nhưng người học không phải lúc nào cũng có thể nhận được phản hồi ngay từ giảng viên. Mình thiết kế **PeriApicaI** như một prototype web thử nghiệm để tìm hiểu liệu AI đa phương thức có thể hỗ trợ việc học từ hình ảnh cận chóp hay không. Dự án được xây dựng từ góc nhìn lâm sàng với phương pháp phát triển có hỗ trợ AI và thiết kế prompt; ứng dụng đưa ra phản hồi tự động về chất lượng kỹ thuật và các vùng phát hiện tiềm năng để người học rà soát. Kết quả chỉ có tính tham khảo; dự án chưa được thẩm định lâm sàng và không phải thiết bị y tế.
 
 ### Tính năng Nổi bật & Kỹ thuật
 

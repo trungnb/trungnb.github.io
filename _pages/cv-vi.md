@@ -44,7 +44,7 @@ author_profile: true
 * **Giải Nhì, Đề tài Nghiên cứu Khoa học Xuất sắc** (2022) — Công ty CP TTH Group (Bệnh viện Thái Thượng Hoàng), cho nghiên cứu về nhu cầu phẫu thuật chỉnh hình xương hàm theo chỉ số IOFTN.
 
 ## Dự án Nghiên cứu & Phần mềm Tiêu biểu
-* **[PeriApicaI](https://periapical.ai.studio)** (Tháng 8/2026): Prototype web thử nghiệm phản hồi có hỗ trợ AI cho hình ảnh cận chóp (React, TypeScript, Node.js, Google Gemini API). Có kiểm tra lỗi kỹ thuật phim và phát hiện bất thường, đối chiếu hai mô hình và lưu trạng thái con người rà soát; chưa được thẩm định lâm sàng và không phải thiết bị y tế.
+* **[PeriApicaI](https://periapical.ai.studio)** (Tháng 8/2026): Prototype web thử nghiệm phản hồi có hỗ trợ AI cho hình ảnh cận chóp (xây dựng bằng công cụ lập trình AI; Google Gemini API). Có kiểm tra lỗi kỹ thuật phim và phát hiện bất thường, đối chiếu hai mô hình và lưu trạng thái con người rà soát; chưa được thẩm định lâm sàng và không phải thiết bị y tế.
 * **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Tháng 7/2026): Các notebook Python thử nghiệm trên dữ liệu răng 3D đã phân vùng: chuẩn hóa trục bằng PCA, khảo sát giá trị HU dọc trục răng và lập bảng tỷ lệ thân-chân răng.
 * **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Tháng 7/2026): Các notebook Python thử nghiệm TotalSegmentator (cấu trúc sọ mặt và răng) và NiBabel để phân vùng dữ liệu NIfTI, tạo hình chiếu 2D và so sánh bằng Dice/IoU.
 * **[Medical Tabular Data Synthesis (CTGAN & ctdGAN)](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Tháng 6/2026): Các notebook thử nghiệm huấn luyện và đánh giá phân phối dữ liệu bằng CTGAN/ctdGAN trên dữ liệu nhân trắc học giả lập. Dự án không chứng minh rằng dữ liệu lâm sàng được bảo vệ riêng tư.
@@ -62,9 +62,8 @@ author_profile: true
 * **Introduction to Programming** (5 ECTS) — Đại học Helsinki, 2024.
 
 ## Kỹ năng
-* **Lâm sàng & hình ảnh:** Tiểu phẫu trong miệng và phẫu thuật implant, lập kế hoạch phẫu thuật dựa trên CBCT, chẩn đoán hình ảnh răng hàm mặt; phân tích đường thở CBCT (Romexis Viewer, OnDemand3D, DTX Studio); 3D Slicer, NiBabel (NIfTI), TotalSegmentator.
-* **Thống kê (R):** `dplyr`, `tidyr`, `readr`, `readxl`, `ggplot2`, `ggpubr`, `psych`, `effsize`, `pROC`; Shapiro–Wilk, t-test, Wilcoxon/Mann–Whitney, chi bình phương/Fisher, Cliff's delta, phân tích ROC, độ tin cậy ICC.
-* **Python & dữ liệu:** NumPy, pandas, SciPy, scikit-learn, XGBoost, matplotlib, seaborn, OpenCV, scikit-image, Jupyter; CTGAN/ctdGAN và SDMetrics cho dữ liệu dạng bảng tổng hợp; SQL cơ bản.
-* **Phần mềm & AI:** TypeScript, React, Node.js/Express, Vite, Tailwind CSS, Google Gemini API; Git/GitHub.
+* **Lâm sàng & hình ảnh:** Lập kế hoạch phẫu thuật dựa trên CBCT và chẩn đoán hình ảnh răng hàm mặt; phân tích đường thở CBCT (Romexis Viewer, OnDemand3D, DTX Studio); 3D Slicer.
+* **Phân tích dữ liệu (mức làm việc):** R (`dplyr`, `ggplot2`; Wilcoxon, Fisher, Cliff's delta, ROC, ICC) và Python (`pandas`, `scikit-learn`) áp dụng cho dữ liệu nghiên cứu của mình; SQL cơ bản.
+* **Đang học:** TotalSegmentator và CTGAN ở mức notebook thực hành; một prototype web (PeriApicaI) xây dựng bằng công cụ lập trình AI.
 * **Ngoại ngữ:** Tiếng Việt (Bản xứ), Tiếng Anh (IELTS Academic 7.5: Nghe 8.5, Đọc 9.0, Viết 6.5, Nói 6.0).
 * **Chứng chỉ hành nghề:** Bác sĩ Răng Hàm Mặt (Việt Nam).
