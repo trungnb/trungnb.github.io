@@ -64,6 +64,6 @@ author_profile: true
 ## Kỹ năng
 * **Lâm sàng & hình ảnh:** Lập kế hoạch phẫu thuật dựa trên CBCT và chẩn đoán hình ảnh răng hàm mặt; phân tích đường thở CBCT (Romexis Viewer, OnDemand3D, DTX Studio); 3D Slicer.
 * **Phân tích dữ liệu (mức làm việc):** R (`dplyr`, `ggplot2`; Wilcoxon, Fisher, Cliff's delta, ROC, ICC) và Python (`pandas`, `scikit-learn`) áp dụng cho dữ liệu nghiên cứu của mình; SQL cơ bản.
-* **Đang học:** TotalSegmentator và CTGAN ở mức notebook thực hành; một prototype web (PeriApicaI) xây dựng bằng công cụ lập trình AI.
+* **Đang học:** phân đoạn ảnh y khoa (TotalSegmentator) và dữ liệu bảng tổng hợp (CTGAN).
 * **Ngoại ngữ:** Tiếng Việt (Bản xứ), Tiếng Anh (IELTS Academic 7.5: Nghe 8.5, Đọc 9.0, Viết 6.5, Nói 6.0).
 * **Chứng chỉ hành nghề:** Bác sĩ Răng Hàm Mặt (Việt Nam).
