@@ -66,6 +66,6 @@ redirect_from:
 ## Skills
 * **Clinical & imaging:** CBCT-based surgical planning and oral radiology; CBCT airway analysis (Romexis Viewer, OnDemand3D, DTX Studio); 3D Slicer.
 * **Data analysis (working level):** R (`dplyr`, `ggplot2`; Wilcoxon, Fisher, Cliff's delta, ROC, ICC) and Python (`pandas`, `scikit-learn`) applied to my own research data; basic SQL.
-* **Currently learning:** medical-image segmentation (TotalSegmentator) and synthetic tabular data (CTGAN).
+* **Experimenting with:** medical-image segmentation (TotalSegmentator) and synthetic tabular data (CTGAN).
 * **Languages:** Vietnamese (native); English (IELTS Academic 7.5: Listening 8.5, Reading 9.0, Writing 6.5, Speaking 6.0).
 * **Licensure:** Licensed Doctor of Odonto-Stomatology (Vietnam).
