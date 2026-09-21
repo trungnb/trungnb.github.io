@@ -13,6 +13,10 @@ date: 2026-08-01
 ### Overview
 Dental radiology requires careful image interpretation, yet learners may not always have access to immediate feedback. I designed **PeriApicaI** as an experimental web prototype to explore whether multimodal AI could support learning from periapical radiographs. Developed from a clinician's perspective with AI-assisted development and prompt design, it provides automated technical-quality feedback and candidate finding annotations for educational review. The output is advisory; the project has not been clinically validated and is not a medical device.
 
+### Recognition
+
+**Top 500, AI Riser Vietnam 2026** — [Certificate of Completion](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf) issued to Nguyen Bao Trung for participation with PeriApicaI.
+
 ### Key Features & Technical Approach
 
 * **Two assessment workflows:** *Film Technical Error Check* covers 11 technical error types (receptor placement, angulation and geometry, exposure and processing; for example cone-cut and vertical elongation), and *Abnormality Detection & Segmentation* provides candidate pathology annotation across the project's defined taxonomy.

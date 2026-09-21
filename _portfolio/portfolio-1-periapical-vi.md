@@ -13,6 +13,10 @@ permalink: /vi/portfolio/portfolio-1-periapical/
 ### Tổng quan
 Chẩn đoán hình ảnh nha khoa đòi hỏi sự thận trọng, nhưng người học không phải lúc nào cũng có thể nhận được phản hồi ngay từ giảng viên. Mình thiết kế **PeriApicaI** như một prototype web thử nghiệm để tìm hiểu liệu AI đa phương thức có thể hỗ trợ việc học từ hình ảnh cận chóp hay không. Dự án được xây dựng từ góc nhìn lâm sàng với phương pháp phát triển có hỗ trợ AI và thiết kế prompt; ứng dụng đưa ra phản hồi tự động về chất lượng kỹ thuật và các vùng phát hiện tiềm năng để người học rà soát. Kết quả chỉ có tính tham khảo; dự án chưa được thẩm định lâm sàng và không phải thiết bị y tế.
 
+### Chứng nhận
+
+**Top 500, AI Riser Vietnam 2026** — [Chứng nhận hoàn thành chương trình](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf) cấp cho Nguyễn Bảo Trung, với ứng dụng tham gia PeriApicaI.
+
 ### Tính năng Nổi bật & Kỹ thuật
 
 * **Hai luồng đánh giá:** *Kiểm tra lỗi kỹ thuật phim* gồm 11 loại lỗi (đặt cảm biến, góc chiếu và hình học, phơi sáng và xử lý; ví dụ: cắt nón, kéo dài chiều dọc), và *Phát hiện & khoanh vùng bất thường* để gợi ý vùng tổn thương theo taxonomy của dự án.

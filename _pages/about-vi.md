@@ -18,6 +18,7 @@ Hướng tập trung nghiên cứu hiện tại của mình là giao điểm gi�
 * **Phần mềm phục vụ đào tạo**: Người thiết kế [PeriApicaI](https://periapical.ai.studio), một prototype web thử nghiệm phản hồi có hỗ trợ AI cho hình ảnh cận chóp, phát triển có hỗ trợ AI. Dự án chưa được thẩm định lâm sàng và không phải thiết bị y tế.
 
 ### 📢 Tin tức & Cập nhật mới
+* **2026**: Nhận [chứng nhận Top 500, AI Riser Vietnam](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf), với ứng dụng tham gia **[PeriApicaI](https://periapical.ai.studio)**.
 * **Tháng 08/2026**: Công bố **[PeriApicaI](https://periapical.ai.studio)**, prototype web thử nghiệm hỗ trợ đào tạo chẩn đoán hình ảnh nha khoa bằng AI.
 * **Tháng 12/2025**: Hoàn thành **Thạc sĩ Răng Hàm Mặt** tại ĐHYD TP.HCM với luận văn về phân tích đường thở trên phim CBCT.
 * **Tháng 10/2025**: Xuất bản bài báo đồng tác giả về "*Hình thái giải phẫu xương ổ vùng răng cối nhỏ hàm trên người Việt trưởng thành qua hình ảnh cắt lớp chùm tia hình nón*" trên Tạp chí Y học Việt Nam.
