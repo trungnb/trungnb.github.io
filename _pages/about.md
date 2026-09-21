@@ -21,7 +21,7 @@ My current research focus is at the intersection of **clinical dentistry, 3D med
 * **Educational software**: Designer of [PeriApicaI](https://periapical.ai.studio), an experimental web prototype for AI-assisted feedback on dental periapical radiographs (AI-assisted development). It is not clinically validated or a medical device.
 
 ### 📢 Recent News & Updates
-* **2026**: Received a [Top 500 certificate, AI Riser Vietnam](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf), for my participation with **[PeriApicaI](https://periapical.ai.studio)**.
+* **2026**: Reached Silver Tier (Top 500) in [AI Riser Vietnam](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf) with **[PeriApicaI](https://periapical.ai.studio)**.
 * **August 2026**: Published **[PeriApicaI](https://periapical.ai.studio)**, an experimental AI-assisted web prototype for dental radiology education.
 * **December 2025**: Completed my **Master of Science in Odonto-Stomatology** at UMP HCMC with a thesis on CBCT-based upper-airway analysis in OSA.
 * **October 2025**: Published co-authored paper on *Anatomical Morphology of the Maxillary Premolar Alveolar Bone* in *Vietnam Medical Journal* ([doi:10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172)).

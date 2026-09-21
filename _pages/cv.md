@@ -41,7 +41,7 @@ redirect_from:
 2. **Nguyen, B.T.**, Vu, T.T.Q., Bui, D.K. and Lam, D.P. (2025) 'Upper airway dimensions on CBCT in Vietnamese subjects with and without obstructive sleep apnea: a case series', *Vietnam Medical Journal*, 553(3), pp. 267–272. [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486).
 
 ## Research Projects & Awards
-* **[Top 500, AI Riser Vietnam](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf)** (2026) — PeriApicaI; Certificate of Completion, Google for Developers.
+* **[Silver Tier (Top 500), AI Riser Vietnam](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf)** (2026) — Recognised for PeriApicaI.
 * **Upper airway dimensions in subjects with and without obstructive sleep apnea, assessed by CBCT** (2024 – 2025)  
   Institution-level research project funded by the University of Medicine and Pharmacy at Ho Chi Minh City (30,000,000 VND). Developed the CBCT airway measurement protocol, collected and measured the data, performed the statistical analysis in R and Python, and drafted the resulting article (Vietnam Medical Journal, 2025).
 * **Second Prize, Outstanding Scientific Research Project** (2022) — TTH Group (Thai Thuong Hoang Hospital), for a clinical study on orthognathic surgery treatment need using the IOFTN index.

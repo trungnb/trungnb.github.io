@@ -15,7 +15,7 @@ Chẩn đoán hình ảnh nha khoa đòi hỏi sự thận trọng, nhưng ngư�
 
 ### Chứng nhận
 
-**Top 500, AI Riser Vietnam 2026** — [Chứng nhận hoàn thành chương trình](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf) cấp cho Nguyễn Bảo Trung, với ứng dụng tham gia PeriApicaI.
+**Đạt hạng Bạc (Top 500) tại chương trình AI Riser Vietnam 2026 với dự án PeriApicaI.** [Chứng nhận hoàn thành chương trình](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf) cấp cho Nguyễn Bảo Trung.
 
 ### Tính năng Nổi bật & Kỹ thuật
 

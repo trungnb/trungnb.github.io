@@ -39,7 +39,7 @@ author_profile: true
 2. **Nguyen, B.T.**, Vu, T.T.Q., Bui, D.K. and Lam, D.P. (2025) 'Upper airway dimensions on CBCT in Vietnamese subjects with and without obstructive sleep apnea: a case series', *Vietnam Medical Journal*, 553(3), pp. 267–272. [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486).
 
 ## Dự án Nghiên cứu & Giải thưởng
-* **[Top 500, AI Riser Vietnam](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf)** (2026) — PeriApicaI; chứng nhận hoàn thành chương trình, Google for Developers.
+* **[Hạng Bạc (Top 500), AI Riser Vietnam](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf)** (2026) — cho dự án PeriApicaI.
 * **Kích thước đường thở trên ở người có và không có ngưng thở tắc nghẽn khi ngủ, đánh giá bằng CBCT** (2024 – 2025)  
   Đề tài nghiên cứu cấp cơ sở do Đại học Y Dược TP.HCM tài trợ (30.000.000 VNĐ). Xây dựng quy trình đo đường thở trên CBCT, thu thập và đo dữ liệu, phân tích thống kê bằng R và Python, và viết bản thảo bài báo (Tạp chí Y học Việt Nam, 2025).
 * **Giải Nhì, Đề tài Nghiên cứu Khoa học Xuất sắc** (2022) — Công ty CP TTH Group (Bệnh viện Thái Thượng Hoàng), cho nghiên cứu về nhu cầu phẫu thuật chỉnh hình xương hàm theo chỉ số IOFTN.

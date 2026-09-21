@@ -15,7 +15,7 @@ Dental radiology requires careful image interpretation, yet learners may not alw
 
 ### Recognition
 
-**Top 500, AI Riser Vietnam 2026** — [Certificate of Completion](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf) issued to Nguyen Bao Trung for participation with PeriApicaI.
+**Silver Tier (Top 500), AI Riser Vietnam 2026, for PeriApicaI.** [Certificate of Completion](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf) issued to Nguyen Bao Trung.
 
 ### Key Features & Technical Approach
 
