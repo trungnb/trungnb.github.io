@@ -11,18 +11,15 @@ permalink: /vi/portfolio/portfolio-1-periapical/
 **Công cụ:** Google Gemini API (LLM đa phương thức); quy trình, prompt và logic rà soát do mình thiết kế; mã nguồn viết với sự hỗ trợ của AI  
 
 ### Tổng quan
-Chẩn đoán hình ảnh nha khoa đòi hỏi sự thận trọng, nhưng người học không phải lúc nào cũng có thể nhận được phản hồi ngay từ giảng viên. Mình thiết kế **PeriApicaI** như một prototype web thử nghiệm để tìm hiểu liệu AI đa phương thức có thể hỗ trợ việc học từ hình ảnh cận chóp hay không. Dự án được xây dựng từ góc nhìn lâm sàng với phương pháp phát triển có hỗ trợ AI và thiết kế prompt; ứng dụng đưa ra phản hồi tự động về chất lượng kỹ thuật và các vùng phát hiện tiềm năng để người học rà soát. Kết quả chỉ có tính tham khảo; dự án chưa được thẩm định lâm sàng và không phải thiết bị y tế.
+**PeriApicaI** là prototype phục vụ đào tạo, thử nghiệm phản hồi có hỗ trợ AI cho hình ảnh cận chóp. Mình thiết kế quy trình, prompt và logic rà soát; mã nguồn viết với sự hỗ trợ của AI. Kết quả chỉ có tính tham khảo; dự án chưa được thẩm định lâm sàng và không phải thiết bị y tế.
 
 ### Chứng nhận
 
 **Đạt hạng Bạc (Top 500) tại chương trình AI Riser Vietnam 2026 với dự án PeriApicaI.** [Chứng nhận hoàn thành chương trình](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf) cấp cho Nguyễn Bảo Trung.
 
-### Tính năng Nổi bật & Kỹ thuật
+### Cách tiếp cận
 
-* **Hai luồng đánh giá:** *Kiểm tra lỗi kỹ thuật phim* gồm 11 loại lỗi (đặt cảm biến, góc chiếu và hình học, phơi sáng và xử lý; ví dụ: cắt nón, kéo dài chiều dọc), và *Phát hiện & khoanh vùng bất thường* để gợi ý vùng tổn thương theo taxonomy của dự án.
-* **Đối chiếu hai mô hình tùy chọn:** Có thể chạy Gemini Flash và Gemini Pro song song, so sánh kết quả và tọa độ polygon, sau đó gắn nhãn mức độ đồng thuận hoặc trường hợp cần rà soát.
-* **Xác thực và lưu vết:** Schema backend chuẩn hóa đầu ra theo từ điển nha khoa; lineage của lượt suy luận và trạng thái rà soát nối tiếp giúp tách kết quả của mô hình khỏi quyết định rà soát về sau.
-* **Các cơ chế tăng độ ổn định:** Có xử lý fallback mô hình, giới hạn thực thi, hủy request bằng `AbortController` và cơ chế khôi phục có giới hạn cho lỗi tạm thời.
+* Có kiểm tra lỗi kỹ thuật phim và gợi ý vùng bất thường; có thể đối chiếu Gemini Flash và Gemini Pro để hỗ trợ rà soát.
+* Dùng schema và trạng thái rà soát để tách đầu ra mô hình khỏi quyết định của người dùng.
 
-### Bài học Rút ra & Hướng phát triển
-Dự án giúp mình có kinh nghiệm thực hành về thiết kế prompt đa phương thức, đối chiếu mô hình, xác thực schema và xây dựng luồng rà soát của con người. **Hướng phát triển:** Đánh giá prototype trên bộ dữ liệu có quản trị phù hợp, có nhãn và được rà soát độc lập trước khi đưa ra bất kỳ kết luận nào về hiệu năng hoặc ứng dụng lâm sàng.
+Mọi kết luận về hiệu năng hoặc ứng dụng lâm sàng cần được đánh giá trên dữ liệu có quản trị phù hợp, gán nhãn và rà soát độc lập.

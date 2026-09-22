@@ -11,17 +11,8 @@ date: 2025-09-09
 **Related Publication:** *Upper Airway Dimensions on CBCT in Vietnamese Subjects with and without Obstructive Sleep Apnea: A Case Series* (Vietnam Medical Journal, 2025)
 
 ### Overview
-This project contains the reproducible data analysis scripts developed for my Master's thesis on Obstructive Sleep Apnea (OSA) at UMP HCMC. Working with CBCT data, I wrote R scripts to clean, visualize, and perform statistical group comparisons of upper airway morphometrics, directly supporting a peer-reviewed publication in the Vietnam Medical Journal (2025).
+Reproducible R workflow developed for my MSc thesis and related *Vietnam Medical Journal* paper on CBCT upper-airway morphometrics in an 11-subject Vietnamese case series.
 
-### Motivation
-For my Master's thesis, I needed to process and analyze volumetric and cross-sectional measurements of the upper airway. Instead of relying solely on point-and-click statistical software (SPSS), I chose to learn R to ensure reproducibility, programmatic data wrangling, and publication-standard visualization.
-
-### Technical Approach
-* Curated and preprocessed clinical and CBCT morphometric data from 11 subjects (Vietnamese case series with and without OSA).
-* Assessed distributional assumptions using the Shapiro-Wilk test for normality and F-test for homogeneity of variance.
-* Performed group comparisons using the Mann-Whitney U / Wilcoxon rank-sum test for airway parameters (MinCSA, Volume, MinAP, MinLR) and Fisher's exact test for categorical variables.
-* Calculated non-parametric effect sizes using Cliff's delta (`effsize`).
-* Generated publication-quality boxplots with jittered data points and automated p-value brackets using `ggplot2` and `ggpubr` (exported at 1200 DPI).
-
-### Key Learnings & Future Work
-Developed hands-on experience in programmatic data cleaning, non-parametric hypothesis testing, and scientific visualization in R. **Future Work:** Extend the workflow with Python-assisted extraction of 3D measurements, subject to validation.
+### Approach
+* Cleaned CBCT-derived data and compared airway measures using Wilcoxon rank-sum, Fisher's exact test, and Cliff's delta.
+* Generated publication figures with `ggplot2` and `ggpubr`; any extension to Python-assisted 3D extraction requires validation.

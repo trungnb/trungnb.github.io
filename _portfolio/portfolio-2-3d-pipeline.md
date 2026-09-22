@@ -11,15 +11,8 @@ date: 2026-07-17
 **Tech Stack:** Python, TotalSegmentator, NiBabel, Pandas, Matplotlib  
 
 ### Overview
-Anatomical studies can involve slow manual segmentation. To learn about medical image processing, I experimented with TotalSegmentator on 3D NIfTI data and inspected the resulting structures and measurements. This was an early hands-on exercise in applying an existing deep-learning tool to craniofacial data.
+Exploratory notebooks applying TotalSegmentator and NiBabel to 3D craniofacial NIfTI data. This is early-stage practice with an existing segmentation tool, not a validated pipeline.
 
-### Motivation
-While collecting data for research, I realized that manually masking CBCT slices is incredibly inefficient. I wanted to step out of my clinical routine and explore open-source deep learning tools that could automate this tedious process.
-
-### Technical Approach
-* Configured a Python environment to run TotalSegmentator on NIfTI volumes.
-* Explored extraction of structures such as the skull, mandible, teeth, and airway-related regions.
-* Calculated example volumes, generated 2D projections from segmented 3D arrays, and compared runs with Dice and IoU.
-
-### Key Learnings & Future Work
-Gained practical exposure to running an existing segmentation tool and handling 3D medical arrays with NiBabel. **Future Work:** Assess segmentation quality and, if appropriate, connect the workflow to statistical shape analysis for orthodontic research.
+### Approach
+* Extracted craniofacial structures, created 2D projections, and calculated example volumes.
+* Compared runs with Dice and IoU; future work is to assess segmentation quality before research use.

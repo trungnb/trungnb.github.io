@@ -11,18 +11,15 @@ date: 2026-08-01
 **Tools:** Google Gemini API (multimodal LLMs); I designed the workflow, the prompts and the review logic; the code was written with AI assistance  
 
 ### Overview
-Dental radiology requires careful image interpretation, yet learners may not always have access to immediate feedback. I designed **PeriApicaI** as an experimental web prototype to explore whether multimodal AI could support learning from periapical radiographs. Developed from a clinician's perspective with AI-assisted development and prompt design, it provides automated technical-quality feedback and candidate finding annotations for educational review. The output is advisory; the project has not been clinically validated and is not a medical device.
+**PeriApicaI** is an experimental educational prototype for AI-assisted review of periapical radiographs. I designed its workflow, prompts, and review logic; code was written with AI assistance. Output is advisory: the prototype is not clinically validated and is not a medical device.
 
 ### Recognition
 
 **Silver Tier (Top 500), AI Riser Vietnam 2026, for PeriApicaI.** [Certificate of Completion](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf) issued to Nguyen Bao Trung.
 
-### Key Features & Technical Approach
+### Approach
 
-* **Two assessment workflows:** *Film Technical Error Check* covers 11 technical error types (receptor placement, angulation and geometry, exposure and processing; for example cone-cut and vertical elongation), and *Abnormality Detection & Segmentation* provides candidate pathology annotation across the project's defined taxonomy.
-* **Optional dual-model comparison:** Can run Gemini Flash and Gemini Pro in parallel, compare their findings and polygon coordinates, and label agreement or review-required cases.
-* **Validation and provenance:** Backend schemas normalize model output against dental dictionaries, while inference lineage and append-only human-review states keep model output separate from later review decisions.
-* **Reliability controls:** Includes model fallback handling, execution limits, request cancellation with `AbortController`, and bounded recovery logic for transient failures.
+* Provides technical-error checks and candidate abnormality annotations; optional Gemini Flash/Pro comparison supports review.
+* Uses schemas and human-review states to keep model output separate from subsequent decisions.
 
-### Learnings & Future Work
-Developing PeriApicaI gave me hands-on experience with multimodal prompt design, model comparison, schema validation, and human-review workflows. **Future Work:** Evaluate the prototype with an appropriately governed, annotated dataset and independent clinical review before making any claims about performance or clinical use.
+Any performance or clinical-use claim requires evaluation with an appropriately governed, annotated dataset and independent clinical review.

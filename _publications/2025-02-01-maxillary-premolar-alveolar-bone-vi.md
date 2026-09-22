@@ -16,7 +16,7 @@ lang: vi
 **DOI:** [10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172)  
 
 ### Tóm tắt
-Nghiên cứu đánh giá đặc điểm giải phẫu xương ổ răng vùng răng cối nhỏ hàm trên ở người Việt trưởng thành bằng CBCT. Các số đo được báo cáo gồm chiều dày bản xương ngoài và khoảng cách giữa chân răng với xoang hàm, qua đó cho thấy cần lập kế hoạch cẩn thận khi cân nhắc cấy ghép implant tức thì.
+Đánh giá bằng CBCT về hình thái xương ổ vùng răng cối nhỏ hàm trên ở người Việt trưởng thành, gồm chiều dày bản xương ngoài và tương quan chân răng–xoang hàm.
 
 ### Đóng góp
-Đồng tác giả; tham gia trích xuất dữ liệu từ 111 phim CBCT, làm sạch dữ liệu, phân tích thống kê bằng R, soạn thảo bản thảo và chuẩn bị hình minh họa.
+Đồng tác giả: trích xuất dữ liệu từ 111 phim CBCT, làm sạch và phân tích bằng R, soạn thảo và chuẩn bị hình minh hoạ.

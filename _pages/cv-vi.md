@@ -24,36 +24,33 @@ author_profile: true
 ## Kinh nghiệm Lâm sàng & Chuyên môn
 * **Bác sĩ Răng Hàm Mặt (phẫu thuật miệng và implant)** (Tháng 9/2020 – Tháng 7/2026)  
   *Bệnh viện Răng Hàm Mặt và Phẫu thuật Tạo hình Thẩm mỹ Thái Thượng Hoàng, Nghệ An, Việt Nam*  
-  * Khám chẩn đoán, tiểu phẫu trong miệng và phẫu thuật implant tại bệnh viện chuyên khoa.  
-  * Sử dụng ảnh tái cấu trúc CBCT để hỗ trợ đánh giá giải phẫu và lập kế hoạch phẫu thuật.  
-  * Thực hiện nghiên cứu cấp bệnh viện về nhu cầu phẫu thuật chỉnh hình xương hàm theo chỉ số IOFTN.
+  * Khám chẩn đoán, tiểu phẫu trong miệng và phẫu thuật implant.
+  * Sử dụng ảnh tái cấu trúc CBCT để đánh giá giải phẫu, lập kế hoạch phẫu thuật và nghiên cứu nhu cầu phẫu thuật chỉnh hình xương hàm theo chỉ số IOFTN.
 * **Học viên Cao học & Nghiên cứu viên Sau đại học, Bộ môn Chẩn đoán Hình ảnh** (Tháng 9/2023 – Tháng 12/2025)  
   *Đại học Y Dược TP.HCM, Việt Nam*  
-  * Thực hiện nghiên cứu luận văn thạc sĩ về hình thái đường thở trên khảo sát bằng CBCT ở bệnh nhân ngưng thở tắc nghẽn khi ngủ, dưới sự hướng dẫn của TS.BS. Lâm Đại Phong.  
-  * Trích xuất số đo giải phẫu từ 111 phim CBCT cho nghiên cứu hình thái xương ổ răng cối nhỏ hàm trên và phân tích dữ liệu bằng R, Python.  
-  * Chuẩn bị bản thảo, hình minh họa và phản hồi cho quá trình phản biện của các sản phẩm nghiên cứu.  
-  * Hỗ trợ hướng dẫn 5 sinh viên nha khoa về phương pháp nghiên cứu và chẩn đoán hình ảnh răng.
+  * Thực hiện luận văn Thạc sĩ về hình thái đường thở trên CBCT ở người có ngưng thở tắc nghẽn khi ngủ.
+  * Trích xuất số đo từ 111 phim CBCT; phân tích bằng R và Python, chuẩn bị sản phẩm nghiên cứu và hỗ trợ hướng dẫn 5 sinh viên nha khoa.
 
 ## Công bố Khoa học
 1. Ngo, A.D., **Nguyen, B.T.**, Vo, C.H. and Lam, D.P. (2025) 'Anatomical morphology of the maxillary premolar alveolar bone in Vietnamese adults assessed by cone-beam computed tomography', *Vietnam Medical Journal*, 555(3), pp. 303–308. [doi:10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172).
 2. **Nguyen, B.T.**, Vu, T.T.Q., Bui, D.K. and Lam, D.P. (2025) 'Upper airway dimensions on CBCT in Vietnamese subjects with and without obstructive sleep apnea: a case series', *Vietnam Medical Journal*, 553(3), pp. 267–272. [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486).
 
 ## Dự án Nghiên cứu & Giải thưởng
-* **[Hạng Bạc (Top 500), AI Riser Vietnam](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf)** (2026) — cho dự án PeriApicaI.
+* **[Hạng Bạc (Top 500), AI Riser Vietnam 2026](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf)** — cho dự án PeriApicaI.
 * **Kích thước đường thở trên ở người có và không có ngưng thở tắc nghẽn khi ngủ, đánh giá bằng CBCT** (2024 – 2025)  
-  Đề tài nghiên cứu cấp cơ sở do Đại học Y Dược TP.HCM tài trợ (30.000.000 VNĐ). Xây dựng quy trình đo đường thở trên CBCT, thu thập và đo dữ liệu, phân tích thống kê bằng R và Python, và viết bản thảo bài báo (Tạp chí Y học Việt Nam, 2025).
+  Đề tài nghiên cứu cấp cơ sở do Đại học Y Dược TP.HCM tài trợ (30.000.000 VNĐ): xây dựng quy trình đo CBCT, thu thập và đo dữ liệu, phân tích bằng R và Python, và viết bài báo *Tạp chí Y học Việt Nam* năm 2025.
 * **Giải Nhì, Đề tài Nghiên cứu Khoa học Xuất sắc** (2022) — Công ty CP TTH Group (Bệnh viện Thái Thượng Hoàng), cho nghiên cứu về nhu cầu phẫu thuật chỉnh hình xương hàm theo chỉ số IOFTN.
 
 ## Dự án Nghiên cứu & Phần mềm Tiêu biểu
-* **[PeriApicaI](https://periapical.ai.studio)** (phát triển có hỗ trợ AI; Tháng 8/2026): Prototype web thử nghiệm phản hồi có hỗ trợ AI cho hình ảnh cận chóp (Google Gemini API). Có kiểm tra lỗi kỹ thuật phim và phát hiện bất thường, đối chiếu hai mô hình và lưu trạng thái con người rà soát; chưa được thẩm định lâm sàng và không phải thiết bị y tế.
-* **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Tháng 7/2026): Các notebook Python thử nghiệm trên dữ liệu răng 3D đã phân vùng: chuẩn hóa trục bằng PCA, khảo sát giá trị HU dọc trục răng và lập bảng tỷ lệ thân-chân răng.
-* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Tháng 7/2026): Các notebook Python thử nghiệm TotalSegmentator (cấu trúc sọ mặt và răng) và NiBabel để phân vùng dữ liệu NIfTI, tạo hình chiếu 2D và so sánh bằng Dice/IoU.
-* **[Medical Tabular Data Synthesis (CTGAN & ctdGAN)](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Tháng 6/2026): Các notebook thử nghiệm huấn luyện và đánh giá phân phối dữ liệu bằng CTGAN/ctdGAN trên dữ liệu nhân trắc học giả lập. Dự án không chứng minh rằng dữ liệu lâm sàng được bảo vệ riêng tư.
-* **[Luận văn Thạc sĩ: Phân tích Kích thước Đường thở trên Bệnh nhân OSA (R)](/vi/portfolio/portfolio-5-osa-airway-statistics/)** (Tháng 9/2025): Luồng R có tính tái lập để làm sạch, so sánh và trực quan hóa các số đo đường thở trên CBCT ở loạt ca 11 người Việt có và không có OSA.
-* **[Robot vs Monsters (Pygame)](https://github.com/trungnb/Game_project)** (2024): Trò chơi cuối khóa của khóa MOOC Lập trình nâng cao, Đại học Helsinki.
+* **[PeriApicaI](https://periapical.ai.studio)** (phát triển có hỗ trợ AI; Tháng 8/2026): Prototype phản hồi ảnh cận chóp đang thử nghiệm; chưa được thẩm định lâm sàng và không phải thiết bị y tế.
+* **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Tháng 7/2026): Notebook thử nghiệm căn chỉnh PCA, khảo sát HU và tỷ lệ thân-chân răng từ dữ liệu răng 3D đã phân vùng.
+* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Tháng 7/2026): Notebook thử nghiệm TotalSegmentator và NiBabel để phân vùng, tạo hình chiếu và so sánh Dice/IoU.
+* **[Medical Tabular Data Synthesis (CTGAN & ctdGAN)](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Tháng 6/2026): Notebook thử nghiệm trên dữ liệu nhân trắc học giả lập; không bảo đảm riêng tư cho dữ liệu lâm sàng.
+* **[Luận văn Thạc sĩ: Phân tích Kích thước Đường thở trên Bệnh nhân OSA (R)](/vi/portfolio/portfolio-5-osa-airway-statistics/)** (Tháng 9/2025): Luồng R có tính tái lập cho số đo đường thở trên CBCT trong loạt ca 11 người.
+* **[Robot vs Monsters (Pygame)](https://github.com/trungnb/Game_project)** (2024): Dự án cuối khóa MOOC Lập trình nâng cao, Đại học Helsinki.
 
 ## Hỗ trợ hướng dẫn
-* **Hỗ trợ hướng dẫn nghiên cứu lâm sàng cho sinh viên đại học** (2024 – 2025) — Khoa Răng Hàm Mặt, Đại học Y Dược TP.HCM. Hỗ trợ hướng dẫn 5 sinh viên nha khoa về phương pháp luận nghiên cứu chẩn đoán hình ảnh.
+* **Hỗ trợ hướng dẫn nghiên cứu lâm sàng cho sinh viên đại học** (2024 – 2025) — Khoa Răng Hàm Mặt, Đại học Y Dược TP.HCM. Hỗ trợ hướng dẫn 5 sinh viên nha khoa về phương pháp nghiên cứu và chẩn đoán hình ảnh.
 
 ## Chứng chỉ
 * **[Data Analysis with Python](/files/Helsinki_Data_Analysis.png)** (5 ECTS) — Đại học Helsinki, 2025.

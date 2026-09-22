@@ -2,6 +2,8 @@
 
 This repository powers the personal academic website of **Nguyen Bao Trung, MD, MSc** ([trungnb.github.io](https://trungnb.github.io)), built with [AcademicPages](https://academicpages.github.io) and hosted on **GitHub Pages**.
 
+Public copy follows [PUBLIC_PROFILE_COPY_STYLE.md](PUBLIC_PROFILE_COPY_STYLE.md). Its scope is limited to this website and the GitHub profile README.
+
 ---
 
 ## 📂 Repository Structure

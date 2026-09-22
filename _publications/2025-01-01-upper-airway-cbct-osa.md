@@ -16,7 +16,7 @@ citation: '<strong>Nguyen, B.T.</strong>, Vu, T.T.Q., Bui, D.K. and Lam, D.P. (2
 **DOI:** [10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486)  
 
 ### Abstract
-This case series evaluated volumetric and cross-sectional measurements of the upper airway in Vietnamese adults with and without Obstructive Sleep Apnea (OSA) using Cone-Beam Computed Tomography (CBCT).
+CBCT case series of upper-airway volumetric and cross-sectional measurements in Vietnamese adults with and without OSA.
 
 ### Contribution
-First author; contributed to the study design, anatomical measurement protocol, data analysis, manuscript drafting, and coordination of revisions.
+First author: study design, anatomical measurement protocol, data analysis, manuscript drafting, and revisions.

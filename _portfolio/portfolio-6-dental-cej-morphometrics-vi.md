@@ -11,17 +11,8 @@ permalink: /vi/portfolio/portfolio-6-dental-cej-morphometrics/
 **Công nghệ sử dụng:** Python, Jupyter / Google Colab, NiBabel, NumPy, SciPy (`ndimage`), scikit-learn (PCA), Pandas, Matplotlib, Plotly  
 
 ### Tổng quan
-Việc đo đạc 3D thủ công trong nha khoa có thể tốn nhiều thời gian. Để khám phá giải phẫu răng bằng lập trình, mình đã viết các notebook Python thử nghiệm trong Jupyter về căn chỉnh trục giải phẫu, định vị CEJ ở mức thăm dò và tính tỷ lệ thân-chân răng từ dữ liệu NIfTI đã phân vùng. Dự án giúp mình có kinh nghiệm thực tế về thao tác voxel 3D và biến đổi hệ tọa độ.
+Notebook Python proof-of-concept về căn chỉnh trục, định vị CEJ thử nghiệm và tính tỷ lệ thân-chân răng từ dữ liệu NIfTI nha khoa 3D đã phân vùng.
 
-### Động lực thực hiện
-Việc click chuột thủ công trên các mô hình 3D nha khoa để tìm các mốc giải phẫu như Đường nối men-xê măng (CEJ) rất tốn thời gian và phụ thuộc chủ quan vào người đo. Mình thực hiện dự án này nhằm thử nghiệm xem việc tự động căn chỉnh tọa độ và quét tỷ trọng voxel có thể hỗ trợ chuẩn hóa quy trình trích xuất hình thái răng hay không.
-
-### Phương pháp Kỹ thuật
-* Tải và thao tác với các hình ảnh khối 3D (định dạng NIfTI) bằng NiBabel và NumPy.
-* Ứng dụng phép bào mòn nhị phân 3D (Binary Erosion) trên mặt nạ răng để phân tách riêng lớp vỏ ngoài (outer shell voxels).
-* Áp dụng Phân tích thành phần chính (PCA) trên tọa độ 3D của răng để tính toán trục giải phẫu chính và xoay trục dài của răng thẳng đứng theo trục Z qua biến đổi affine.
-* Quét và phân tích biến thiên tỷ trọng Hounsfield Unit (HU) (mean, min, max, std) theo từng lát cắt trục Z để tìm ranh giới chuyển tiếp men-xê măng (CEJ).
-* Xuất bảng tỷ lệ thân-chân răng ra CSV ở các ngưỡng cố định (20 % và 25 %) và ngưỡng động (10–90 %), đồng thời xây dựng công cụ xem lát cắt tương tác và bản đồ nhiệt Plotly của giá trị xám.
-
-### Bài học Rút ra & Hướng phát triển
-Có được hiểu biết nền tảng về thao tác mảng 3D và dữ liệu voxel trong Python. **Hướng phát triển:** Đánh giá tính lặp lại của các số đo thử nghiệm và tìm hiểu khả năng kết hợp với mô hình phân vùng răng tự động.
+### Cách tiếp cận
+* Áp dụng căn chỉnh PCA, bào mòn nhị phân và khảo sát HU dọc trục răng.
+* Xuất bảng tỷ lệ và trực quan hoá tương tác; cần đánh giá tính lặp lại trước khi dùng cho nghiên cứu.

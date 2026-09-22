@@ -16,7 +16,7 @@ lang: vi
 **DOI:** [10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486)  
 
 ### Tóm tắt
-Nghiên cứu dạng loạt ca này đánh giá các số đo thể tích và diện tích cắt ngang của đường thở trên ở người trưởng thành Việt Nam có và không mắc hội chứng Ngưng thở khi ngủ (OSA) thông qua phim CBCT.
+Nghiên cứu loạt ca bằng CBCT về số đo thể tích và diện tích cắt ngang đường thở trên ở người Việt có và không có OSA.
 
 ### Đóng góp
-Tác giả thứ nhất; tham gia thiết kế nghiên cứu, xây dựng quy trình đo giải phẫu, phân tích dữ liệu, viết bản thảo và điều phối các vòng chỉnh sửa.
+Tác giả thứ nhất: thiết kế nghiên cứu, xây dựng quy trình đo, phân tích dữ liệu, viết bản thảo và chỉnh sửa.

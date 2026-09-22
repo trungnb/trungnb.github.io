@@ -11,15 +11,8 @@ date: 2026-06-15
 **Tech Stack:** Python, CTGAN, ctdGAN, SDMetrics, Pandas, NumPy, Scikit-Learn  
 
 ### Overview
-This project contains small exploratory notebooks for learning how CTGAN and ctdGAN can model tabular data. I used mock demographic variables such as age, race, and sex, then compared generated outputs with the input distributions. The experiments are educational and do not establish anonymization or a privacy guarantee for clinical data.
+Exploratory notebooks using CTGAN and ctdGAN with mock demographic data. They support learning about distributional evaluation, not anonymisation or a privacy guarantee for clinical data.
 
-### Motivation
-I became interested in synthetic data because clinical datasets require careful governance and are not always openly shareable. The goal here was to understand the basic workflow and its limitations, not to claim that synthetic data automatically solves privacy risks.
-
-### Technical Approach
-* Used CTGAN and ctdGAN implementations to generate samples from small mock demographic datasets.
-* Compared selected distributions and summary statistics between input and generated data.
-* Used SDMetrics and simple downstream-model checks to explore fidelity and utility; these checks are not a formal privacy audit.
-
-### Key Learnings & Future Work
-Learned the basic concepts of tabular generative models, distributional evaluation, and the difference between synthetic data and proven privacy protection. **Future Work:** Study privacy risk assessment and governance before experimenting with more complex clinical variables.
+### Approach
+* Generated samples and compared selected distributions and summary statistics.
+* Used SDMetrics and simple downstream checks to explore fidelity and utility; these are not a formal privacy audit.

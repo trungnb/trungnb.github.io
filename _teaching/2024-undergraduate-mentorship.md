@@ -10,9 +10,8 @@ date: 2024-01-01
 location: "Ho Chi Minh City, Vietnam"
 ---
 
-Mentored a group of **5 undergraduate dental students** in clinical research methodology, oral radiology interpretation, and CBCT anatomical landmark identification.
+Mentored **5 undergraduate dental students** in research methodology, oral radiology, and CBCT landmark identification.
 
-### Scope of mentoring:
-- Guided students in using 3D CBCT software and viewer tools.
-- Supported data collection, anatomical landmark localization, and verification protocols.
+### Scope
+- Supported CBCT viewing, data collection, and landmark localisation.
 - Provided feedback on scientific writing and statistical interpretation in R.

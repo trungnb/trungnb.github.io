@@ -26,36 +26,33 @@ redirect_from:
 ## Clinical & Professional Experience
 * **Dentist (oral surgery and implantology)** (Sep 2020 – Jul 2026)  
   *Thai Thuong Hoang Hospital of Odonto-Stomatology and Cosmetic Surgery, Nghe An, Vietnam*  
-  * Performed diagnostic evaluations, minor oral surgery and implant surgery in a regional specialty hospital.  
-  * Used CBCT reconstructions to guide anatomical assessment and preoperative surgical planning.  
-  * Conducted hospital-level research on orthognathic surgery treatment need using the IOFTN index.
+  * Performed diagnostic evaluation, minor oral surgery, and implant surgery.
+  * Used CBCT reconstructions for anatomical assessment and surgical planning; conducted hospital research using the IOFTN index.
 * **Master's Candidate & Graduate Researcher, Department of Oral Radiology** (Sep 2023 – Dec 2025)  
   *University of Medicine and Pharmacy at Ho Chi Minh City, Vietnam*  
-  * Conducted Master's thesis research on upper-airway CBCT morphometrics in obstructive sleep apnea under Dr. Lam Dai Phong.  
-  * Extracted anatomical measurements from 111 CBCT scans for a maxillary premolar alveolar bone study and analysed the data in R and Python.  
-  * Prepared manuscripts, publication figures, and reviewer responses across research outputs.  
-  * Mentored 5 undergraduate dental students in research methods and oral radiology.
+  * Conducted MSc thesis research on CBCT upper-airway morphometrics in obstructive sleep apnea.
+  * Extracted measurements from 111 CBCT scans; analysed data in R and Python, prepared research outputs, and mentored 5 undergraduate dental students.
 
 ## Publications
 1. Ngo, A.D., **Nguyen, B.T.**, Vo, C.H. and Lam, D.P. (2025) 'Anatomical morphology of the maxillary premolar alveolar bone in Vietnamese adults assessed by cone-beam computed tomography', *Vietnam Medical Journal*, 555(3), pp. 303–308. [doi:10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172).
 2. **Nguyen, B.T.**, Vu, T.T.Q., Bui, D.K. and Lam, D.P. (2025) 'Upper airway dimensions on CBCT in Vietnamese subjects with and without obstructive sleep apnea: a case series', *Vietnam Medical Journal*, 553(3), pp. 267–272. [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486).
 
 ## Research Projects & Awards
-* **[Silver Tier (Top 500), AI Riser Vietnam](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf)** (2026) — Recognised for PeriApicaI.
+* **[Silver Tier (Top 500), AI Riser Vietnam 2026](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf)** — for PeriApicaI.
 * **Upper airway dimensions in subjects with and without obstructive sleep apnea, assessed by CBCT** (2024 – 2025)  
-  Institution-level research project funded by the University of Medicine and Pharmacy at Ho Chi Minh City (30,000,000 VND). Developed the CBCT airway measurement protocol, collected and measured the data, performed the statistical analysis in R and Python, and drafted the resulting article (Vietnam Medical Journal, 2025).
+  UMP HCMC-funded institution-level project (30,000,000 VND): developed the CBCT measurement protocol, collected and measured data, analysed results in R and Python, and drafted the resulting 2025 *Vietnam Medical Journal* article.
 * **Second Prize, Outstanding Scientific Research Project** (2022) — TTH Group (Thai Thuong Hoang Hospital), for a clinical study on orthognathic surgery treatment need using the IOFTN index.
 
 ## Selected Research & Software Projects
-* **[PeriApicaI](https://periapical.ai.studio)** (AI-assisted development; Aug 2026): An experimental web prototype for AI-assisted feedback on periapical radiographs (Google Gemini API). It offers film technical-error checks and abnormality detection, dual-model comparison, and human-review records; it is not clinically validated or a medical device.
-* **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Jul 2026): Proof-of-concept Python notebooks on segmented 3D tooth data: PCA-based axis normalisation, HU profiling along the tooth axis, and crown/root ratio tables.
-* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Jul 2026): Exploratory Python notebooks using TotalSegmentator (craniofacial structures and teeth) and NiBabel for NIfTI-based segmentation, 2D projections, and Dice/IoU comparison.
-* **[Medical Tabular Data Synthesis (CTGAN & ctdGAN)](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Jun 2026): Exploratory notebooks using mock demographic data to learn CTGAN/ctdGAN training and distributional evaluation. The project does not establish a privacy guarantee for clinical data.
-* **[Master's Thesis: Upper Airway Dimensions in OSA (R Analysis)](/portfolio/portfolio-5-osa-airway-statistics/)** (Sep 2025): Reproducible R workflow for cleaning, comparing, and visualising CBCT-derived upper-airway measurements in a case series of 11 Vietnamese subjects with and without OSA.
-* **[Robot vs Monsters (Pygame)](https://github.com/trungnb/Game_project)** (2024): Course capstone game for the University of Helsinki Advanced Programming MOOC.
+* **[PeriApicaI](https://periapical.ai.studio)** (AI-assisted development; Aug 2026): Experimental prototype for periapical-radiograph feedback; not clinically validated or a medical device.
+* **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Jul 2026): Proof-of-concept notebooks for PCA alignment, HU profiling, and crown-root ratios from segmented 3D tooth data.
+* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Jul 2026): Exploratory notebooks using TotalSegmentator and NiBabel for segmentation, projections, and Dice/IoU comparison.
+* **[Medical Tabular Data Synthesis (CTGAN & ctdGAN)](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Jun 2026): Exploratory notebooks using mock demographic data; not a privacy guarantee for clinical data.
+* **[Master's Thesis: Upper Airway Dimensions in OSA (R Analysis)](/portfolio/portfolio-5-osa-airway-statistics/)** (Sep 2025): Reproducible R workflow for CBCT upper-airway measurements in an 11-subject case series.
+* **[Robot vs Monsters (Pygame)](https://github.com/trungnb/Game_project)** (2024): University of Helsinki Advanced Programming MOOC capstone.
 
 ## Mentoring
-* **Undergraduate Clinical Research Mentor** (2024 – 2025) — Faculty of Dentistry, UMP HCMC. Mentored 5 dental students in radiology research methodology.
+* **Undergraduate Clinical Research Mentor** (2024 – 2025) — Faculty of Dentistry, UMP HCMC. Mentored 5 dental students in research methods and oral radiology.
 
 ## Certifications
 * **[Data Analysis with Python](/files/Helsinki_Data_Analysis.png)** (5 ECTS) — University of Helsinki, 2025.

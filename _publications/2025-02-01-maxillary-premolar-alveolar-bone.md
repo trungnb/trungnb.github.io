@@ -16,7 +16,7 @@ citation: 'Ngo, A.D., <strong>Nguyen, B.T.</strong>, Vo, C.H. and Lam, D.P. (202
 **DOI:** [10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172)  
 
 ### Abstract
-This study assessed the anatomical features of the alveolar bone in the maxillary premolar region in Vietnamese adults using CBCT. The reported measurements included buccal bone thickness and root proximity to the maxillary sinus, with implications for careful planning of immediate implant placement.
+CBCT assessment of maxillary premolar alveolar-bone morphology in Vietnamese adults, including buccal bone thickness and root proximity to the maxillary sinus.
 
 ### Contribution
-Co-author; contributed to data extraction from 111 CBCT scans, data cleaning, statistical analysis in R, manuscript drafting, and illustration preparation.
+Co-author: extracted data from 111 CBCT scans, cleaned and analysed data in R, drafted text, and prepared illustrations.

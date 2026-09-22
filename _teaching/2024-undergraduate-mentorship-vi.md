@@ -10,9 +10,8 @@ location: "TP. Hồ Chí Minh, Việt Nam"
 lang: vi
 ---
 
-Hỗ trợ hướng dẫn một nhóm gồm **5 sinh viên nha khoa (hệ đại học)** về phương pháp nghiên cứu lâm sàng, đọc hình ảnh nha khoa và xác định các mốc giải phẫu trên phim CBCT.
+Hỗ trợ hướng dẫn **5 sinh viên nha khoa hệ đại học** về phương pháp nghiên cứu, chẩn đoán hình ảnh răng và xác định mốc giải phẫu trên CBCT.
 
-### Phạm vi hỗ trợ hướng dẫn:
-- Hướng dẫn sinh viên sử dụng phần mềm và công cụ xem CBCT 3D.
-- Hỗ trợ quy trình thu thập dữ liệu, xác định mốc giải phẫu và kiểm chứng.
-- Góp ý về viết khoa học và diễn giải các phân tích thống kê bằng R.
+### Phạm vi hỗ trợ
+- Hỗ trợ xem CBCT 3D, thu thập dữ liệu và xác định mốc giải phẫu.
+- Góp ý về viết khoa học và diễn giải thống kê bằng R.
