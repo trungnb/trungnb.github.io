@@ -9,7 +9,10 @@
     var links = document.querySelectorAll("a[href]");
     for (var i = 0; i < links.length; i++) {
       var href = links[i].getAttribute("href");
-      if (href && href.charAt(0) !== "#" && !links[i].hasAttribute("download")) {
+      var external = links[i].origin !== window.location.origin;
+      var documentLink = /^\/files\//.test(links[i].pathname) ||
+        /\.(pdf|docx?|xlsx?|csv|pptx?|png|jpe?g|webp)$/i.test(links[i].pathname);
+      if (href && (external || documentLink) && !links[i].hasAttribute("download")) {
         links[i].target = "_blank";
         links[i].relList.add("noopener", "noreferrer");
       }
