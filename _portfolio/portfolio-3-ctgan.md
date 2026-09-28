@@ -1,6 +1,6 @@
 ---
 title: "Tabular Synthetic Data with CTGAN & ctdGAN"
-excerpt: "Two-stage ANSUR II benchmark: original fidelity-plus-utility experiments followed by an AI-assisted methodological redesign.<br/><img src='https://img.shields.io/badge/Tech-CTGAN_%7C_ctdGAN_%7C_Python-green'>"
+excerpt: "Two-stage ANSUR II benchmark: original fidelity-plus-utility experiments followed by an AI-assisted methodological redesign."
 collection: portfolio
 lang: en
 translation_key: portfolio-3-ctgan
