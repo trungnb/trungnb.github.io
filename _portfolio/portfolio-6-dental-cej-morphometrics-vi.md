@@ -1,6 +1,6 @@
 ---
 title: "Hình thái Thân–Chân răng — Prototype Thử nghiệm"
-excerpt: "Prototype CT hai ca dùng profile cường độ lớp vỏ ngoài để suy ra proxy thử nghiệm cho vùng chuyển tiếp thân–chân răng.<br/><img src='https://img.shields.io/badge/Tech-Python_%7C_Morphometrics-blue'>"
+excerpt: "Prototype CT hai ca dùng profile cường độ lớp vỏ ngoài để suy ra proxy thử nghiệm cho vùng chuyển tiếp thân–chân răng."
 collection: portfolio
 translation_key: portfolio-6-dental-cej-morphometrics
 date: 2026-07-28
