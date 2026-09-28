@@ -1,8 +1,8 @@
-# Academic Website & Portfolio — Nguyen Bao Trung, MD, MSc
+# Academic Website and Research Portfolio — Nguyen Bao Trung, MD, MSc
 
-This repository powers the personal academic website of **Nguyen Bao Trung, MD, MSc** ([trungnb.github.io](https://trungnb.github.io)), built with [AcademicPages](https://academicpages.github.io) and hosted on **GitHub Pages**.
+This repository contains the source for the bilingual academic website and research portfolio of **Nguyen Bao Trung, MD, MSc** ([trungnb.github.io](https://trungnb.github.io)). It is built with [AcademicPages](https://academicpages.github.io) and published on **GitHub Pages**.
 
-Public copy follows [PUBLIC_PROFILE_COPY_STYLE.md](PUBLIC_PROFILE_COPY_STYLE.md). Its scope is limited to this website and the GitHub profile README.
+Public-facing text follows [PUBLIC_PROFILE_COPY_STYLE.md](PUBLIC_PROFILE_COPY_STYLE.md), which applies only to this website and the GitHub profile README.
 
 ---
 
@@ -17,7 +17,7 @@ Public copy follows [PUBLIC_PROFILE_COPY_STYLE.md](PUBLIC_PROFILE_COPY_STYLE.md)
 * **`_publications/`**: Markdown files for each peer-reviewed publication or manuscript.
 * **`_portfolio/`**: Markdown files for applied AI projects, platforms (e.g., *PeriApicaI*), and software.
 * **`_teaching/`**: Markdown files for mentorship and academic supervision activities.
-* **`files/`**: Place downloadable PDFs here (e.g., full CV PDF, paper preprints).
+* **`files/`**: Downloadable supporting files, such as certificates and course materials.
 * **`images/`**: Site icons, favicons, and profile pictures (`profile.jpg`).
 
 ## 🌐 Bilingual Content Convention
@@ -27,7 +27,7 @@ English and Vietnamese pages are maintained as explicit pairs:
 * English content uses `lang: en`; Vietnamese content uses `lang: vi`.
 * Each pair shares the same `translation_key` and has matching URL structure under `/` and `/vi/`.
 * Collection entries should keep the same date in both languages so the index pages remain newest-first.
-* New pages and collection entries should be added in both languages, with `lang`, `translation_key`, `permalink`, and localized UI labels set in the front matter where needed.
+* New pages and collection entries should be added in both languages, with `lang`, `translation_key`, `permalink`, and localised UI labels set in the front matter where needed.
 
 The language switcher uses `translation_key` to open the equivalent page. If a translation is not available yet, it falls back to the corresponding language homepage.
 
@@ -35,7 +35,7 @@ The language switcher uses `translation_key` to open the equivalent page. If a t
 
 ## 📸 How to Update Your Profile Photo (Avatar)
 
-1. Save your portrait photo as **`profile.jpg`** (or `.png`).
+1. Save your portrait photo as **`profile.jpg`**.
 2. Put it into the **`images/`** folder (replacing `images/profile.jpg`).
 3. *(Alternative)*: If you put your image inside **`files/bio.jpg`**, update the `avatar` entry under `author:` in `_config.yml`:
    ```yaml
@@ -48,15 +48,15 @@ The language switcher uses `translation_key` to open the equivalent page. If a t
 
 ## 📝 How to Add a New Publication
 
-Create a new file in `_publications/` (e.g., `2026-06-01-new-paper-title.md`):
+Create an English file in `_publications/` (e.g., `2026-06-01-new-paper-title.md`) and a matching Vietnamese file (e.g., `2026-06-01-new-paper-title-vi.md`). Use the same `translation_key` and `date` in both files, set `lang: en` and `lang: vi` respectively, and use the appropriate permalink for each language. Translate the Vietnamese page title, excerpt, and abstract; keep the formal publication citation unchanged.
 ```yaml
 ---
-title: "Your Paper Title Here"
+title: "Use the official paper title"
 collection: publications
 lang: en
 translation_key: new-paper-title
 permalink: /publication/2026-06-01-new-paper-title
-excerpt: "Short 1-2 sentence summary of findings."
+excerpt: "A one- or two-sentence summary of the paper."
 date: 2026-06-01
 venue: 'Journal Name'
 paperurl: 'https://doi.org/your-doi-link'
@@ -71,4 +71,4 @@ Abstract text goes here...
 
 ## 🚀 Deployment
 
-Any commit pushed to the `main` branch will automatically trigger GitHub Pages to build and deploy the live site in ~1 minute.
+Changes pushed to the `main` branch trigger GitHub Pages to rebuild and publish the site. Build and deployment time can vary.
