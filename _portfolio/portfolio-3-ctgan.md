@@ -1,18 +1,18 @@
 ---
-title: "Medical Tabular Data Synthesis (CTGAN & ctdGAN)"
-excerpt: "Exploratory CTGAN and ctdGAN notebooks using mock demographic data.<br/><img src='https://img.shields.io/badge/Tech-CTGAN_%7C_ctdGAN_%7C_Python-green'>"
+title: "Tabular Synthetic Data with CTGAN & ctdGAN"
+excerpt: "Two-stage ANSUR II benchmark: original fidelity-plus-utility experiments followed by an AI-assisted methodological redesign.<br/><img src='https://img.shields.io/badge/Tech-CTGAN_%7C_ctdGAN_%7C_Python-green'>"
 collection: portfolio
 lang: en
 translation_key: portfolio-3-ctgan
 date: 2026-06-15
 ---
 
-**Project Repository (Google Drive):** [View Notebooks & Data](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)  
-**Tech Stack:** Python, CTGAN, ctdGAN, SDMetrics, Pandas, NumPy, Scikit-Learn  
+**Project Repository (GitHub):** [Medical-CTGAN-Synthesis](https://github.com/trungnb/Medical-CTGAN-Synthesis)  
+**Tech Stack:** Python, CTGAN, ctdGAN, SDMetrics, Scikit-Learn, XGBoost, GitHub Actions  
 
 ### Overview
-Exploratory notebooks using CTGAN and ctdGAN with mock demographic data. They support learning about distributional evaluation, not anonymisation or a privacy guarantee for clinical data.
+Two-stage project using the ANSUR II anthropometric dataset (n=6,068). V1 contains my original experiments combining statistical fidelity with downstream predictive utility; V2 is an AI-assisted redesign focused on fairer comparison, reproducibility, and multi-seed benchmarking.
 
 ### Approach
-* Generated samples and compared selected distributions and summary statistics.
-* Used SDMetrics and simple downstream checks to explore fidelity and utility; these are not a formal privacy audit.
+* Evaluated CTGAN and ctdGAN with distributional quality metrics and TRTR/TSTR utility across multiple downstream classifiers and targets.
+* Reworked the benchmark with a fixed real-data split, train-only feature selection, matched generator settings, five seeds, confidence intervals, baselines, and automated GitHub Actions; this is an anthropometric benchmark, not a clinical or privacy-validation study.

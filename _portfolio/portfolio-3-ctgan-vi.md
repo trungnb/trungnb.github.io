@@ -1,18 +1,18 @@
 ---
-title: "Tổng hợp Dữ liệu Y tế Dạng bảng"
-excerpt: "Các notebook CTGAN và ctdGAN thử nghiệm trên dữ liệu nhân trắc học giả lập.<br/><img src='https://img.shields.io/badge/Tech-CTGAN_%7C_ctdGAN_%7C_Python-green'>"
+title: "Dữ liệu Dạng bảng Tổng hợp với CTGAN & ctdGAN"
+excerpt: "Benchmark ANSUR II hai giai đoạn: thử nghiệm fidelity–utility ban đầu và bản thiết kế phương pháp được cải tiến với hỗ trợ AI.<br/><img src='https://img.shields.io/badge/Tech-CTGAN_%7C_ctdGAN_%7C_Python-green'>"
 collection: portfolio
 translation_key: portfolio-3-ctgan
 date: 2026-06-15
 lang: vi
 permalink: /vi/portfolio/portfolio-3-ctgan/
 ---
-**Kho lưu trữ dự án (Google Drive):** [Xem Notebook & Dữ liệu](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)  
-**Công nghệ sử dụng:** Python, CTGAN, ctdGAN, SDMetrics, Pandas, NumPy, Scikit-Learn  
+**Kho lưu trữ dự án (GitHub):** [Medical-CTGAN-Synthesis](https://github.com/trungnb/Medical-CTGAN-Synthesis)  
+**Công nghệ sử dụng:** Python, CTGAN, ctdGAN, SDMetrics, Scikit-Learn, XGBoost, GitHub Actions  
 
 ### Tổng quan
-Notebook thử nghiệm CTGAN và ctdGAN trên dữ liệu nhân trắc học giả lập. Dự án phục vụ học cách đánh giá phân phối, không chứng minh khả năng ẩn danh hay bảo đảm riêng tư cho dữ liệu lâm sàng.
+Dự án hai giai đoạn trên bộ dữ liệu nhân trắc học ANSUR II (n=6.068). V1 gồm các thử nghiệm ban đầu của tôi kết hợp độ tương đồng thống kê với tính hữu ích dự đoán; V2 là bản thiết kế lại có hỗ trợ AI, tập trung vào so sánh công bằng hơn, khả năng tái lập và benchmark nhiều seed.
 
 ### Cách tiếp cận
-* Tạo mẫu và so sánh một số phân phối, thống kê tóm tắt giữa dữ liệu đầu vào và dữ liệu được tạo ra.
-* Dùng SDMetrics và kiểm tra mô hình hạ nguồn đơn giản để tìm hiểu độ trung thực và tính hữu ích; đây không phải kiểm toán riêng tư chính thức.
+* Đánh giá CTGAN và ctdGAN bằng các chỉ số chất lượng phân phối cùng TRTR/TSTR trên nhiều mô hình hạ nguồn và biến đích.
+* Thiết kế lại benchmark với chia dữ liệu thực cố định, chọn đặc trưng chỉ trên tập huấn luyện, cấu hình generator tương ứng, năm seed, khoảng tin cậy, baseline và GitHub Actions; đây là benchmark nhân trắc học, không phải nghiên cứu lâm sàng hay thẩm định riêng tư.
