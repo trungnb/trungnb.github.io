@@ -1,6 +1,6 @@
 ---
 title: "Prototype 3D-to-2D Craniofacial Shape Analysis"
-excerpt: "Two-CBCT proof-of-concept testing compact multi-view craniofacial projections for potential forensic identification workflows.<br/><img src='https://img.shields.io/badge/Tech-TotalSegmentator_%7C_NiBabel_%7C_Python-purple'>"
+excerpt: "Two-CBCT proof-of-concept testing compact multi-view craniofacial projections for potential forensic identification workflows."
 collection: portfolio
 lang: en
 translation_key: portfolio-2-3d-pipeline
