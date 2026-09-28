@@ -2,41 +2,16 @@
 layout: archive
 lang: vi
 translation_key: publications_index
-title: "Công bố Khoa học"
+title: "Công bố"
 permalink: /vi/publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">Bạn cũng có thể xem các bài báo của tôi trên <a href="{{site.author.googlescholar}}">hồ sơ Google Scholar</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
 {% assign sorted_publications = site.publications | sort: 'date' | reverse %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in sorted_publications %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% if post.lang == 'vi' %}
-      {% include archive-single.html %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in sorted_publications %}
-    {% if post.lang == 'vi' %}
-      {% include archive-single.html %}
-      {% endif %}
-  {% endfor %}
-{% endif %}
-
+{% for post in sorted_publications %}
+  {% if post.lang == 'vi' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}

@@ -10,58 +10,50 @@ author_profile: true
 {% include base_path %}
 
 ## Học vấn
-* **Thạc sĩ Răng Hàm Mặt** (2023 – 2025)  
-  *Đại học Y Dược TP.HCM (UMP HCMC), Việt Nam*  
-  * **Điểm trung bình các học phần:** 7,82 / 10 | **Điểm đề tài:** 8,2 / 10  
-  * **Luận văn:** *"Khảo sát kích thước đường hô hấp trên ở người có và không có ngưng thở tắc nghẽn khi ngủ bằng phần mềm phân tích phim cắt lớp vi tính chùm tia hình nón"* (Cán bộ hướng dẫn: TS.BS. Lâm Đại Phong).
-* **Chứng chỉ đào tạo liên tục chuyên ngành Hàm Mặt** (Tháng 11/2020 – Tháng 5/2021)  
-  *Bệnh viện Quân y 103, Học viện Quân y, Hà Nội, Việt Nam*  
-  * 1.000 tiết học.
-* **Bác sĩ Răng Hàm Mặt** (2014 – 2020)  
-  *Trường Đại học Y Dược, Đại học Huế, Việt Nam*  
-  * **Điểm trung bình toàn khóa:** 7,27 / 10 (Khá).
-
-## Kinh nghiệm Lâm sàng & Chuyên môn
-* **Bác sĩ Răng Hàm Mặt (phẫu thuật miệng và implant)** (Tháng 9/2020 – Tháng 7/2026)  
-  *Bệnh viện Răng Hàm Mặt và Phẫu thuật Tạo hình Thẩm mỹ Thái Thượng Hoàng, Nghệ An, Việt Nam*  
-  * Khám chẩn đoán, tiểu phẫu trong miệng và phẫu thuật implant.
-  * Sử dụng ảnh tái cấu trúc CBCT để đánh giá giải phẫu, lập kế hoạch phẫu thuật và nghiên cứu nhu cầu phẫu thuật chỉnh hình xương hàm theo chỉ số IOFTN.
-* **Học viên Cao học & Nghiên cứu viên Sau đại học, Bộ môn Chẩn đoán Hình ảnh** (Tháng 9/2023 – Tháng 12/2025)  
+* **Thạc sĩ Răng Hàm Mặt** (2023–2025)  
   *Đại học Y Dược TP.HCM, Việt Nam*  
-  * Thực hiện luận văn Thạc sĩ về hình thái đường thở trên CBCT ở người có ngưng thở tắc nghẽn khi ngủ.
-  * Trích xuất số đo từ 111 phim CBCT; phân tích bằng R và Python, chuẩn bị sản phẩm nghiên cứu và hỗ trợ hướng dẫn 5 sinh viên nha khoa.
+  * Điểm trung bình học phần: 7,82/10 | Điểm bảo vệ luận văn: 8,2/10  
+  * Luận văn: *Khảo sát kích thước đường hô hấp trên ở người có và không có ngưng thở tắc nghẽn khi ngủ bằng phần mềm phân tích phim cắt lớp vi tính chùm tia hình nón* (Cán bộ hướng dẫn: TS.BS. Lâm Đại Phong).
+* **Chứng chỉ đào tạo liên tục chuyên ngành Hàm Mặt** (11/2020–05/2021)  
+  *Bệnh viện Quân y 103, Học viện Quân y, Hà Nội* — 1.000 tiết học.
+* **Bác sĩ Răng Hàm Mặt** (2014–2020)  
+  *Trường Đại học Y Dược, Đại học Huế* — điểm trung bình 7,27/10.
 
-## Công bố Khoa học
+## Kinh nghiệm lâm sàng và nghiên cứu
+* **Bác sĩ Răng Hàm Mặt — phẫu thuật miệng và implant** (09/2020–07/2026)  
+  *Bệnh viện Răng Hàm Mặt và Phẫu thuật Tạo hình Thẩm mỹ Thái Thượng Hoàng, Nghệ An*  
+  * Khám chẩn đoán, tiểu phẫu trong miệng và phẫu thuật implant.
+  * Sử dụng CBCT để đánh giá giải phẫu, lập kế hoạch phẫu thuật và thực hiện nghiên cứu tại bệnh viện với chỉ số IOFTN.
+* **Học viên Cao học và Nghiên cứu viên Sau đại học, Bộ môn Chẩn đoán Hình ảnh** (09/2023–12/2025)  
+  *Đại học Y Dược TP.HCM*  
+  * Thực hiện luận văn Thạc sĩ về hình thái đường thở trên CBCT trong loạt ca 11 người có và không có ngưng thở tắc nghẽn khi ngủ.
+  * Tham gia một nghiên cứu riêng về hình thái vùng răng cối nhỏ hàm trên với số đo từ 111 phim CBCT; phân tích dữ liệu bằng R và Python và hỗ trợ năm sinh viên nha khoa.
+
+## Công bố khoa học
 1. Ngo, A.D., **Nguyen, B.T.**, Vo, C.H. and Lam, D.P. (2025) 'Anatomical morphology of the maxillary premolar alveolar bone in Vietnamese adults assessed by cone-beam computed tomography', *Vietnam Medical Journal*, 555(3), pp. 303–308. [doi:10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172).
 2. **Nguyen, B.T.**, Vu, T.T.Q., Bui, D.K. and Lam, D.P. (2025) 'Upper airway dimensions on CBCT in Vietnamese subjects with and without obstructive sleep apnea: a case series', *Vietnam Medical Journal*, 553(3), pp. 267–272. [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486).
 
-## Dự án Nghiên cứu & Giải thưởng
-* **[Hạng Bạc (Top 500), AI Riser Vietnam 2026](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf)** — cho dự án PeriApicaI.
-* **Kích thước đường thở trên ở người có và không có ngưng thở tắc nghẽn khi ngủ, đánh giá bằng CBCT** (2024 – 2025)  
-  Đề tài nghiên cứu cấp cơ sở do Đại học Y Dược TP.HCM tài trợ (30.000.000 VNĐ): xây dựng quy trình đo CBCT, thu thập và đo dữ liệu, phân tích bằng R và Python, và viết bài báo *Tạp chí Y học Việt Nam* năm 2025.
-* **Giải Nhì, Đề tài Nghiên cứu Khoa học Xuất sắc** (2022) — Công ty CP TTH Group (Bệnh viện Thái Thượng Hoàng), cho nghiên cứu về nhu cầu phẫu thuật chỉnh hình xương hàm theo chỉ số IOFTN.
+## Dự án nghiên cứu và giải thưởng
+* **[Hạng Bạc (Top 500), AI Riser Vietnam 2026](/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf)** — PeriApicaI.
+* **Kích thước đường thở trên ở người có và không có ngưng thở tắc nghẽn khi ngủ, đánh giá bằng CBCT** (2024–2025) — đề tài cấp cơ sở do Đại học Y Dược TP.HCM tài trợ (30.000.000 VNĐ); xây dựng quy trình đo, thu thập và phân tích dữ liệu, và soạn bài báo năm 2025.
+* **Giải Nhì, Đề tài Nghiên cứu Khoa học Xuất sắc** (2022) — TTH Group, cho nghiên cứu nhu cầu phẫu thuật chỉnh hình xương hàm bằng chỉ số IOFTN.
 
-## Dự án Nghiên cứu & Phần mềm Tiêu biểu
-* **[PeriApicaI](https://periapical.ai.studio)** (phát triển có hỗ trợ AI; Tháng 8/2026): Prototype phản hồi ảnh cận chóp đang thử nghiệm; chưa được thẩm định lâm sàng và không phải thiết bị y tế.
-* **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)** (Tháng 7/2026): Notebook thử nghiệm căn chỉnh PCA, khảo sát HU và tỷ lệ thân-chân răng từ dữ liệu răng 3D đã phân vùng.
-* **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)** (Tháng 7/2026): Notebook thử nghiệm TotalSegmentator và NiBabel để phân vùng, tạo hình chiếu và so sánh Dice/IoU.
-* **[Medical Tabular Data Synthesis (CTGAN & ctdGAN)](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)** (Tháng 6/2026): Notebook thử nghiệm trên dữ liệu nhân trắc học giả lập; không bảo đảm riêng tư cho dữ liệu lâm sàng.
-* **[Luận văn Thạc sĩ: Phân tích Kích thước Đường thở trên Bệnh nhân OSA (R)](/vi/portfolio/portfolio-5-osa-airway-statistics/)** (Tháng 9/2025): Luồng R có tính tái lập cho số đo đường thở trên CBCT trong loạt ca 11 người.
-* **[Robot vs Monsters (Pygame)](https://github.com/trungnb/Game_project)** (2024): Dự án cuối khóa MOOC Lập trình nâng cao, Đại học Helsinki.
+## Dự án nghiên cứu và phần mềm tiêu biểu
+* **[PeriApicaI](https://periapical.ai.studio)** (08/2026): Prototype hỗ trợ phản hồi ảnh cận chóp bằng AI; chưa được thẩm định lâm sàng và không phải thiết bị y tế.
+* **[Hình thái vùng chuyển tiếp thân–chân răng](https://github.com/trungnb/Dental-CEJ-Morphometrics)** (07/2026): Prototype CT hai ca dùng profile cường độ lớp vỏ ngoài để suy ra proxy thử nghiệm cho vùng chuyển tiếp thân–chân răng.
+* **[Phân tích hình dạng sọ mặt 3D-to-2D](https://github.com/trungnb/3D-Craniofacial-Pipeline)** (07/2026): Proof-of-concept hai CBCT, so sánh hình chiếu đa hướng với mask 3D để khảo sát tính lặp lại và chi phí tính toán.
+* **[Dữ liệu bảng tổng hợp với CTGAN và ctdGAN](https://github.com/trungnb/Medical-CTGAN-Synthesis)** (06/2026): Benchmark ANSUR II (n=6.068), kết hợp fidelity và utility hạ nguồn, sau đó được thiết kế lại theo benchmark nhiều seed có hỗ trợ AI.
+* **[Luận văn Thạc sĩ: Phân tích đường thở trên ở OSA bằng R](/vi/portfolio/portfolio-5-osa-airway-statistics/)** (2025): Luồng R có tính tái lập cho loạt ca CBCT 11 người.
 
-## Hỗ trợ hướng dẫn
-* **Hỗ trợ hướng dẫn nghiên cứu lâm sàng cho sinh viên đại học** (2024 – 2025) — Khoa Răng Hàm Mặt, Đại học Y Dược TP.HCM. Hỗ trợ hướng dẫn 5 sinh viên nha khoa về phương pháp nghiên cứu và chẩn đoán hình ảnh.
-
-## Chứng chỉ
-* **[Data Analysis with Python](/files/Helsinki_Data_Analysis.png)** (5 ECTS) — Đại học Helsinki, 2025.
-* **[Writing in the Sciences](/files/Stanford_Writing_in_the_Sciences.pdf)** — Stanford Online, 2025.
+## Đào tạo chọn lọc
+* **Data Analysis with Python** (5 ECTS) — Đại học Helsinki, 2025.
+* **Writing in the Sciences** — Stanford Online, 2025.
 * **Introduction to Computer Science and Programming Using Python (6.00.1x)** — MITx, 2024.
-* **[Advanced Course in Programming](/files/Helsinki_Advanced_Programming.png)** (5 ECTS) — Đại học Helsinki, 2024.
-* **Introduction to Programming** (5 ECTS) — Đại học Helsinki, 2024.
+* **Advanced Course in Programming** (5 ECTS) — Đại học Helsinki, 2024.
 
 ## Kỹ năng
-* **Lâm sàng & hình ảnh:** Lập kế hoạch phẫu thuật dựa trên CBCT và chẩn đoán hình ảnh răng hàm mặt; phân tích đường thở CBCT (Romexis Viewer, OnDemand3D, DTX Studio); 3D Slicer.
-* **Phân tích dữ liệu (mức làm việc):** R (`dplyr`, `ggplot2`; Wilcoxon, Fisher, Cliff's delta, ROC, ICC) và Python (`pandas`, `scikit-learn`) áp dụng cho dữ liệu nghiên cứu của mình; SQL cơ bản.
-* **Đang thử nghiệm:** phân đoạn ảnh y khoa (TotalSegmentator) và dữ liệu bảng tổng hợp (CTGAN).
-* **Ngoại ngữ:** Tiếng Việt (Bản xứ), Tiếng Anh (IELTS Academic 7.5: Nghe 8.5, Đọc 9.0, Viết 6.5, Nói 6.0).
-* **Chứng chỉ hành nghề:** Bác sĩ Răng Hàm Mặt (Việt Nam).
+* **Lâm sàng và hình ảnh:** lập kế hoạch phẫu thuật dựa trên CBCT; phân tích đường thở bằng Romexis Viewer, OnDemand3D và DTX Studio; 3D Slicer.
+* **Phân tích dữ liệu:** sử dụng R (`dplyr`, `ggplot2`; Wilcoxon, Fisher, Cliff's delta, ROC, ICC) và Python (`pandas`, `scikit-learn`) ở mức làm việc; SQL cơ bản.
+* **Phương pháp thử nghiệm:** phân đoạn ảnh y khoa với TotalSegmentator và dữ liệu bảng tổng hợp với CTGAN.
+* **Ngoại ngữ:** Tiếng Việt (bản ngữ); Tiếng Anh (IELTS Academic 7.5: Nghe 8.5, Đọc 9.0, Viết 6.5, Nói 6.0).
+* **Chứng chỉ hành nghề:** Bác sĩ Răng Hàm Mặt, Việt Nam.
