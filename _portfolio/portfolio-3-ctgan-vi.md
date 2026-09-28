@@ -1,6 +1,6 @@
 ---
 title: "Dữ liệu Dạng bảng Tổng hợp với CTGAN & ctdGAN"
-excerpt: "Benchmark ANSUR II hai giai đoạn: thử nghiệm fidelity–utility ban đầu và bản thiết kế phương pháp được cải tiến với hỗ trợ AI.<br/><img src='https://img.shields.io/badge/Tech-CTGAN_%7C_ctdGAN_%7C_Python-green'>"
+excerpt: "Benchmark ANSUR II hai giai đoạn: thử nghiệm fidelity–utility ban đầu và bản thiết kế phương pháp được cải tiến với hỗ trợ AI."
 collection: portfolio
 translation_key: portfolio-3-ctgan
 date: 2026-06-15
