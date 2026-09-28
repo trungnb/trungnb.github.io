@@ -1,6 +1,6 @@
 ---
 title: "Crown–Root Transition Morphometrics — Exploratory Prototype"
-excerpt: "Two-case CT prototype using outer-shell intensity profiles to derive an exploratory crown–root transition proxy.<br/><img src='https://img.shields.io/badge/Tech-Python_%7C_Morphometrics-blue'>"
+excerpt: "Two-case CT prototype using outer-shell intensity profiles to derive an exploratory crown–root transition proxy."
 collection: portfolio
 lang: en
 translation_key: portfolio-6-dental-cej-morphometrics
