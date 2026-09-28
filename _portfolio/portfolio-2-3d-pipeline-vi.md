@@ -1,6 +1,6 @@
 ---
 title: "Prototype Phân tích Hình dạng Sọ mặt 3D-to-2D"
-excerpt: "Proof-of-concept trên hai CBCT, khảo sát hình chiếu sọ mặt đa hướng gọn nhẹ cho quy trình định danh pháp y tiềm năng.<br/><img src='https://img.shields.io/badge/Tech-TotalSegmentator_%7C_NiBabel_%7C_Python-purple'>"
+excerpt: "Proof-of-concept trên hai CBCT, khảo sát hình chiếu sọ mặt đa hướng gọn nhẹ cho quy trình định danh pháp y tiềm năng."
 collection: portfolio
 translation_key: portfolio-2-3d-pipeline
 date: 2026-07-17
