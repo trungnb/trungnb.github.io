@@ -1,6 +1,6 @@
 ---
 title: "Prototype 3D-to-2D Craniofacial Shape Analysis"
-excerpt: "Two-CBCT proof-of-concept testing compact multi-view craniofacial projections for potential forensic identification workflows."
+excerpt: "Two-CBCT proof-of-concept exploring compact multi-view craniofacial projections for potential forensic identification workflows."
 collection: portfolio
 lang: en
 translation_key: portfolio-2-3d-pipeline
@@ -11,8 +11,8 @@ date: 2026-07-17
 **Tech Stack:** Python, TotalSegmentator, NiBabel, NumPy, Pandas  
 
 ### Overview
-Two-CBCT proof-of-concept comparing compact 2D projections of segmented craniofacial anatomy with the corresponding 3D masks. The saved prototype runs test computational repeatability, comparison time, storage, and exploratory between-case overlap.
+Two-CBCT proof-of-concept comparing compact 2D projections of segmented craniofacial anatomy with the corresponding 3D masks. The saved runs examine same-scan computational repeatability, comparison time, stored output size, and exploratory between-case overlap.
 
 ### Approach
-* Segmented craniofacial structures, projected each mask into axial, coronal, and sagittal views, and compared 2D versus 3D outputs using timing, storage, Dice, and IoU.
-* Found highly consistent repeated projections from the same scan and lower saved comparison cost for 2D outputs; with only two cases, this does not establish identification accuracy or clinical validity.
+* Segmented craniofacial structures and created maximum projections along the axial, coronal, and sagittal axes, then compared 2D and 3D outputs using timing, storage, Dice, and IoU.
+* Repeated projections from the same scan were highly consistent and saved 2D comparisons were cheaper; with only two cases, this does not establish identification accuracy or clinical validity.

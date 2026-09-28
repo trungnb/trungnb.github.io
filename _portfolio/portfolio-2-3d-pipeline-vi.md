@@ -11,8 +11,8 @@ permalink: /vi/portfolio/portfolio-2-3d-pipeline/
 **Công nghệ sử dụng:** Python, TotalSegmentator, NiBabel, NumPy, Pandas  
 
 ### Tổng quan
-Proof-of-concept trên hai CBCT, so sánh các hình chiếu 2D gọn nhẹ của cấu trúc sọ mặt đã phân vùng với mask 3D tương ứng. Các lần chạy đã lưu được dùng để khảo sát tính lặp lại tính toán, thời gian so sánh, dung lượng lưu trữ và độ chồng lấp giữa hai ca.
+Proof-of-concept trên hai CBCT, so sánh các hình chiếu 2D gọn nhẹ của cấu trúc sọ mặt đã phân vùng với mask 3D tương ứng. Các lần chạy đã lưu khảo sát tính lặp lại tính toán trên cùng scan, thời gian so sánh, dung lượng đầu ra và độ chồng lấp giữa hai ca.
 
 ### Cách tiếp cận
-* Phân vùng cấu trúc sọ mặt, chiếu từng mask theo ba hướng axial, coronal và sagittal, rồi so sánh đầu ra 2D với 3D bằng thời gian, dung lượng, Dice và IoU.
-* Các hình chiếu lặp lại từ cùng một scan có độ nhất quán cao và đầu ra 2D có chi phí so sánh đã lưu thấp hơn; với chỉ hai ca, kết quả chưa chứng minh độ chính xác định danh hay giá trị lâm sàng.
+* Phân vùng cấu trúc sọ mặt và tạo hình chiếu cực đại theo ba trục axial, coronal và sagittal, sau đó so sánh đầu ra 2D với 3D bằng thời gian, dung lượng, Dice và IoU.
+* Các hình chiếu lặp lại từ cùng một scan có độ nhất quán cao và phép so sánh 2D đã lưu có chi phí thấp hơn; với chỉ hai ca, kết quả chưa chứng minh độ chính xác định danh hay giá trị lâm sàng.

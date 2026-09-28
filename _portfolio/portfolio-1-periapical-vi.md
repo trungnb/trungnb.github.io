@@ -1,6 +1,6 @@
 ---
 title: "PeriApicaI: Prototype AI cho Chẩn đoán Hình ảnh Nha khoa"
-excerpt: "Prototype web thử nghiệm dùng Gemini Vision để hỗ trợ rà soát hình ảnh cận chóp."
+excerpt: "Prototype web thử nghiệm dùng các mô hình Gemini đa phương thức để hỗ trợ rà soát hình ảnh cận chóp."
 collection: portfolio
 translation_key: portfolio-1-periapical
 date: 2026-08-01
@@ -19,7 +19,7 @@ permalink: /vi/portfolio/portfolio-1-periapical/
 
 ### Cách tiếp cận
 
-* Có kiểm tra lỗi kỹ thuật phim và gợi ý vùng bất thường; có thể đối chiếu Gemini Flash và Gemini Pro để hỗ trợ rà soát.
-* Dùng schema và trạng thái rà soát để tách đầu ra mô hình khỏi quyết định của người dùng.
+* Hỗ trợ đánh giá chất lượng kỹ thuật và các vùng bệnh lý nghi ngờ; suy luận Gemini một hoặc hai mô hình lưu provenance, với consensus tổng hợp ở chế độ hai mô hình.
+* Dùng schema có cấu trúc và trạng thái rà soát của con người để tách đầu ra mô hình khỏi quyết định tiếp theo.
 
 Mọi kết luận về hiệu năng hoặc ứng dụng lâm sàng cần được đánh giá trên dữ liệu có quản trị phù hợp, gán nhãn và rà soát độc lập.

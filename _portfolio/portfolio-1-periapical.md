@@ -1,6 +1,6 @@
 ---
 title: "PeriApicaI: AI-Assisted Dental Radiology Prototype"
-excerpt: "Experimental web prototype using Gemini Vision models for AI-assisted review of periapical radiographs."
+excerpt: "Experimental web prototype using multimodal Gemini models for AI-assisted review of periapical radiographs."
 collection: portfolio
 lang: en
 translation_key: portfolio-1-periapical
@@ -19,7 +19,7 @@ date: 2026-08-01
 
 ### Approach
 
-* Provides technical-error checks and candidate abnormality annotations; optional Gemini Flash/Pro comparison supports review.
-* Uses schemas and human-review states to keep model output separate from subsequent decisions.
+* Supports technical-quality assessment and candidate pathology overlays; single- or dual-model Gemini inference records model provenance, with synthesised consensus in dual mode.
+* Uses structured schemas and human-review states to keep model output separate from subsequent decisions.
 
 Any performance or clinical-use claim requires evaluation with an appropriately governed, annotated dataset and independent clinical review.

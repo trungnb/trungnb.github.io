@@ -14,5 +14,5 @@ date: 2026-07-28
 Two-case CT prototype exploring whether outer-shell tooth intensity profiles can identify an intensity-derived crown–root transition proxy. It does not establish anatomical CEJ localisation or validated crown–root morphometry.
 
 ### Approach
-* Aligned tooth masks by principal axes, sampled an outer shell, summarised slice-wise intensity profiles, and applied a heuristic transition search to generate exploratory crown–root ratios.
-* Preserved failure cases rather than filtering them; the method has no manual CEJ reference, inter-rater assessment, external validation, or population-level performance estimate.
+* Aligned tooth masks by principal axes, sampled a three-voxel outer shell, summarised slice-wise intensity profiles, and used a heuristic transition search to derive an exploratory (crown + transition)/root-extent ratio.
+* Historical PCA used voxel-index coordinates; there is no anatomical CEJ reference, inter-rater assessment, external validation, or population-level performance estimate.

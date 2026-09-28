@@ -14,5 +14,5 @@ permalink: /vi/portfolio/portfolio-6-dental-cej-morphometrics/
 Prototype CT trên hai ca, khảo sát liệu profile cường độ ở lớp vỏ ngoài của răng có thể xác định một proxy dựa trên cường độ cho vùng chuyển tiếp thân–chân răng hay không. Phương pháp này không xác lập vị trí CEJ giải phẫu và chưa phải phép đo hình thái đã được thẩm định.
 
 ### Cách tiếp cận
-* Căn chỉnh mask răng theo các trục chính, lấy mẫu lớp vỏ ngoài, tóm tắt profile cường độ theo từng lát và áp dụng heuristic để tạo tỷ lệ thân–chân răng thử nghiệm.
-* Giữ lại các ca thất bại thay vì loại bỏ; phương pháp chưa có mốc CEJ thủ công, đánh giá giữa người đo, thẩm định ngoài hay ước lượng hiệu năng ở mức quần thể.
+* Căn chỉnh mask răng theo các trục chính, lấy mẫu lớp vỏ ngoài dày ba voxel, tóm tắt profile cường độ theo từng lát và dùng heuristic để suy ra tỷ lệ thử nghiệm (thân + vùng chuyển tiếp)/độ dài chân răng.
+* PCA lịch sử dùng tọa độ chỉ số voxel; phương pháp chưa có mốc CEJ giải phẫu, đánh giá giữa người đo, thẩm định ngoài hay ước lượng hiệu năng ở mức quần thể.
