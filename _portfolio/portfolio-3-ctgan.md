@@ -1,5 +1,5 @@
 ---
-title: "Tabular Synthetic Data with CTGAN & ctdGAN"
+title: "ANSUR II Synthetic-Data Benchmark with CTGAN & ctdGAN"
 excerpt: "Two-stage ANSUR II benchmark: original fidelity-plus-utility experiments followed by an AI-assisted methodological redesign."
 collection: portfolio
 lang: en
@@ -7,7 +7,7 @@ translation_key: portfolio-3-ctgan
 date: 2026-06-15
 ---
 
-**Project Repository (GitHub):** [Medical-CTGAN-Synthesis](https://github.com/trungnb/Medical-CTGAN-Synthesis)  
+**Project Repository (GitHub):** [ANSUR-II-CTGAN-Benchmark](https://github.com/trungnb/Medical-CTGAN-Synthesis)  
 **Tech Stack:** Python, CTGAN, ctdGAN, SDMetrics, Scikit-Learn, XGBoost, GitHub Actions  
 
 ### Overview

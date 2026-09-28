@@ -42,7 +42,7 @@ author_profile: true
 * **[PeriApicaI](https://periapical.ai.studio)** (08/2026): Prototype hỗ trợ phản hồi ảnh cận chóp bằng AI; chưa được thẩm định lâm sàng và không phải thiết bị y tế.
 * **[Hình thái vùng chuyển tiếp thân–chân răng](https://github.com/trungnb/Dental-CEJ-Morphometrics)** (07/2026): Prototype CT hai ca dùng profile cường độ lớp vỏ ngoài để suy ra proxy thử nghiệm cho vùng chuyển tiếp thân–chân răng.
 * **[Phân tích hình dạng sọ mặt 3D-to-2D](https://github.com/trungnb/3D-Craniofacial-Pipeline)** (07/2026): Proof-of-concept hai CBCT, so sánh hình chiếu đa hướng với mask 3D để khảo sát tính lặp lại và chi phí tính toán.
-* **[Dữ liệu bảng tổng hợp với CTGAN và ctdGAN](https://github.com/trungnb/Medical-CTGAN-Synthesis)** (06/2026): Benchmark ANSUR II (n=6.068), kết hợp fidelity và utility hạ nguồn, sau đó được thiết kế lại theo benchmark nhiều seed có hỗ trợ AI.
+* **[Benchmark dữ liệu tổng hợp ANSUR II với CTGAN và ctdGAN](https://github.com/trungnb/Medical-CTGAN-Synthesis)** (06/2026): Benchmark ANSUR II (n=6.068), kết hợp fidelity và utility hạ nguồn, sau đó được thiết kế lại theo benchmark nhiều seed có hỗ trợ AI.
 * **[Luận văn Thạc sĩ: Phân tích đường thở trên ở OSA bằng R](/vi/portfolio/portfolio-5-osa-airway-statistics/)** (2025): Luồng R có tính tái lập cho loạt ca CBCT 11 người.
 
 ## Đào tạo chọn lọc

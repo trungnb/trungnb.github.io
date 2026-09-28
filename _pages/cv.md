@@ -44,7 +44,7 @@ redirect_from:
 * **[PeriApicaI](https://periapical.ai.studio)** (Aug 2026): Experimental AI-assisted prototype for periapical-radiograph feedback; not clinically validated or a medical device.
 * **[Crown–Root Transition Morphometrics](https://github.com/trungnb/Dental-CEJ-Morphometrics)** (Jul 2026): Two-case CT prototype using outer-shell intensity profiles to derive an exploratory crown–root transition proxy.
 * **[3D-to-2D Craniofacial Shape Analysis](https://github.com/trungnb/3D-Craniofacial-Pipeline)** (Jul 2026): Two-CBCT proof-of-concept comparing compact multi-view projections with 3D masks for repeatability and computational-cost checks.
-* **[Tabular Synthetic Data with CTGAN and ctdGAN](https://github.com/trungnb/Medical-CTGAN-Synthesis)** (Jun 2026): ANSUR II benchmark (n=6,068) combining fidelity and downstream utility, followed by an AI-assisted multi-seed methodological redesign.
+* **[ANSUR II Synthetic-Data Benchmark with CTGAN and ctdGAN](https://github.com/trungnb/Medical-CTGAN-Synthesis)** (Jun 2026): ANSUR II benchmark (n=6,068) combining fidelity and downstream utility, followed by an AI-assisted multi-seed methodological redesign.
 * **[Master's Thesis: Upper Airway Dimensions in OSA (R Analysis)](/portfolio/portfolio-5-osa-airway-statistics/)** (2025): Reproducible R workflow for an 11-subject CBCT case series.
 
 ## Selected training

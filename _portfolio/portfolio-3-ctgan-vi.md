@@ -1,5 +1,5 @@
 ---
-title: "Dữ liệu Dạng bảng Tổng hợp với CTGAN & ctdGAN"
+title: "Benchmark Dữ liệu Tổng hợp ANSUR II với CTGAN & ctdGAN"
 excerpt: "Benchmark ANSUR II hai giai đoạn: thử nghiệm fidelity–utility ban đầu và bản thiết kế phương pháp được cải tiến với hỗ trợ AI."
 collection: portfolio
 translation_key: portfolio-3-ctgan
@@ -7,7 +7,7 @@ date: 2026-06-15
 lang: vi
 permalink: /vi/portfolio/portfolio-3-ctgan/
 ---
-**Kho lưu trữ dự án (GitHub):** [Medical-CTGAN-Synthesis](https://github.com/trungnb/Medical-CTGAN-Synthesis)  
+**Kho lưu trữ dự án (GitHub):** [ANSUR-II-CTGAN-Benchmark](https://github.com/trungnb/Medical-CTGAN-Synthesis)  
 **Công nghệ sử dụng:** Python, CTGAN, ctdGAN, SDMetrics, Scikit-Learn, XGBoost, GitHub Actions  
 
 ### Tổng quan
