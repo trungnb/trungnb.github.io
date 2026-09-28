@@ -1,6 +1,6 @@
 ---
 title: "PeriApicaI: Prototype AI cho Chẩn đoán Hình ảnh Nha khoa"
-excerpt: "Prototype web thử nghiệm dùng Gemini Vision để hỗ trợ rà soát hình ảnh cận chóp.<br/><img src='https://img.shields.io/badge/Prototype-periapical.ai.studio-blue'> <img src='https://img.shields.io/badge/Methodology-AI--assisted_development_%26_prompt_design-purple'>"
+excerpt: "Prototype web thử nghiệm dùng Gemini Vision để hỗ trợ rà soát hình ảnh cận chóp."
 collection: portfolio
 translation_key: portfolio-1-periapical
 date: 2026-08-01
