@@ -7,7 +7,7 @@ date: 2026-06-15
 lang: vi
 permalink: /vi/portfolio/portfolio-3-ctgan/
 ---
-**Kho lưu trữ dự án (GitHub):** [ANSUR-II-CTGAN-Benchmark](https://github.com/trungnb/Medical-CTGAN-Synthesis)  
+**Kho lưu trữ dự án (GitHub):** [ANSUR-II-CTGAN-Benchmark](https://github.com/trungnb/ANSUR-II-CTGAN-Benchmark)  
 **Công nghệ sử dụng:** Python, CTGAN, ctdGAN, SDMetrics, Scikit-Learn, XGBoost, GitHub Actions  
 
 ### Tổng quan

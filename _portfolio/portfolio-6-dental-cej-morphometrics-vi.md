@@ -7,7 +7,7 @@ date: 2026-07-28
 lang: vi
 permalink: /vi/portfolio/portfolio-6-dental-cej-morphometrics/
 ---
-**Kho lưu trữ dự án (GitHub):** [Crown-Root-Transition-Morphometrics](https://github.com/trungnb/Dental-CEJ-Morphometrics)  
+**Kho lưu trữ dự án (GitHub):** [Crown-Root-Transition-Morphometrics](https://github.com/trungnb/Crown-Root-Transition-Morphometrics)  
 **Công nghệ sử dụng:** Python, NiBabel, NumPy, SciPy, scikit-learn (PCA), Pandas  
 
 ### Tổng quan

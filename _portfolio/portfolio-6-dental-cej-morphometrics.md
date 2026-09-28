@@ -7,7 +7,7 @@ translation_key: portfolio-6-dental-cej-morphometrics
 date: 2026-07-28
 ---
 
-**Project Repository (GitHub):** [Crown-Root-Transition-Morphometrics](https://github.com/trungnb/Dental-CEJ-Morphometrics)  
+**Project Repository (GitHub):** [Crown-Root-Transition-Morphometrics](https://github.com/trungnb/Crown-Root-Transition-Morphometrics)  
 **Tech Stack:** Python, NiBabel, NumPy, SciPy, scikit-learn (PCA), Pandas  
 
 ### Overview

@@ -7,7 +7,7 @@ translation_key: portfolio-3-ctgan
 date: 2026-06-15
 ---
 
-**Project Repository (GitHub):** [ANSUR-II-CTGAN-Benchmark](https://github.com/trungnb/Medical-CTGAN-Synthesis)  
+**Project Repository (GitHub):** [ANSUR-II-CTGAN-Benchmark](https://github.com/trungnb/ANSUR-II-CTGAN-Benchmark)  
 **Tech Stack:** Python, CTGAN, ctdGAN, SDMetrics, Scikit-Learn, XGBoost, GitHub Actions  
 
 ### Overview
